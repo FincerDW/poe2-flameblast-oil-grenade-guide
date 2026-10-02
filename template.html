@@ -27,6 +27,8 @@ body{font-family:var(--sans);font-weight:400}.hero h1{font-weight:400;line-heigh
 @media print{.hero-game-strip,.font-controls,.asset-credits{display:none}.equipment-gallery{grid-template-columns:repeat(6,minmax(0,1fr))}.equipment-figure{background:white}.equipment-figure figcaption{color:#333}.game-icon{print-color-adjust:exact}.chip{display:inline-flex}.asset-credits{break-inside:auto}.license-text{max-height:none;color:#333;background:white}}
 
 __TOOLTIP_STYLE__
+__PASSIVE_STYLE__
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 </style>
 </head>
 <body>
@@ -40,6 +42,13 @@ __TOOLTIP_STYLE__
 <section id="overview-content"><div class="section-heading"><div class="section-rule"></div><h2 data-label="overview"></h2><p data-label="overviewLead"></p></div><div class="overview-grid" id="overview-grid"></div></section>
 <section id="mechanics"><div class="section-heading"><div class="section-rule"></div><h2 data-label="mechanics"></h2><p data-label="mechanicsLead"></p></div><div class="mechanism-flow"><div class="flow-step"><span class="flow-label" data-label="flow1"></span><strong id="flow-flame"></strong><p data-label="flowDesc1"></p></div><div class="flow-arrow" aria-hidden="true">›</div><div class="flow-step"><span class="flow-label" data-label="flow2"></span><strong id="flow-oil"></strong><p data-label="flowDesc2"></p></div><div class="flow-arrow" aria-hidden="true">›</div><div class="flow-step"><span class="flow-label" data-label="flow3"></span><strong id="flow-dodge"></strong><p data-label="flowDesc3"></p></div></div><div class="mechanism-detail" id="mechanism-detail"></div></section>
 <section id="stages"><div class="section-heading"><div class="section-rule"></div><h2 data-label="stages"></h2><p data-label="stagesLead"></p></div><div class="stage-tabs" id="stage-tabs" role="tablist" aria-label="养成阶段"></div><div id="stage-panel" role="tabpanel" tabindex="0"></div></section>
+<section id="passive-tree"><div class="section-heading"><div class="section-rule"></div><h2 data-label="treeTitle"></h2><p data-label="treeLead"></p></div>
+<div class="tree-panel"><div class="tree-topline"><div><small>FUBGUN · 0.5.5</small><h3 id="tree-stage-title"></h3></div><div class="tree-counts" id="tree-counts"></div></div>
+<div class="tree-toolbar"><select id="tree-stage"></select><select id="tree-filter"></select><span class="tree-spacer"></span><span class="tree-language"><button type="button" id="tree-cn" aria-pressed="true">简</button><button type="button" id="tree-tw" aria-pressed="false">繁</button></span><button type="button" data-tree-view="main" data-label="treeMainView" aria-pressed="true"></button><button type="button" data-tree-view="asc" data-label="treeAscView" aria-pressed="false"></button><button type="button" id="tree-fit" data-label="treeFit"></button><button type="button" id="tree-whole" data-label="treeWhole"></button><button type="button" id="tree-expand" data-label="treeExpand" aria-expanded="false"></button></div>
+<div class="tree-layout"><div class="tree-surface"><div class="tree-watermark" data-label="treeMap"></div><canvas id="passive-canvas" tabindex="0" role="img"></canvas><div class="tree-hover" id="tree-hover" hidden></div><div class="tree-zoom-controls"><button type="button" id="tree-out" aria-label="缩小天赋树">−</button><output id="tree-zoom">20%</output><button type="button" id="tree-in" aria-label="放大天赋树">+</button></div></div>
+<aside class="tree-sidebar"><div class="tree-detail" id="tree-detail"></div><div class="tree-searchbox"><input id="tree-search" type="search" autocomplete="off"><p id="tree-result-count"></p></div><div id="tree-results" class="tree-results"></div></aside></div>
+<div class="tree-legend"><span style="--legend:#d7b878" data-label="treeShared"></span><span style="--legend:#eb9871" data-label="treeSet1"></span><span style="--legend:#75bec9" data-label="treeSet2"></span><span style="--legend:#35434b" data-label="treeUnallocated"></span></div><div class="tree-help" data-label="treeHelp"></div><span class="sr-only" id="tree-status" aria-live="polite"></span></div>
+<details class="tree-source"><summary data-label="treeSourceTitle"></summary><p data-label="treeSourceNote"></p><p data-label="treeCountNote"></p><p><a href="https://github.com/poe2-tools/poe2-build-planner" target="_blank" rel="noopener" data-label="treePlanner"></a> · <a href="https://poe2db.tw/tw/" target="_blank" rel="noopener" data-label="treeDatabase"></a></p><details><summary data-label="treeLicense"></summary><pre>__PASSIVE_LICENSE__</pre></details></details></section>
 <section id="swap"><div class="section-heading"><div class="section-rule"></div><h2 data-label="swap"></h2><p data-label="swapLead"></p></div><div class="checklist" id="swap-checklist"></div><div class="check-toolbar"><span id="swap-count"></span><button type="button" id="reset-checks" data-label="resetChecks"></button></div><p class="note" id="swap-note"></p></section>
 <section id="gear"><div class="section-heading"><div class="section-rule"></div><h2 data-label="gear"></h2><p data-label="gearLead"></p></div><div class="gear-list" id="gear-list"></div></section>
 <section id="ascendancy"><div class="section-heading"><div class="section-rule"></div><h2 data-label="ascendancy"></h2><p data-label="ascendancyLead"></p></div><div class="ascension" id="ascension"></div><ul class="tree-notes" id="tree-notes"></ul></section>
@@ -53,6 +62,7 @@ __TOOLTIP_STYLE__
 <noscript><p style="margin:30px;padding:20px;border:1px solid #d7b878">本攻略需要启用浏览器 JavaScript，以显示九阶段内容和简繁切换；所有代码与资料均已内嵌，无须联网。</p></noscript>
 <script>
 'use strict';
+const PASSIVE=__PASSIVE_DATA__;
 const GUIDE=__GUIDE_DATA__;
 const TERMS=__TERMS__;
 const POB=__POB__;
@@ -82,13 +92,13 @@ function categoryImage(kind){const item=ASSETS.gear[6].find(x=>x.kind===kind);re
 function term(en,icon=false){const t=TERMS[en];return t?`${icon?gameImage(en,'term-art'):''}<a class="term" href="${esc(t.url)}" target="_blank" rel="noopener" ${tipAttrs(TOOLTIPS.names[en])}>${esc(t[language])}</a>`:esc(en)}
 function rich(text){return esc(text).replace(/\[\[([^\]]+)\]\]/g,(_,en)=>term(en.replace(/&#39;/g,"'").replace(/&amp;/g,'&')))}
 function prose(row){return `<article class="prose"><h3>${esc(row.title)}</h3>${row.text.map(p=>`<p>${rich(p)}</p>`).join('')}</article>`}
-function renderStage(){hideTip();const s=c().stages[currentStage];
+function renderStage(){hideTip();passiveTree.refresh();const s=c().stages[currentStage];
  $('stage-tabs').innerHTML=c().stages.map((s,i)=>`<button type="button" role="tab" id="stage-tab-${i}" aria-controls="stage-panel" aria-selected="${i===currentStage}" tabindex="${i===currentStage?0:-1}" data-stage="${i}" class="${i===currentStage?'selected':''}">${esc(s.label)}</button>`).join('');
  $('stage-panel').setAttribute('aria-labelledby','stage-tab-'+currentStage);
  $('stage-panel').innerHTML=`<div class="stage-header"><div><small>${esc(s.subtitle)}</small><h3>${esc(s.name)}</h3><p>${rich(s.summary)}</p></div><div class="stage-symbol" aria-hidden="true">${currentStage<3?'⚒':'✧'}</div></div><div class="stage-notes">${s.notes.map(prose).join('')}</div><div class="stage-artwork"><h4>${label('stageArt')}</h4><p class="fineprint">${label('stageArtNote')}</p><div class="equipment-gallery">${ASSETS.gear[currentStage].map(item=>`<figure class="equipment-figure">${imageId(item.image,'equipment-art',item.tooltip)}<figcaption>${TERMS[item.name]?term(item.name):label('slot_'+item.kind)}${item.set?' · '+label('set'+item.set):''}<small>${esc(item.name)}</small></figcaption></figure>`).join('')}</div></div><div class="skill-heading"><h3>${label('skills')}</h3><div class="attributes"><span>${label('supportAttr')}</span><span>${label('strength')}<b>${s.attributes[0]}</b></span><span>${label('dexterity')}<b>${s.attributes[1]}</b></span><span>${label('intelligence')}<b>${s.attributes[2]}</b></span></div></div><p class="fineprint">${label('supportAttrNote')}</p><table class="skill-table"><thead><tr><th>${label('skillName')}</th><th>${label('supports')}</th></tr></thead><tbody>${s.skills.map(g=>{
  const badge=g.placeholder?label('placeholder'):currentStage>=3?(g.name==='Flameblast'?label('set1'):g.name==='Oil Grenade'?label('set2'):label('tool')):'';
  return `<tr class="${g.placeholder?'placeholder-row':''}"><td><div class="skill-main">${gameImage(g.name,'skill-art')}<div>${term(g.name)}<div class="skill-en">${esc(g.name)}${g.level?' · Lv. '+g.level:''}</div>${badge?`<span class="skill-badge">${badge}</span>`:''}</div></div></td><td><div class="support-chips">${g.supports.length?g.supports.map(en=>`<span class="chip">${gameImage(en,'support-art')}<span class="chip-text">${term(en)}<small>${esc(en)}</small></span></span>`).join(''):`<span class="fineprint">${label('noSupports')}</span>`}</div></td></tr>`
- }).join('')}</tbody></table><p class="fineprint">${label('precisionNote')}</p><a class="planner-link" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)} · ${label('treeLink')}</a>`;
+ }).join('')}</tbody></table><p class="fineprint">${label('precisionNote')}</p><a class="planner-link" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)} · ${label('treeLink')}</a><a class="planner-link" href="#passive-tree">${label('treeTitle')} ↓</a>`;
 }
 function renderChecks(){ $('swap-checklist').innerHTML=c().swapItems.map(([id,title,desc])=>`<label class="check-item"><input type="checkbox" data-check="${id}" ${checks[id]?'checked':''}><span><strong>${esc(title)}</strong><p>${rich(desc)}</p></span></label>`).join(''); updateCheckCount();}
 function updateCheckCount(){$('swap-count').textContent=label('checked')+' '+c().swapItems.filter(([id])=>checks[id]).length+' / '+c().swapItems.length;}
@@ -117,6 +127,7 @@ $('local-font').addEventListener('change',async e=>{const file=e.target.files[0]
 $('font-reset').addEventListener('click',()=>{for(const key of ['--serif','--sans'])document.documentElement.style.removeProperty(key);if(importedFont){document.fonts.delete(importedFont);importedFont=null;}$('local-font').value='';$('font-status').textContent=label('fontDefault');});
 
 __TOOLTIP_SCRIPT__
+__PASSIVE_SCRIPT__
 render();
 </script>
 </body>

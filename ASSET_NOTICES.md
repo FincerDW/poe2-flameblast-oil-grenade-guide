@@ -17,3 +17,11 @@
 页面页尾提供授权全文、IPA 原始字体官方入口，以及选择本地 IPA 字体即时替换的功能。WOFF2 为原字体的网页格式转换，未更改字形。
 
 本项目不以统一授权重新许可上述第三方攻略、素材或字体；相应权利与原有授权保持归属原提供方。
+
+## 开源天赋树与配点
+
+地图数据与图集来自 [poe2-tools/poe2-build-planner](https://github.com/poe2-tools/poe2-build-planner)，固定提交 `a173f7b0d398951693fee83ee5ee40f327d4a749` 的 `Skill Trees/0.5.2/`。`research/passive-tree.json` 为该数据的精简快照，保留主树与古灵军团；`assets/passive/` 保存原始节点、边框、佣兵背景图集。
+
+该项目的源代码采用 MIT 许可证。本项目的 Canvas 实现参考其图集索引、连线圆弧与显示层级约定。原始 [MIT 许可证及游戏数据说明](assets/passive/LICENSE-planner.txt) 同时内嵌在生成的 HTML 中；开源源代码许可不改变 Grinding Gear Games 对游戏美术和数据的权利。
+
+九阶段配点来自 Fubgun 原攻略的 `.build` 导出，按共用、武器组 1、武器组 2 保存于 `research/passive-stages.json`。中文节点名称和效果参考编年史的对应公开条目；未直接匹配的说明使用其术语翻译，数值保留地图的 0.5.2 快照。来源与中文说明保存在 `research/passive-translations.json`。

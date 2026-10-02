@@ -32,8 +32,11 @@ jobs:
           import re
           from pathlib import Path
           page = Path('_site/index.html').read_text(encoding='utf-8')
-          assert not re.search(r'__(?:TOOLTIP|GUIDE|ASSETS|TERMS)[A-Z_]*__', page)
+          assert not re.search(r'__(?:TOOLTIP|GUIDE|ASSETS|TERMS|PASSIVE)[A-Z_]*__', page)
           assert 'const TOOLTIPS=' in page
+          assert 'const PASSIVE=' in page
+          assert 'id="passive-canvas"' in page
+          assert 'data:image/webp;base64,' in page
           assert 'data:font/woff2;base64,' in page
           Path('/tmp/guide.js').write_text(re.search(r'<script>(.*?)</script>', page, re.S)[1], encoding='utf-8')
           PY

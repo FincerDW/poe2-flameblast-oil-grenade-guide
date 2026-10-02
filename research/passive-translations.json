@@ -1,0 +1,706 @@
+{
+  "terms": {
+    "Adrenaline Rush": {
+      "tw": "腎上腺素",
+      "url": "https://poe2db.tw/tw/Adrenaline_Rush",
+      "stats": [
+        "若你近期有擊殺，增加4%移動速度",
+        "若你近期有擊殺，增加8%攻擊速度"
+      ]
+    },
+    "Advanced Thaumaturgy": {
+      "tw": "進階奇術",
+      "url": "https://poe2db.tw/tw/Advanced_Thaumaturgy",
+      "stats": [
+        "寶石品質會賦予插槽中的技能一個額外效果"
+      ]
+    },
+    "Arsonist": {
+      "tw": "縱火者",
+      "url": "https://poe2db.tw/tw/Arsonist",
+      "stats": [
+        "加快18%你造成的點燃造成傷害的速度"
+      ]
+    },
+    "Authority": {
+      "tw": "權威",
+      "url": "https://poe2db.tw/tw/Authority",
+      "stats": [
+        "攻擊增加15%範圍效果",
+        "增加10%冷卻時間恢復率"
+      ]
+    },
+    "Battle-hardened": {
+      "tw": "固守戰場",
+      "url": "https://poe2db.tw/tw/Battle-hardened",
+      "stats": [
+        "對你的擊中減少20%暴擊傷害加成",
+        "增加20%護甲值和閃避值",
+        "+5點力量與敏捷"
+      ]
+    },
+    "Burnout": {
+      "tw": "燃盡",
+      "url": "https://poe2db.tw/tw/Burnout",
+      "stats": [
+        "加快15%你造成的點燃造成傷害的速度"
+      ]
+    },
+    "Catapult": {
+      "tw": "投石車",
+      "url": "https://poe2db.tw/tw/Catapult",
+      "stats": [
+        "增加15%投射物速度",
+        "攻擊增加12%範圍效果"
+      ]
+    },
+    "Cirel of Tarth's Light": {
+      "tw": "塔斯的西瑞爾之光",
+      "url": "https://poe2db.tw/tw/Cirel_of_Tarths_Light",
+      "stats": [
+        "+10%的護甲值也會套用至元素傷害",
+        "能量護盾開始充能速度加快10%",
+        "增加10%照亮範圍",
+        "增加10%命中值",
+        "增加10%範圍效果"
+      ]
+    },
+    "Cluster Bombs": {
+      "tw": "團簇炸彈",
+      "url": "https://poe2db.tw/tw/Cluster_Bombs",
+      "stats": [
+        "增加50%擲彈引爆時間",
+        "擲彈技能發射額外1個投射物"
+      ]
+    },
+    "Colossal Weapon": {
+      "tw": "巨無霸武器",
+      "url": "https://poe2db.tw/tw/Colossal_Weapon",
+      "stats": [
+        "攻擊增加12%範圍效果",
+        "+10力量"
+      ]
+    },
+    "Crushing Judgement": {
+      "tw": "粉碎審判",
+      "url": "https://poe2db.tw/tw/Crushing_Judgement",
+      "stats": [
+        "增加25%護甲破壞持續時間",
+        "增加25%攻擊範圍傷害"
+      ]
+    },
+    "Curved Weapon": {
+      "tw": "彎曲武器",
+      "url": "https://poe2db.tw/tw/Curved_Weapon",
+      "stats": [
+        "增加15%命中值",
+        "+10敏捷"
+      ]
+    },
+    "Demolitionist": {
+      "tw": "破壞者",
+      "url": "https://poe2db.tw/tw/Demolitionist",
+      "stats": [
+        "過去8秒內每發射1種不同的擲彈，\n獲得等同於傷害4%的額外火焰傷害"
+      ]
+    },
+    "Deterioration": {
+      "tw": "惡化",
+      "url": "https://poe2db.tw/tw/Deterioration",
+      "stats": [
+        "當你已經帶有傷害型異常狀態時，你無法再被造成一次",
+        "增加20%你所施加之傷害型異常狀態的幅度"
+      ]
+    },
+    "Distracting Presence": {
+      "tw": "擾亂光環",
+      "url": "https://poe2db.tw/tw/Distracting_Presence",
+      "stats": [
+        "增加10%冷卻時間恢復率",
+        "減少10%處於你的存在範圍中的敵人冷卻時間恢復率"
+      ]
+    },
+    "Engineered Blaze": {
+      "tw": "工匠之焰",
+      "url": "https://poe2db.tw/tw/Engineered_Blaze",
+      "stats": [
+        "你過去8秒內每點燃一名敵人，增加4%攻擊範圍效果，最多40%"
+      ]
+    },
+    "Essence of Virtue": {
+      "tw": "結晶美德",
+      "url": "https://poe2db.tw/tw/Essence_of_Virtue",
+      "stats": [
+        "賦予技能: 高尚禦盾",
+        "base maximum number of gemling barrier stacks [3]"
+      ]
+    },
+    "Fast Acting Toxins": {
+      "tw": "速效毒素",
+      "url": "https://poe2db.tw/tw/Fast_Acting_Toxins",
+      "stats": [
+        "傷害型異常狀態造成傷害加速12%"
+      ]
+    },
+    "Flamekeeper": {
+      "tw": "烈焰看守者",
+      "url": "https://poe2db.tw/tw/Flamekeeper",
+      "stats": [
+        "增加20%火焰傷害",
+        "增加15%點燃幅度",
+        "減少30%你身上的點燃效果"
+      ]
+    },
+    "Fulmination": {
+      "tw": "劇烈爆發",
+      "url": "https://poe2db.tw/tw/Fulmination",
+      "stats": [
+        "增加80%易燃幅度",
+        "擊中對點燃敵人增加40%傷害"
+      ]
+    },
+    "Gem Enthusiast": {
+      "tw": "寶石愛好者",
+      "url": "https://poe2db.tw/tw/Gem_Enthusiast",
+      "stats": [
+        "若你插槽中的有至少10顆紅色輔助寶石，增加5%最大生命",
+        "若你插槽中的有至少10顆藍色輔助寶石，增加5%最大魔力",
+        "若你插槽中的有至少10顆綠色輔助寶石，增加5%移動速度"
+      ]
+    },
+    "Gem Studded": {
+      "tw": "鑲嵌的寶石",
+      "url": "https://poe2db.tw/tw/Gem_Studded",
+      "stats": [
+        "依據插槽中的輔助寶石最多顆的顏色，會獲得\n•紅色：對你的擊中傷害無暴擊傷害加成\n•藍色：技能有30%更少消耗\n•綠色：移動時使用技能會有40%更少移動速度懲罰"
+      ]
+    },
+    "Giantslayer": {
+      "tw": "泰坦殺手",
+      "url": "https://poe2db.tw/tw/Giantslayer",
+      "stats": [
+        "擊中對稀有和傳奇增加25%傷害",
+        "增加20%對稀有或傳奇敵人的命中值",
+        "增加20%對稀有或傳奇敵人造成異常狀態的機率"
+      ]
+    },
+    "Grenadier": {
+      "tw": "擲彈手",
+      "url": "https://poe2db.tw/tw/Grenadier",
+      "stats": [
+        "擲彈技能有+1次冷卻使用次數"
+      ]
+    },
+    "Immolation": {
+      "tw": "焚化",
+      "url": "https://poe2db.tw/tw/Immolation",
+      "stats": [
+        "增加25%點燃幅度",
+        "+10力量"
+      ]
+    },
+    "Implanted Gems": {
+      "tw": "植入寶石",
+      "url": "https://poe2db.tw/tw/Implanted_Gems",
+      "stats": []
+    },
+    "Incendiary": {
+      "tw": "爆燃",
+      "url": "https://poe2db.tw/tw/Incendiary",
+      "stats": [
+        "增加60%易燃幅度",
+        "對燃燒的敵人增加30%造成的擊中傷害"
+      ]
+    },
+    "Iron Reflexes": {
+      "tw": "霸體",
+      "url": "https://poe2db.tw/tw/Iron_Reflexes",
+      "stats": [
+        "將所有閃避值轉化為護甲值"
+      ]
+    },
+    "Lasting Trauma": {
+      "tw": "持久創傷",
+      "url": "https://poe2db.tw/tw/Lasting_Trauma",
+      "stats": [
+        "減少5%攻擊速度",
+        "增加30%你所施加之異常狀態的幅度",
+        "增加20%敵人身上的傷害型異常狀態持續時間"
+      ]
+    },
+    "Leather Bound Gauntlets": {
+      "tw": "皮革綁縛護手",
+      "url": "https://poe2db.tw/tw/Leather_Bound_Gauntlets",
+      "stats": [
+        "裝備的手套每1物品護甲+1最大閃避值"
+      ]
+    },
+    "Light on your Feet": {
+      "tw": "輕快腳步",
+      "url": "https://poe2db.tw/tw/Light_on_your_Feet",
+      "stats": [
+        "增加3%移動速度",
+        "免疫阻礙",
+        "免疫癱瘓"
+      ]
+    },
+    "Made to Last": {
+      "tw": "經久耐用",
+      "url": "https://poe2db.tw/tw/Made_to_Last",
+      "stats": [
+        "增加30%護甲值",
+        "抵禦物理傷害時，其5%補償為生命"
+      ]
+    },
+    "Momentum": {
+      "tw": "氣勢",
+      "url": "https://poe2db.tw/tw/Momentum",
+      "stats": [
+        "無視穿著護甲所帶來的護甲移動懲罰",
+        "減少5%你身上的減益效果緩速程度"
+      ]
+    },
+    "Multitasking": {
+      "tw": "一心多用",
+      "url": "https://poe2db.tw/tw/Multitasking",
+      "stats": [
+        "增加15%技能效果持續時間",
+        "增加12%冷卻時間恢復率"
+      ]
+    },
+    "Overwhelm": {
+      "tw": "鎮壓",
+      "url": "https://poe2db.tw/tw/Overwhelm",
+      "stats": [
+        "減少5%攻擊速度",
+        "增加20%暈眩累積",
+        "持雙手武器時增加40%傷害"
+      ]
+    },
+    "Primal Growth": {
+      "tw": "原始成長",
+      "url": "https://poe2db.tw/tw/Primal_Growth",
+      "stats": [
+        "若你近期有擊殺，增加15%範圍效果",
+        "攻擊增加8%範圍效果"
+      ]
+    },
+    "Prism Guard": {
+      "tw": "稜鏡守護",
+      "url": "https://poe2db.tw/tw/Prism_Guard",
+      "stats": [
+        "+30%的護甲值也會套用至元素傷害"
+      ]
+    },
+    "Remorseless": {
+      "tw": "殘酷無情",
+      "url": "https://poe2db.tw/tw/Remorseless",
+      "stats": [
+        "增加15%投射物傷害",
+        "增加30%對2公尺內敵人的暈眩累積",
+        "+5點力量與敏捷"
+      ]
+    },
+    "Repeating Explosives": {
+      "tw": "連續爆炸",
+      "url": "https://poe2db.tw/tw/Repeating_Explosives",
+      "stats": [
+        "擲彈有15%機率啟動第二次"
+      ]
+    },
+    "Ricochet": {
+      "tw": "彈射",
+      "url": "https://poe2db.tw/tw/Ricochet",
+      "stats": [
+        "增加15%投射物傷害",
+        "投射物有10%機率從地形額外連鎖一次"
+      ]
+    },
+    "Searing Heat": {
+      "tw": "灼熱高溫",
+      "url": "https://poe2db.tw/tw/Searing_Heat",
+      "stats": [
+        "增加100%易燃幅度",
+        "加快10%你造成的點燃造成傷害的速度"
+      ]
+    },
+    "Smoke Inhalation": {
+      "tw": "吞雲吐霧",
+      "url": "https://poe2db.tw/tw/Smoke_Inhalation",
+      "stats": [
+        "傷害穿透15%火焰抗性",
+        "增加15%敵人身上的傷害型異常狀態持續時間"
+      ]
+    },
+    "Swift Flight": {
+      "tw": "馭天",
+      "url": "https://poe2db.tw/tw/Swift_Flight",
+      "stats": [
+        "增加15%投射物速度",
+        "增加20%物理傷害"
+      ]
+    },
+    "Tempered Defences": {
+      "tw": "緩和防禦",
+      "url": "https://poe2db.tw/tw/Tempered_Defences",
+      "stats": [
+        "增加25%護甲值",
+        "+15%的護甲值也會套用至元素傷害"
+      ]
+    },
+    "Temporal Mastery": {
+      "tw": "時間專精",
+      "url": "https://poe2db.tw/tw/Temporal_Mastery",
+      "stats": [
+        "增加16%冷卻時間恢復率"
+      ]
+    },
+    "Utility Ordnance": {
+      "tw": "實用軍械",
+      "url": "https://poe2db.tw/tw/Utility_Ordnance",
+      "stats": [
+        "減少80%擲彈傷害",
+        "增加40%擲彈技能冷卻時間恢復率"
+      ]
+    },
+    "Volatile Catalyst": {
+      "tw": "易爆催化劑",
+      "url": "https://poe2db.tw/tw/Volatile_Catalyst",
+      "stats": [
+        "增加8%範圍效果",
+        "增加10%冷卻時間恢復率"
+      ]
+    },
+    "Wasting": {
+      "tw": "虛耗",
+      "url": "https://poe2db.tw/tw/Wasting",
+      "stats": [
+        "增加15%敵人身上的傷害型異常狀態持續時間",
+        "增加30%對受異常狀態影響的敵人的擊中傷害"
+      ]
+    },
+    "Ailment Chance and Effect": {
+      "tw": "異常狀態機率與效果",
+      "source": "Translation using poe2db terminology"
+    },
+    "Ailment Effect": {
+      "tw": "異常狀態效果",
+      "source": "Translation using poe2db terminology"
+    },
+    "Ailment Effect and Duration": {
+      "tw": "異常狀態效果與持續時間",
+      "source": "Translation using poe2db terminology"
+    },
+    "All Attributes": {
+      "tw": "全部能力值",
+      "source": "Translation using poe2db terminology"
+    },
+    "Area Damage": {
+      "tw": "範圍傷害",
+      "source": "Translation using poe2db terminology"
+    },
+    "Area Damage and Armour Break": {
+      "tw": "範圍傷害與護甲破壞",
+      "source": "Translation using poe2db terminology"
+    },
+    "Armour": {
+      "tw": "護甲",
+      "source": "Translation using poe2db terminology"
+    },
+    "Armour Applies to Fire Damage Hits": {
+      "tw": "護甲套用於火焰擊中傷害",
+      "source": "Translation using poe2db terminology"
+    },
+    "Armour and Energy Shield": {
+      "tw": "護甲與能量護盾",
+      "source": "Translation using poe2db terminology"
+    },
+    "Armour and Evasion": {
+      "tw": "護甲與閃避",
+      "source": "Translation using poe2db terminology"
+    },
+    "Attack Area": {
+      "tw": "攻擊範圍",
+      "source": "Translation using poe2db terminology"
+    },
+    "Attack Area and Flammability Magnitude": {
+      "tw": "攻擊範圍與易燃幅度",
+      "source": "Translation using poe2db terminology"
+    },
+    "Attack Damage": {
+      "tw": "攻擊傷害",
+      "source": "Translation using poe2db terminology"
+    },
+    "Attack Speed": {
+      "tw": "攻擊速度",
+      "source": "Translation using poe2db terminology"
+    },
+    "Attribute": {
+      "tw": "能力值",
+      "source": "Translation using poe2db terminology"
+    },
+    "Cooldown Recovery Rate": {
+      "tw": "冷卻時間恢復率",
+      "source": "Translation using poe2db terminology"
+    },
+    "Crossbow Damage": {
+      "tw": "十字弓傷害",
+      "source": "Translation using poe2db terminology"
+    },
+    "Damage": {
+      "tw": "傷害",
+      "source": "Translation using poe2db terminology"
+    },
+    "Faster Ailments": {
+      "tw": "加速異常狀態傷害",
+      "source": "Translation using poe2db terminology"
+    },
+    "Faster Ignites and Flammability Magnitude": {
+      "tw": "加速點燃與易燃幅度",
+      "source": "Translation using poe2db terminology"
+    },
+    "Fire Damage": {
+      "tw": "火焰傷害",
+      "source": "Translation using poe2db terminology"
+    },
+    "Fire Penetration": {
+      "tw": "火焰穿透",
+      "source": "Translation using poe2db terminology"
+    },
+    "Flammability Magnitude": {
+      "tw": "易燃幅度",
+      "source": "Translation using poe2db terminology"
+    },
+    "Flammability and Ignite Magnitude": {
+      "tw": "易燃與點燃幅度",
+      "source": "Translation using poe2db terminology"
+    },
+    "Gambler": {
+      "tw": "古靈軍團",
+      "source": "Translation using poe2db terminology"
+    },
+    "Grenade Area": {
+      "tw": "擲彈範圍",
+      "source": "Translation using poe2db terminology"
+    },
+    "Grenade Cooldown Recovery Rate": {
+      "tw": "擲彈冷卻時間恢復率",
+      "source": "Translation using poe2db terminology"
+    },
+    "Grenade Damage": {
+      "tw": "擲彈傷害",
+      "source": "Translation using poe2db terminology"
+    },
+    "Ignite Magnitude": {
+      "tw": "點燃幅度",
+      "source": "Translation using poe2db terminology"
+    },
+    "Movement Speed": {
+      "tw": "移動速度",
+      "source": "Translation using poe2db terminology"
+    },
+    "Movement Speed ": {
+      "tw": "移動速度",
+      "source": "Translation using poe2db terminology"
+    },
+    "Movement Speed and Slow Effect on You": {
+      "tw": "移動速度與自身緩速效果",
+      "source": "Translation using poe2db terminology"
+    },
+    "Neurological Implants": {
+      "tw": "神經植入體",
+      "source": "Translation using poe2db terminology"
+    },
+    "Projectile Damage": {
+      "tw": "投射物傷害",
+      "source": "Translation using poe2db terminology"
+    },
+    "Projectile Speed": {
+      "tw": "投射物速度",
+      "source": "Translation using poe2db terminology"
+    },
+    "Projectile Speed and Physical Damage": {
+      "tw": "投射物速度與物理傷害",
+      "source": "Translation using poe2db terminology"
+    },
+    "Reduced Attribute Requirements": {
+      "tw": "減少能力值需求",
+      "source": "Translation using poe2db terminology"
+    },
+    "Skill Gem Quality": {
+      "tw": "技能寶石品質",
+      "source": "Translation using poe2db terminology"
+    },
+    "Slow Effect on You": {
+      "tw": "自身緩速效果",
+      "source": "Translation using poe2db terminology"
+    },
+    "Strength": {
+      "tw": "力量",
+      "source": "Translation using poe2db terminology"
+    },
+    "Two Handed Damage": {
+      "tw": "雙手武器傷害",
+      "source": "Translation using poe2db terminology"
+    },
+    "[Jewel] Socket": {
+      "tw": "珠寶插槽",
+      "source": "Translation using poe2db terminology"
+    }
+  },
+  "stats": {
+    "4% increased Movement Speed if you've Killed [Recently]": "若你近期有擊殺，增加4%移動速度",
+    "8% increased [Attack] Speed if you've killed [Recently]": "若你近期有擊殺，增加8%攻擊速度",
+    "Gem [Quality] grants Socketed Skills an additional effect": "寶石品質會賦予插槽中的技能一個額外效果",
+    "15% increased Area of Effect for [Attack|Attacks]": "攻擊增加15%範圍效果",
+    "10% increased [CooldownRecovery|Cooldown Recovery Rate]": "增加10%冷卻時間恢復率",
+    "[HitDamage|Hits] against you have 20% reduced [CriticalDamageBonus|Critical Damage Bonus]": "對你的擊中減少20%暴擊傷害加成",
+    "20% increased [Armour] and [Evasion] Rating": "增加20%護甲值和閃避值",
+    "+5 to [Strength|Strength] and [Dexterity|Dexterity]": "+5點力量與敏捷",
+    "[Ignite|Ignites] you inflict deal Damage 15% faster": "加快15%你造成的點燃造成傷害的速度",
+    "15% increased [Projectile] Speed": "增加15%投射物速度",
+    "12% increased Area of Effect for [Attack|Attacks]": "攻擊增加12%範圍效果",
+    "+10% of [Armour|Armour] also applies to [ElementalDamage|Elemental Damage]": "+10%的護甲值也會套用至元素傷害",
+    "10% [FasterESRechargeStart|faster start of Energy Shield Recharge]": "能量護盾開始充能速度加快10%",
+    "10% increased [LightRadius|Light Radius]": "增加10%照亮範圍",
+    "10% increased [Accuracy] Rating": "增加10%命中值",
+    "10% increased Area of Effect": "增加10%範圍效果",
+    "50% increased [Grenade] [DetonationTime|Detonation Time]": "增加50%擲彈引爆時間",
+    "+10 to [Strength]": "+10力量",
+    "25% increased [ArmourBreak|Armour Break] Duration": "增加25%護甲破壞持續時間",
+    "25% increased [Attack] Area Damage": "增加25%攻擊範圍傷害",
+    "15% increased [Accuracy] Rating": "增加15%命中值",
+    "+10 to [Dexterity]": "+10敏捷",
+    "[DamagingAilments|Damaging Ailments] Cannot Be inflicted on you while you already have one": "當你已經帶有傷害型異常狀態時，你無法再被造成一次",
+    "20% increased [BuffMagnitude|Magnitude] of [DamagingAilments|Damaging Ailments] you inflict": "增加20%你所施加之傷害型異常狀態的幅度",
+    "Enemies in your [Presence|Presence] have 10% reduced Cooldown Recovery Rate": "減少10%處於你的存在範圍中的敵人冷卻時間恢復率",
+    "[DamagingAilments|Damaging Ailments] deal damage 12% faster": "傷害型異常狀態造成傷害加速12%",
+    "20% increased [Fire] Damage": "增加20%火焰傷害",
+    "15% increased [Ignite|Ignite] [BuffMagnitude|Magnitude]": "增加15%點燃幅度",
+    "30% reduced [BuffMagnitude|Magnitude] of [Ignite|Ignite] on you": "減少30%你身上的點燃效果",
+    "80% increased [Flammability] [BuffMagnitude|Magnitude]": "增加80%易燃幅度",
+    "40% increased Damage with [HitDamage|Hits] against [Ignite|Ignited] Enemies": "擊中對點燃敵人增加40%傷害",
+    "For each colour of Socketed Support Gem that is most numerous, gain:\n•Red: [HitDamage|Hits] against you have no [CriticalDamageBonus|Critical Damage Bonus]\n•Blue: Skills have 30% less cost\n•Green: 40% less Movement Speed Penalty from using Skills while Moving": "依據插槽中的輔助寶石最多顆的顏色，會獲得\n•紅色：對你的擊中傷害無暴擊傷害加成\n•藍色：技能有30%更少消耗\n•綠色：移動時使用技能會有40%更少移動速度懲罰",
+    "25% increased Damage with [HitDamage|Hits] against [Rarity|Rare and Unique] Enemies": "擊中對稀有和傳奇增加25%傷害",
+    "20% increased [Accuracy] Rating against [Rarity|Rare or Unique] Enemies": "增加20%對稀有或傳奇敵人的命中值",
+    "20% increased chance to inflict [Ailments] against [Rarity|Rare or Unique] Enemies": "增加20%對稀有或傳奇敵人造成異常狀態的機率",
+    "[Grenade] Skills have +1 Cooldown Use": "擲彈技能有+1次冷卻使用次數",
+    "25% increased [Ignite|Ignite] [BuffMagnitude|Magnitude]": "增加25%點燃幅度",
+    "60% increased [Flammability] [BuffMagnitude|Magnitude]": "增加60%易燃幅度",
+    "30% increased Damage with [HitDamage|Hits] against [Burning|Burning] Enemies": "對燃燒的敵人增加30%造成的擊中傷害",
+    "[StatConversion|Converts] all [Evasion|Evasion Rating] to [Armour]": "將所有閃避值轉化為護甲值",
+    "5% reduced [Attack] Speed": "減少5%攻擊速度",
+    "30% increased [BuffMagnitude|Magnitude] of [Ailments] you inflict": "增加30%你所施加之異常狀態的幅度",
+    "20% increased Duration of [DamagingAilments|Damaging Ailments] on Enemies": "增加20%敵人身上的傷害型異常狀態持續時間",
+    "+1 to [Evasion] Rating per 1 [ItemArmour|Item Armour] on Equipped Gloves": "裝備的手套每1物品護甲+1最大閃避值",
+    "3% increased Movement Speed": "增加3%移動速度",
+    "Immune to [Hinder]": "免疫阻礙",
+    "Immune to [Maim]": "免疫癱瘓",
+    "30% increased [Armour]": "增加30%護甲值",
+    "5% of Physical Damage prevented [Recoup|Recouped] as Life": "抵禦物理傷害時，其5%補償為生命",
+    "Ignore all [ArmourPenalties|Movement Penalties] from [EquipArmour|Armour]": "無視穿著護甲所帶來的護甲移動懲罰",
+    "5% reduced [Slow|Slowing] Potency of [Debuff|Debuffs] on You": "減少5%你身上的減益效果緩速程度",
+    "15% increased Skill Effect Duration": "增加15%技能效果持續時間",
+    "12% increased [CooldownRecovery|Cooldown Recovery Rate]": "增加12%冷卻時間恢復率",
+    "20% increased [Stun] Buildup": "增加20%暈眩累積",
+    "40% increased Damage with Two Handed Weapons": "持雙手武器時增加40%傷害",
+    "15% increased Area of Effect if you've Killed [Recently]": "若你近期有擊殺，增加15%範圍效果",
+    "8% increased Area of Effect for [Attack|Attacks]": "攻擊增加8%範圍效果",
+    "+30% of [Armour|Armour] also applies to [ElementalDamage|Elemental Damage]": "+30%的護甲值也會套用至元素傷害",
+    "15% increased [Projectile] Damage": "增加15%投射物傷害",
+    "30% increased [Stun] Buildup against enemies within 2 metres": "增加30%對2公尺內敵人的暈眩累積",
+    "[Grenade|Grenades] have 15% chance to activate a second time": "擲彈有15%機率啟動第二次",
+    "[Projectile|Projectiles] have 10% chance to [Chain] an additional time from terrain": "投射物有10%機率從地形額外連鎖一次",
+    "100% increased [Flammability] [BuffMagnitude|Magnitude]": "增加100%易燃幅度",
+    "[Ignite|Ignites] you inflict deal Damage 10% faster": "加快10%你造成的點燃造成傷害的速度",
+    "Damage [Penetration|Penetrates] 15% [Resistances|Fire Resistance]": "傷害穿透15%火焰抗性",
+    "15% increased Duration of [DamagingAilments|Damaging Ailments] on Enemies": "增加15%敵人身上的傷害型異常狀態持續時間",
+    "20% increased [Physical] Damage": "增加20%物理傷害",
+    "25% increased [Armour]": "增加25%護甲值",
+    "+15% of [Armour|Armour] also applies to [ElementalDamage|Elemental Damage]": "+15%的護甲值也會套用至元素傷害",
+    "16% increased [CooldownRecovery|Cooldown Recovery Rate]": "增加16%冷卻時間恢復率",
+    "8% increased Area of Effect": "增加8%範圍效果",
+    "30% increased Damage with [HitDamage|Hits] against Enemies affected by [Ailments]": "增加30%對受異常狀態影響的敵人的擊中傷害",
+    "+10 to [Armour]": "+10 護甲",
+    "+15% of [Armour] also applies to [Fire|Fire Damage]": "額外 15% 的護甲也套用於火焰傷害",
+    "+2 to Level of all Skills with an [Intelligence] requirement": "所有有智慧需求的技能等級 +2",
+    "+2% to [Quality] of all Skills": "所有技能品質 +2%",
+    "+3 to all [Attributes|Attributes]": "+3 全部能力值",
+    "+5 to any [Attributes|Attribute]": "+5 任意一種能力值",
+    "+5% of [Armour|Armour] also applies to [ElementalDamage|Elemental Damage]": "額外 5% 的護甲也套用於元素傷害",
+    "+8 to [Evasion] Rating": "+8 閃避值",
+    "+8 to [Strength]": "+8 力量",
+    "+8% of [Armour|Armour] also applies to [ElementalDamage|Elemental Damage]": "額外 8% 的護甲也套用於元素傷害",
+    "1% increased Movement Speed": "增加 1% 移動速度",
+    "10% increased Damage": "增加 10% 傷害",
+    "10% increased Damage with Two Handed Weapons": "增加 10% 雙手武器傷害",
+    "10% increased [Armour]": "增加 10% 護甲",
+    "10% increased [Attack] Area Damage": "增加 10% 攻擊範圍傷害",
+    "10% increased [BuffMagnitude|Magnitude] of [Ailments] you inflict": "增加 10% 你造成的異常狀態幅度",
+    "10% increased [Grenade] Area of Effect": "增加 10% 擲彈範圍效果",
+    "10% increased [Ignite|Ignite] [BuffMagnitude|Magnitude]": "增加 10% 點燃幅度",
+    "10% increased [Projectile] Damage": "增加 10% 投射物傷害",
+    "12% increased Damage with [Crossbow|Crossbows]": "增加 12% 十字弓傷害",
+    "12% increased [Armour] and [Evasion] Rating": "增加 12% 護甲與閃避值",
+    "12% increased [Attack] Damage": "增加 12% 攻擊傷害",
+    "12% increased [BuffMagnitude|Magnitude] of [Ailments] you inflict": "增加 12% 你造成的異常狀態幅度",
+    "12% increased [Fire] Damage": "增加 12% 火焰傷害",
+    "12% increased [Grenade] Damage": "增加 12% 擲彈傷害",
+    "12% increased [Ignite|Ignite] [BuffMagnitude|Magnitude]": "增加 12% 點燃幅度",
+    "15% increased Cooldown Recovery Rate for [Grenade] Skills": "增加 15% 擲彈技能冷卻時間恢復率",
+    "15% increased [Armour]": "增加 15% 護甲",
+    "15% increased [Flammability] [BuffMagnitude|Magnitude]": "增加 15% 易燃幅度",
+    "16% increased [Attack] Damage against [Rarity|Rare or Unique] Enemies": "對稀有或傳奇敵人增加 16% 攻擊傷害",
+    "18% increased [Armour]": "增加 18% 護甲",
+    "2% increased Movement Speed": "增加 2% 移動速度",
+    "20% increased [Flammability] [BuffMagnitude|Magnitude]": "增加 20% 易燃幅度",
+    "3% increased Movement Speed if you've Killed [Recently]": "若你近期擊殺，增加 3% 移動速度",
+    "30% increased [Flammability] [BuffMagnitude|Magnitude]": "增加 30% 易燃幅度",
+    "4% [FasterESRechargeStart|faster start of Energy Shield Recharge]": "能量護盾開始充能加快 4%",
+    "4% increased Area of Effect for [Attack|Attacks]": "增加 4% 攻擊範圍效果",
+    "4% increased Area of Effect for [Attack|Attacks] per Enemy you've [Ignite|Ignited] in the last 8 seconds, up to 40%": "過去 8 秒內每點燃一名敵人，增加 4% 攻擊範圍效果，最多 40%",
+    "4% increased [Attack] Speed while a [Rarity|Rare or Unique] Enemy is in your [Presence]": "當稀有或傳奇敵人在你的存在範圍內，增加 4% 攻擊速度",
+    "4% reduced [Slow|Slowing] Potency of [Debuff|Debuffs] on You": "減少 4% 你身上減益效果的緩速強度",
+    "40% increased Cooldown Recovery Rate for [Grenade] Skills": "增加 40% 擲彈技能冷卻時間恢復率",
+    "5% increased Duration of [DamagingAilments|Damaging Ailments] on Enemies": "增加 5% 敵人身上傷害型異常狀態的持續時間",
+    "5% increased Maximum Life if you have at least 10 Red [SupportGem|Support Gems] Socketed": "插槽中有至少 10 顆紅色輔助寶石時，增加 5% 最大生命",
+    "5% increased Maximum Mana if you have at least 10 Blue [SupportGem|Support Gems] Socketed": "插槽中有至少 10 顆藍色輔助寶石時，增加 5% 最大魔力",
+    "5% increased Movement Speed if you have at least 10 Green [SupportGem|Support Gems] Socketed": "插槽中有至少 10 顆綠色輔助寶石時，增加 5% 移動速度",
+    "5% increased [BuffMagnitude|Magnitude] of [Ailments] you inflict": "增加 5% 你造成的異常狀態幅度",
+    "5% increased [CooldownRecovery|Cooldown Recovery Rate]": "增加 5% 冷卻時間恢復率",
+    "5% increased [Projectile] Speed": "增加 5% 投射物速度",
+    "6% increased Area of Effect for [Attack|Attacks]": "增加 6% 攻擊範圍效果",
+    "6% increased [Attack] Area Damage": "增加 6% 攻擊範圍傷害",
+    "6% increased [BuffMagnitude|Magnitude] of [DamagingAilments|Damaging Ailments] you inflict": "增加 6% 你造成的傷害型異常狀態幅度",
+    "6% increased chance to inflict [Ailments]": "增加 6% 造成異常狀態的機率",
+    "8% increased [Ignite|Ignite] [BuffMagnitude|Magnitude]": "增加 8% 點燃幅度",
+    "8% increased [Physical] Damage": "增加 8% 物理傷害",
+    "8% increased [Projectile] Damage": "增加 8% 投射物傷害",
+    "8% increased [Projectile] Speed": "增加 8% 投射物速度",
+    "8% reduced [Slow|Slowing] Potency of [Debuff|Debuffs] on You": "減少 8% 你身上減益效果的緩速強度",
+    "80% reduced [Grenade] Damage": "減少 80% 擲彈傷害",
+    "Damage [Penetration|Penetrates] 6% [Resistances|Fire Resistance]": "傷害穿透 6% 火焰抗性",
+    "Equipment and Skill Gems have 4% reduced [Attributes|Attribute] Requirements": "裝備與技能寶石的能力值需求減少 4%",
+    "Grants Skill: <underline>{Virtuous Barrier}": "賦予技能：高尚禦盾",
+    "[ArmourBreak|Break] 10% increased [Armour|Armour]": "增加 10% 護甲破壞量",
+    "[DamagingAilments|Damaging Ailments] deal damage 5% faster": "傷害型異常狀態造成傷害的速度加快 5%",
+    "[Gain] 4% of Damage as Extra [Fire] Damage for\nevery different [Grenade] fired in the past 8 seconds": "過去 8 秒內每發射一種不同的擲彈，獲得等同傷害 4% 的額外火焰傷害",
+    "[Grenade] Skills Fire an additional [Projectile|Projectile]": "擲彈技能發射 1 個額外投射物",
+    "[Ignite|Ignites] you inflict deal Damage 18% faster": "你造成的點燃造成傷害的速度加快 18%",
+    "[Ignite|Ignites] you inflict deal Damage 4% faster": "你造成的點燃造成傷害的速度加快 4%"
+  },
+  "source": "https://poe2db.tw/tw/",
+  "notes": [
+    "Arsonist LEN 3 vs 1 ['加快18%你造成的點燃造成傷害的速度']",
+    "Cluster Bombs NUM [Grenade] Skills Fire an additional [Projectile|Projectile] => 擲彈技能發射額外1個投射物",
+    "Demolitionist NUM [Gain] 4% of Damage as Extra [Fire] Damage for\nevery different [Grenade] fired in the past 8 seconds => 過去8秒內每發射1種不同的擲彈，\n獲得等同於傷害4%的額外火焰傷害",
+    "Engineered Blaze NUM 4% increased Area of Effect for [Attack|Attacks] per Enemy you've [Ignite|Ignited] in the last 8 seconds, up to 40% => 你過去8秒內每點燃一名敵人，增加4%攻擊範圍效果，最多40%",
+    "Essence of Virtue LEN 1 vs 2 ['賦予技能: 高尚禦盾', 'base maximum number of gemling barrier stacks [3]']",
+    "Gem Enthusiast NUM 5% increased Maximum Life if you have at least 10 Red [SupportGem|Support Gems] Socketed => 若你插槽中的有至少10顆紅色輔助寶石，增加5%最大生命",
+    "Gem Enthusiast NUM 5% increased Maximum Mana if you have at least 10 Blue [SupportGem|Support Gems] Socketed => 若你插槽中的有至少10顆藍色輔助寶石，增加5%最大魔力",
+    "Gem Enthusiast NUM 5% increased Movement Speed if you have at least 10 Green [SupportGem|Support Gems] Socketed => 若你插槽中的有至少10顆綠色輔助寶石，增加5%移動速度",
+    "Utility Ordnance NUM 40% increased Cooldown Recovery Rate for [Grenade] Skills => 減少80%擲彈傷害",
+    "Utility Ordnance NUM 80% reduced [Grenade] Damage => 增加40%擲彈技能冷卻時間恢復率"
+  ],
+  "statTranslationNote": "Matched database text where the historical values agree; remaining lines translated with database terminology, preserving 0.5.2 numeric values."
+}

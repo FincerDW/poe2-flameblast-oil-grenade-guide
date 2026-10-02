@@ -17,6 +17,9 @@ research/*
 !research/support-dictionary.json
 !research/term-pages.json
 !research/variants.json
+!research/passive-tree.json
+!research/passive-stages.json
+!research/passive-translations.json
 
 .DS_Store
 Thumbs.db
