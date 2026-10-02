@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+_site/
+*.html
+!template.html
+/*.png
+assets/font/*.ttf
+
+# Keep only reproducible build inputs and artwork source manifests.
+research/*
+!research/asset-manifest.json
+!research/build-pob.txt
+!research/hover-captures.json
+!research/source-gear-set2.json
+!research/source-images.json
+!research/support-dictionary.json
+!research/term-pages.json
+!research/variants.json
+
+.DS_Store
+Thumbs.db

@@ -1,0 +1,197 @@
+[
+  {
+    "name": "寒霜爆",
+    "url": "https://poe2db.tw/tw/Frost_Bomb",
+    "en": "Frost Bomb"
+  },
+  {
+    "name": "元素要害",
+    "url": "https://poe2db.tw/tw/Elemental_Weakness",
+    "en": "Elemental Weakness"
+  },
+  {
+    "name": "龍捲風",
+    "url": "https://poe2db.tw/tw/Tornado",
+    "en": "Tornado"
+  },
+  {
+    "name": "魔力痕跡",
+    "url": "https://poe2db.tw/tw/Mana_Remnants",
+    "en": "Mana Remnants"
+  },
+  {
+    "name": "爆炸擲彈",
+    "url": "https://poe2db.tw/tw/Explosive_Grenade",
+    "en": "Explosive Grenade"
+  },
+  {
+    "name": "閃光擲彈",
+    "url": "https://poe2db.tw/tw/Flash_Grenade",
+    "en": "Flash Grenade"
+  },
+  {
+    "name": "毒氣擲彈",
+    "url": "https://poe2db.tw/tw/Gas_Grenade",
+    "en": "Gas Grenade"
+  },
+  {
+    "name": "灰燼之捷",
+    "url": "https://poe2db.tw/tw/Herald_of_Ash",
+    "en": "Herald of Ash"
+  },
+  {
+    "name": "猛撲",
+    "url": "https://poe2db.tw/tw/Pounce",
+    "en": "Pounce"
+  },
+  {
+    "name": "十字弓射擊",
+    "url": "https://poe2db.tw/tw/Crossbow_Shot",
+    "en": "Crossbow Shot"
+  },
+  {
+    "name": "高尚禦盾",
+    "url": "https://poe2db.tw/tw/Virtuous_Barrier",
+    "en": "Virtuous Barrier"
+  },
+  {
+    "name": "寒冰碎片",
+    "url": "https://poe2db.tw/tw/Ice_Shards",
+    "en": "Ice Shards"
+  },
+  {
+    "name": "震波圖騰",
+    "url": "https://poe2db.tw/tw/Shockwave_Totem",
+    "en": "Shockwave Totem"
+  },
+  {
+    "name": "裂地戰吼",
+    "url": "https://poe2db.tw/tw/Seismic_Cry",
+    "en": "Seismic Cry"
+  },
+  {
+    "name": "煉獄戰吼",
+    "url": "https://poe2db.tw/tw/Infernal_Cry",
+    "en": "Infernal Cry"
+  },
+  {
+    "name": "烈焰射擊",
+    "url": "https://poe2db.tw/tw/Incendiary_Shot",
+    "en": "Incendiary Shot"
+  },
+  {
+    "name": "不敗亡者",
+    "url": "https://poe2db.tw/tw/Morior_Invictus",
+    "en": "Morior Invictus"
+  },
+  {
+    "name": "黯炎",
+    "url": "https://poe2db.tw/tw/Blackflame",
+    "en": "Blackflame"
+  },
+  {
+    "name": "凋零光環",
+    "url": "https://poe2db.tw/tw/Withering_Presence",
+    "en": "Withering Presence"
+  },
+  {
+    "name": "穩健印記",
+    "url": "https://poe2db.tw/tw/Surefooted_Sigil",
+    "en": "Surefooted Sigil"
+  },
+  {
+    "name": "虛無護身符",
+    "url": "https://poe2db.tw/tw/Absent_Amulet",
+    "en": "Absent Amulet"
+  },
+  {
+    "name": "帝金護身符",
+    "url": "https://poe2db.tw/tw/Gold_Amulet",
+    "en": "Gold Amulet"
+  },
+  {
+    "name": "潛能之戒",
+    "url": "https://poe2db.tw/tw/Unset_Ring",
+    "en": "Unset Ring"
+  },
+  {
+    "name": "增幅血肉",
+    "url": "https://poe2db.tw/tw/Augmented_Flesh",
+    "en": "Augmented Flesh"
+  },
+  {
+    "name": "狐狸魔偶",
+    "url": "https://poe2db.tw/tw/Fox_Idol",
+    "en": "Fox Idol"
+  },
+  {
+    "name": "霸體",
+    "url": "https://poe2db.tw/tw/Iron_Reflexes",
+    "en": "Iron Reflexes"
+  },
+  {
+    "name": "燃盡",
+    "url": "https://poe2db.tw/tw/Burnout",
+    "en": "Burnout"
+  },
+  {
+    "name": "儀式通道",
+    "url": "https://poe2db.tw/tw/Rite_of_Passage",
+    "en": "Rite of Passage"
+  },
+  {
+    "name": "翔天敕令",
+    "url": "https://poe2db.tw/tw/Decree_of_Flight",
+    "en": "Decree of Flight"
+  },
+  {
+    "name": "鬼行",
+    "url": "https://poe2db.tw/tw/Ghostmarch",
+    "en": "Ghostmarch"
+  },
+  {
+    "name": "活力湧現",
+    "url": "https://poe2db.tw/tw/Emergent_Vigour",
+    "en": "Emergent Vigour"
+  },
+  {
+    "name": "皮革綁縛護手",
+    "url": "https://poe2db.tw/tw/Leather_Bound_Gauntlets",
+    "en": "Leather Bound Gauntlets"
+  },
+  {
+    "name": "充能調節",
+    "url": "https://poe2db.tw/tw/Charge_Regulation",
+    "en": "Charge Regulation"
+  },
+  {
+    "name": "完美肉體符文",
+    "url": "https://poe2db.tw/tw/Perfect_Body_Rune",
+    "en": "Perfect Body Rune"
+  },
+  {
+    "name": "艾斯卡巴靈魂核心",
+    "url": "https://poe2db.tw/tw/Soul_Core_of_Azcapa",
+    "en": "Soul Core of Azcapa"
+  },
+  {
+    "name": "緊繃十字弓",
+    "url": "https://poe2db.tw/tw/Tense_Crossbow",
+    "en": "Tense Crossbow"
+  },
+  {
+    "name": "堅固十字弓",
+    "url": "https://poe2db.tw/tw/Sturdy_Crossbow",
+    "en": "Sturdy Crossbow"
+  },
+  {
+    "name": "亮漆十字弓",
+    "url": "https://poe2db.tw/tw/Varnished_Crossbow",
+    "en": "Varnished Crossbow"
+  },
+  {
+    "name": "轟擊十字弓",
+    "url": "https://poe2db.tw/tw/Bombard_Crossbow",
+    "en": "Bombard Crossbow"
+  }
+]

@@ -1,0 +1,3843 @@
+[
+  {
+    "id": "_r_20_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 0,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Tense Crossbow\n\nCrossbows\n\nCritical Hit Chance:5\nWeapon Speed:12\nPhysical Damage:12-22\n\nRequires: 4 Level, 8 Strength, 8 Dexterity.\n\n(20-30)% increased Bolt Speed\n(40-49)% increased Physical Damage\nP8"
+      }
+    ]
+  },
+  {
+    "id": "_r_23_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/IronRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 0,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Iron Ring\n\nRings\n\nGloves: Adds 1 to 4 Physical Damage to Attacks\nAdds (1-2) to 3 Physical Damage to Attacks\nP9"
+      }
+    ]
+  },
+  {
+    "id": "_r_26_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 0,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_26_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 0,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Face Mask\n\nHelmets\n\nEvasion Rating:32\nEnergy Shield:16\n\nRequires: 10 Level, 10 Intelligence, 10 Dexterity.\n\n+(60-69) to maximum Life\nP9"
+      }
+    ]
+  },
+  {
+    "id": "_r_29_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/AmberAmulet.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 0,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Amber Amulet\n\nAmulets\n\nRequires: 8 Level.\n\nArmour: Wand or Staff: Martial Weapon: All: +(10-15) to Strength\n+(85-99) to maximum Life\nP7"
+      }
+    ]
+  },
+  {
+    "id": "_r_2c_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/IronRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 0,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_2f_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 0,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Runeforged Sombre Gloves\n\nGloves\n\nEnergy Shield:15\n\nRequires: 12 Level, 17 Intelligence.\n\nAdds (2-3) to (4-6) Physical Damage to Attacks\nP8"
+      }
+    ]
+  },
+  {
+    "id": "_r_2i_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 0,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Utility Belt\n\nBelts\n\nRequires: 55 Level.\n\n20% of Flask Recovery applied Instantly\n+(100-119) to maximum Life\nP6"
+      }
+    ]
+  },
+  {
+    "id": "_r_2l_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 0,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Bronze Greaves\n\nBoots\n\nArmour:74\n\nRequires: 16 Level, 23 Strength.\n\n20% increased Movement Speed\nP4"
+      }
+    ]
+  },
+  {
+    "id": "_r_2o_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 0,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Thawing Charm\n\nCharms\n\nRequires: 12 Level.\n\nUsed when you become Frozen"
+      }
+    ]
+  },
+  {
+    "id": "_r_hp_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressFlameblast.webp",
+    "kind": "named",
+    "name": "Flameblast",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Flameblast\n\nSpell\nAoE\nFire\nChannelling\nNova\nStaged\nLevel:(13-20)\nCast Time:0.0\nCritical Strike Chance:8.00%\nMana Range:(27.8-57.5) mana\n\nRequires: Level (52-97), Int (116-211).\n\nChannel to build destructive energy around you. Releasing the energy causes a devastating explosion that is larger and more intense the longer you Channel for.\n\nModifiers to cast speed also affect this skill's cost\n75% more damage per Stage\nExplosion radius is 0.6 metres per Stage\n10 maximum Stages\nDeals (90-244) to (134-367) Fire Damage\n\nAdditional Effects From Quality:\n\n(0-20)% more Cast Speed"
+      }
+    ]
+  },
+  {
+    "id": "_r_hr_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/OilGrenade.webp",
+    "kind": "named",
+    "name": "Oil Grenade",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Oil Grenade\n\nAttack\nAoE\nProjectile\nGrenade\nFire\nDuration\nLevel:(9-20)\nCast Time:1.0\nMana Range:(23-60) mana\n\nRequires: Level (31-97).\n\nFire a bouncing Grenade that bursts in a spray of Oil when the fuse expires or when it impacts an Enemy, dealing minimal damage but covering the ground and nearby enemies in Oil. Oil created this way can be Ignited by Detonator Skills or Ignited Ground.\n\nProjectiles cannot Fork\nDetonation Time is 1.6 seconds\nOil Duration is 6 seconds\nOil Slows enemy movement speed by 40%\nOil applies Exposure, lowering Total\nElemental Resistances by 20%\nDamage and Oil spray radius is (2.2-2.6) metres\n\nAdditional Effects From Quality:\n\n(0-20)% increased Cooldown Recovery Rate"
+      }
+    ]
+  },
+  {
+    "id": "_r_ht_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/CastOnDodgeRollSkill.webp",
+    "kind": "named",
+    "name": "Cast on Dodge",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Cast on Dodge\n\nBuff\nPersistent\nTrigger\nMeta\nLevel:(14-20)\nCast Time:0.0\nReservaton:100\n\nRequires: Level (58-97).\n\nWhile active, gains Energy when you dodge roll and triggers socketed spells on reaching maximum Energy.\n\nGain 2 Energy per metre travelled while dodge rolling\nMeta Skills gain (39-57)% increased Energy\n\nAdditional Effects From Quality:\n\n(0-10)% increased Reservation Efficiency of Skills"
+      }
+    ]
+  },
+  {
+    "id": "_r_i3_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow02.webp",
+    "kind": "named",
+    "name": "Tense Crossbow",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Tense Crossbow\n\nCrossbows\n\n5Critical Hit Chance\n12Weapon Speed\n8-15Physical Damage\n\nRequires: 4 Level, 8 Strength, 8 Dexterity.\n\n(20-30)% increased Bolt Speed"
+      }
+    ]
+  },
+  {
+    "id": "_r_i5_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow03.webp",
+    "kind": "named",
+    "name": "Sturdy Crossbow",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Sturdy Crossbow\n\nCrossbows\n\n5Critical Hit Chance\n12Weapon Speed\n11-26Physical Damage\n\nRequires: 10 Level, 13 Strength, 13 Dexterity."
+      }
+    ]
+  },
+  {
+    "id": "_r_i7_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow04.webp",
+    "kind": "named",
+    "name": "Varnished Crossbow",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Varnished Crossbow\n\nCrossbows\n\n5Critical Hit Chance\n12Weapon Speed\n12-36Physical Damage\n\nRequires: 16 Level, 19 Strength, 19 Dexterity."
+      }
+    ]
+  },
+  {
+    "id": "_r_3p_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/PowerShot.webp",
+    "kind": "named",
+    "name": "Crossbow Shot",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Crossbow Shot\n\nAttack\nAmmunition\nProjectile\nLevel:(1-20)\nCast Time:1.0\n\nRequires: Level (1-97).\n\nFire a bolt from your crossbow."
+      }
+    ]
+  },
+  {
+    "id": "_r_3q_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MultipleProjectilesSupportGem.webp",
+    "kind": "named",
+    "name": "Multishot I",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Multishot I\n\nSupport\nProjectile\nLevel:(1-1)\nCast Time:0.0\n\nSupports Projectile skills, making them fire extra Projectiles. Also lowers Attack and Cast speed of supported skills, as well as lessening their damage.\n\nFires 2 additional Projectiles\nSupported Skills deal 35% less Damage\nSupported Skills have 20% less Skill Speed"
+      }
+    ]
+  },
+  {
+    "id": "_r_3r_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/ExplosiveGrenade.webp",
+    "kind": "named",
+    "name": "Explosive Grenade",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Explosive Grenade\n\nAttack\nAoE\nProjectile\nGrenade\nFire\nDetonator\nLevel:(1-20)\nCast Time:1.0\nMana Range:(10-68) mana\n\nRequires: Level (1-97).\n\nFire a bouncing Grenade that unleashes a devastating fiery blast when its fuse expires.\n\nProjectiles cannot Fork\nDetonation Time is 3 seconds\nConverts 80% of Physical damage to Fire damage\nConsumes 15 Heat if possible to\nGain 50% of damage as Fire damage\nFires +1 Projectiles\nExplosion radius is (2-2.4) metres\n\nAdditional Effects From Quality:\n\n(0-20)% increased Cooldown Recovery Rate"
+      }
+    ]
+  },
+  {
+    "id": "_r_3t_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/WeaponElementalDamageSupportGem.webp",
+    "kind": "named",
+    "name": "Elemental Armament I",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Elemental Armament I\n\nSupport\nAttack\nLevel:(1-1)\nCast Time:0.0\n\nSupports Attacks, causing them to deal more Elemental damage.\n\nSupported Skills deal 20% more Elemental Attack damage"
+      }
+    ]
+  },
+  {
+    "id": "_r_3u_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/FlashbangGrenade.webp",
+    "kind": "named",
+    "name": "Flash Grenade",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Flash Grenade\n\nAttack\nAoE\nProjectile\nGrenade\nLevel:(3-20)\nCast Time:1.0\nMana Range:(10-53) mana\n\nRequires: Level (6-97).\n\nFire a bouncing Grenade that unleashes a Blinding, Stunning explosion when its fuse expires.\n\nProjectiles cannot Fork\nDetonation Time is 0.8 seconds\nBlinds Enemies\n500% more Stun buildup\nExplosion radius is (2.7-3.3) metres\n\nAdditional Effects From Quality:\n\n(0-20)% increased Cooldown Recovery Rate"
+      }
+    ]
+  },
+  {
+    "id": "_r_40_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/BrutalitySupportGem.webp",
+    "kind": "named",
+    "name": "Brutality I",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Brutality I\n\nSupport\nPhysical\nLevel:(1-1)\nCast Time:0.0\n\nSupports any skill that deals damage, boosting its Physical damage at the expense of all other Damage Types.\n\nSupported Skills deal no Elemental Damage\nSupported Skills deal no Chaos Damage\nSupported Skills deal 25% more Physical Damage"
+      }
+    ]
+  },
+  {
+    "id": "_r_41_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/ToxicGrenade.webp",
+    "kind": "named",
+    "name": "Gas Grenade",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Gas Grenade\n\nAttack\nAoE\nProjectile\nGrenade\nFire\nChaos\nDuration\nLevel:(5-20)\nCast Time:1.0\nMana Range:(21-86) mana\n\nRequires: Level (14-97).\n\nFire a bouncing Grenade that causes a burst of Poison gas when its fuse expires, damaging enemies and leaving behind a growing Poison cloud. Burning effects or Detonator skills will cause the cloud to explode in a fiery blast.\n\nProjectiles cannot Fork\nDetonation Time is 2 seconds\nImpact radius is (1.5-2) metres\n\nAdditional Effects From Quality:\n\n(0-20)% increased Cooldown Recovery Rate"
+      }
+    ]
+  },
+  {
+    "id": "_r_44_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressFrostBomb.webp",
+    "kind": "named",
+    "name": "Frost Bomb",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Frost Bomb\n\nSpell\nAoE\nCold\nDuration\nOrb\nRemnant\nLevel:(1-20)\nCast Time:0.0\nCritical Strike Chance:13.00%\nMana Range:(9-99) mana\n\nRequires: Level (1-97), Int (0-211).\n\nCreate a pulsing Orb of frost. Each pulse inflicts Elemental Exposure on nearby enemies. When the Orb's duration ends, it Detonates, dealing Cold damage to surrounding enemies and leaving behind a Cold Infusion.\n\nPulse and explosion radius are (0-2.4) metres\nDetonation Time is 4 seconds\nExposure duration is 8 seconds\nInitially applies 20% Elemental Exposure and 2% Exposure per pulse, up to a maximum of 50%\nChills Enemies as though dealing 300% more damage\nLimit 1 Frost Bomb\nCannot apply Exposure to enemies of level higher than (20-78)\nDeals (7-238) to (11-358) Cold Damage\n\nAdditional Effects From Quality:\n\n+(0-10)% maximum Elemental Exposure applied"
+      }
+    ]
+  },
+  {
+    "id": "_r_45_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/HeraldOfAshSkill.webp",
+    "kind": "named",
+    "name": "Herald of Ash",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Herald of Ash\n\nBuff\nPersistent\nAoE\nFire\nDuration\nHerald\nLevel:(4-20)\nCast Time:0.0\nReservaton:30\n\nRequires: Level (10-97), Str (28-211).\n\nWhile active, enemies you sufficiently Overkill with non-Herald Attacks will cause an explosion that Ignites nearby enemies based on the Overkill damage dealt.\n\nIgnite surrounding enemies if Overkill damage is at least 20% of enemy's maximum Life"
+      }
+    ]
+  },
+  {
+    "id": "_r_46_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/DruidWolfLeapAttack.webp",
+    "kind": "named",
+    "name": "Pounce",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Pounce\n\nAttack\nMinion\nShapeshift\nWerewolf\nAoE\nMelee\nSlam\nTrigger\nMark\nDuration\nTravel\nMeta\nLevel:(3-20)\nCast Time:1.0\nMana Range:(20-102) mana\n\nRequires: Level (6-97).\n\nShapeshift into a Werewolf and leap to a target location, damaging enemies in an area around where you land. Predator's Mark will be Triggered targeting the highest Rarity enemy Hit, or if a Mark gem is socketed into this Skill, that Mark will be Triggered instead. Using this Skill allows any Wolf Minions you have to leap immediately.\n\n+0.2 seconds to Total Attack Time\nImpact radius is 2 metres"
+      }
+    ]
+  },
+  {
+    "id": "_r_j1_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/2handeddamage.webp",
+    "kind": "named",
+    "name": "Curved Weapon",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Curved Weapon\n\nNotable\n\n+10 to Dexterity\n15% increased Accuracy Rating"
+      }
+    ]
+  },
+  {
+    "id": "_r_j3_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/2handeddamage.webp",
+    "kind": "named",
+    "name": "Colossal Weapon",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Colossal Weapon\n\nNotable\n\n+10 to Strength\n12% increased Area of Effect for Attacks"
+      }
+    ]
+  },
+  {
+    "id": "_r_j5_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingBarrier.webp",
+    "kind": "named",
+    "name": "Essence of Virtue",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Essence of Virtue\n\nNotable\n\nGrants Skill: Virtuous Barrier"
+      }
+    ]
+  },
+  {
+    "id": "_r_j7_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingSkillsAdditionalSupport.webp",
+    "kind": "named",
+    "name": "Advanced Thaumaturgy",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Advanced Thaumaturgy\n\nNotable\n\nGem Quality grants Socketed Skills an additional effect"
+      }
+    ]
+  },
+  {
+    "id": "_r_j9_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingLevelAllSkillGems.webp",
+    "kind": "named",
+    "name": "Implanted Gems",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Implanted Gems\n\nNotable"
+      }
+    ]
+  },
+  {
+    "id": "_r_jb_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingSameSupportMultipleTimes.webp",
+    "kind": "named",
+    "name": "Gem Studded",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Gem Studded\n\nNotable\n\nFor each colour of Socketed Support Gem that is most numerous, gain:\n•Red: Hits against you have no Critical Damage Bonus\n•Blue: Skills have 30% less cost\n•Green: 40% less Movement Speed Penalty from using Skills while Moving"
+      }
+    ]
+  },
+  {
+    "id": "_r_jd_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+    "kind": "named",
+    "name": "Dousing Charm",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Dousing Charm\n\nCharms\n\nRequires: 32 Level.\n\nUsed when you become Ignited"
+      }
+    ]
+  },
+  {
+    "id": "_r_jf_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Belts/Uniques/headhunter.webp",
+    "kind": "named",
+    "name": "Headhunter",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Headhunter\n\nBelts\n\nRequires: 50 Level.\n\n(20-30)% increased Stun Threshold\nHas (1-3) Charm Slot\n+(40-60) to maximum Life\n+(20-40) to Strength\n+(20-40) to Dexterity\nWhen you kill a Rare monster, you gain its Modifiers for 60 seconds"
+      }
+    ]
+  },
+  {
+    "id": "_r_jh_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/UnsetRing.webp",
+    "kind": "named",
+    "name": "Unset Ring",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Unset Ring\n\nRings\n\nRequires: 44 Level.\n\nGrants 1 additional Skill Slot"
+      }
+    ]
+  },
+  {
+    "id": "_r_jj_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/SkillGemSlotsNode.webp",
+    "kind": "named",
+    "name": "Augmented Flesh",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Augmented Flesh\n\nNotable\n\nGrants 2 additional Skill Slots"
+      }
+    ]
+  },
+  {
+    "id": "_r_jr_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Currency/TormentedSpiritSocketables/AzmeriSocketableFox.webp",
+    "kind": "named",
+    "name": "Fox Idol",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Fox Idol\n\nRequires Level 65\n\nBody Armour: Idols socketed in this item gain the benefits of their Bonded modifiers\nSceptre: 50% increased Presence Area of Effect"
+      }
+    ]
+  },
+  {
+    "id": "_r_jt_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/plusattribute.webp",
+    "kind": "named",
+    "name": "Paragon",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Paragon\n\nNotable\n\n+5% to Quality of all Skills\n+5 to all Attributes"
+      }
+    ]
+  },
+  {
+    "id": "_r_jv_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressArcticArmour.webp",
+    "kind": "named",
+    "name": "Arctic Armour",
+    "stage": 0,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Arctic Armour\n\nBuff\nSpell\nPersistent\nSustained\nCold\nStaged\nLevel:(4-20)\nCast Time:0.0\nCritical Strike Chance:11.00%\nReservaton:30\n\nRequires: Level (10-97), Int (28-211).\n\nWhile active, conjures an icy barrier that gains stages over time. While the barrier has stages, Melee Attacks that hit you will remove a stage to cause a burst of ice that deals Cold Spell damage to the attacker.\n\n100% more Freeze Buildup\n100% more Magnitude of Chill inflicted\nGains a Stage every (0.7-1.1) seconds, up to a maximum of (3-5) Stages\nDeals (8-101) to (12-152) Cold Damage per Stage\nGains a Stage every second, up to a maximum of (3-5) Stages\n\nAdditional Effects From Quality:\n\nGains a Stage every seconds, up to a maximum of (0-1) Stages"
+      }
+    ]
+  },
+  {
+    "id": "_r_2c_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/IronRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 0,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Iron Ring\n\nRings\n\nGloves: Adds 1 to 4 Physical Damage to Attacks"
+      }
+    ]
+  },
+  {
+    "id": "_r_5ui_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow04.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 1,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Varnished Crossbow\n\nCrossbows\n\nCritical Hit Chance:5\nWeapon Speed:12\nPhysical Damage:18-54\n\nRequires: 16 Level, 19 Strength, 19 Dexterity.\n\n(40-49)% increased Physical Damage\nP8"
+      }
+    ]
+  },
+  {
+    "id": "_r_5mb_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/IronRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 1,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Iron Ring\n\nRings\n\nGloves: Adds 1 to 4 Physical Damage to Attacks\nAdds (1-2) to 3 Physical Damage to Attacks\nP9"
+      }
+    ]
+  },
+  {
+    "id": "_r_5me_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 1,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Face Mask\n\nHelmets\n\nEvasion Rating:32\nEnergy Shield:16\n\nRequires: 10 Level, 10 Intelligence, 10 Dexterity.\n\n+(60-69) to maximum Life\nP9"
+      }
+    ]
+  },
+  {
+    "id": "_r_5mh_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/AmberAmulet.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 1,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Amber Amulet\n\nAmulets\n\nRequires: 8 Level.\n\nArmour: Wand or Staff: Martial Weapon: All: +(10-15) to Strength\n+(85-99) to maximum Life\nP7"
+      }
+    ]
+  },
+  {
+    "id": "_r_5mk_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/IronRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 1,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_5mn_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 1,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Runeforged Sombre Gloves\n\nGloves\n\nEnergy Shield:15\n\nRequires: 12 Level, 17 Intelligence.\n\nAdds (2-3) to (4-6) Physical Damage to Attacks\nP8"
+      }
+    ]
+  },
+  {
+    "id": "_r_5mq_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 1,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Utility Belt\n\nBelts\n\nRequires: 55 Level.\n\n20% of Flask Recovery applied Instantly\n+(100-119) to maximum Life\nP6"
+      }
+    ]
+  },
+  {
+    "id": "_r_5mt_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 1,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Bronze Greaves\n\nBoots\n\nArmour:74\n\nRequires: 16 Level, 23 Strength.\n\n20% increased Movement Speed\nP4"
+      }
+    ]
+  },
+  {
+    "id": "_r_5n0_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 1,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Thawing Charm\n\nCharms\n\nRequires: 12 Level.\n\nUsed when you become Frozen"
+      }
+    ]
+  },
+  {
+    "id": "_r_5t1_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+    "kind": "named",
+    "name": "Bombard Crossbow",
+    "stage": 1,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Bombard Crossbow\n\nCrossbows\n\n5Critical Hit Chance\n12Weapon Speed\n14-56Physical Damage\n\nRequires: 33 Level, 34 Strength, 34 Dexterity.\n\nGrenade Skills Fire an additional Projectile"
+      }
+    ]
+  },
+  {
+    "id": "_r_5o1_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MultipleProjectilesSupportGem.webp",
+    "kind": "named",
+    "name": "Multishot II",
+    "stage": 1,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Multishot II\n\nSupport\nProjectile\nLevel:(1-1)\nCast Time:0.0\n\nSupports Projectile skills, making them fire extra Projectiles. Also lowers Attack and Cast speed of supported skills, as well as lessening their damage.\n\nFires 2 additional Projectiles\nSupported Skills deal 25% less Damage\nSupported Skills have 20% less Skill Speed"
+      }
+    ]
+  },
+  {
+    "id": "_r_5o2_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/WeaponElementalDamageSupportGem.webp",
+    "kind": "named",
+    "name": "Elemental Armament II",
+    "stage": 1,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Elemental Armament II\n\nSupport\nAttack\nLevel:(1-1)\nCast Time:0.0\n\nSupports Attacks, causing them to deal more Elemental damage.\n\nSupported Skills deal 25% more Elemental Attack damage"
+      }
+    ]
+  },
+  {
+    "id": "_r_5o3_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ExpediteSupportGem.webp",
+    "kind": "named",
+    "name": "Short Fuse I",
+    "stage": 1,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Short Fuse I\n\nSupport\nLevel:(1-1)\nCast Time:0.0\n\nSupports Skills which Detonate after some amount of time has elapsed, shortening the time before Detonation.\n\nSupported Skills have 40% less Detonation Time"
+      }
+    ]
+  },
+  {
+    "id": "_r_5ob_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/StripAwaySupportGem.webp",
+    "kind": "named",
+    "name": "Potent Exposure",
+    "stage": 1,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Potent Exposure\n\nSupport\nSpell\nLevel:(1-1)\nCast Time:0.0\n\nSupports Skills which apply Exposure to Enemies, increasing the effect of applied Exposure.\n\nExposure applied by Supported Skills has 20% increased effect"
+      }
+    ]
+  },
+  {
+    "id": "_r_5od_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IncreasedAreaOfEffectSupportGem.webp",
+    "kind": "named",
+    "name": "Magnified Area I",
+    "stage": 1,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Magnified Area I\n\nSupport\nAoE\nLevel:(1-1)\nCast Time:0.0\n\nSupports any skill with an area of effect, making it larger.\n\n35% increased Area of Effect"
+      }
+    ]
+  },
+  {
+    "id": "_r_5of_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/CooldownReductionSupportGem.webp",
+    "kind": "named",
+    "name": "Cooldown Recovery I",
+    "stage": 1,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Cooldown Recovery I\n\nSupport\nLevel:(1-1)\nCast Time:0.0\n\nSupports skills with Cooldowns, increasing the rate at which those Cooldowns Recover. Cannot modify the skills of minions.\n\nSupported Skills have 25% increased cooldown recovery rate"
+      }
+    ]
+  },
+  {
+    "id": "_r_5vq_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 2,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Bombard Crossbow\n\nCrossbows\n\nCritical Hit Chance:5\nWeapon Speed:12\nPhysical Damage:26-103\n\nRequires: 33 Level, 34 Strength, 34 Dexterity.\n\nGrenade Skills Fire an additional Projectile\n(65-84)% increased Physical Damage\nP6"
+      }
+    ]
+  },
+  {
+    "id": "_r_5vt_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 2,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Topaz Ring\n\nRings\n\nRequires: 16 Level.\n\nArmour: +(20-30)% to Lightning Resistance\nAdds (1-2) to 3 Physical Damage to Attacks\nP9"
+      }
+    ]
+  },
+  {
+    "id": "_r_600_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 2,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Face Mask\n\nHelmets\n\nEvasion Rating:32\nEnergy Shield:16\n\nRequires: 10 Level, 10 Intelligence, 10 Dexterity.\n\n+(60-69) to maximum Life\nP9"
+      }
+    ]
+  },
+  {
+    "id": "_r_603_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/AmberAmulet.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 2,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Amber Amulet\n\nAmulets\n\nRequires: 8 Level.\n\nArmour: Wand or Staff: Martial Weapon: All: +(10-15) to Strength\n+(85-99) to maximum Life\nP7"
+      }
+    ]
+  },
+  {
+    "id": "_r_606_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 2,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_609_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 2,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Runeforged Sombre Gloves\n\nGloves\n\nEnergy Shield:15\n\nRequires: 12 Level, 17 Intelligence.\n\nAdds (2-3) to (4-6) Physical Damage to Attacks\nP8"
+      }
+    ]
+  },
+  {
+    "id": "_r_60c_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 2,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Utility Belt\n\nBelts\n\nRequires: 55 Level.\n\n20% of Flask Recovery applied Instantly\n+(100-119) to maximum Life\nP6"
+      }
+    ]
+  },
+  {
+    "id": "_r_60f_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 2,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Bronze Greaves\n\nBoots\n\nArmour:74\n\nRequires: 16 Level, 23 Strength.\n\n20% increased Movement Speed\nP4"
+      }
+    ]
+  },
+  {
+    "id": "_r_60i_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 2,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Thawing Charm\n\nCharms\n\nRequires: 12 Level.\n\nUsed when you become Frozen"
+      }
+    ]
+  },
+  {
+    "id": "_r_695_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Pyrophyte Staff\n\nStaves\n\nRequires: 16 Level, 31 Intelligence.\n\nGrants Skill: Solar Orb\n(69-88)% increased Fire Damage\nP7\n+4 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_698_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Topaz Ring\n\nRings\n\nRequires: 16 Level.\n\nArmour: +(20-30)% to Lightning Resistance\n+(100-119) to maximum Life\nP6"
+      }
+    ]
+  },
+  {
+    "id": "_r_69b_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Face Mask\n\nHelmets\n\nEvasion Rating:32\nEnergy Shield:16\n\nRequires: 10 Level, 10 Intelligence, 10 Dexterity.\n\n+(60-69) to maximum Life\nP9"
+      }
+    ]
+  },
+  {
+    "id": "_r_69e_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex08.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ancestral Mail\n\nBody Armours\n\nArmour:409\nEvasion Rating:371\n\nRequires: 50 Level, 44 Strength, 44 Dexterity.\n\n(80-91)% increased Armour and Evasion\nP3"
+      }
+    ]
+  },
+  {
+    "id": "_r_69h_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Uniques/surefootedsigil.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Surefooted Sigil\n\nAmulets\n\nRequires: 8 Level.\n\nNatural grace is born, not earned.\n\nArmour: Wand or Staff: Martial Weapon: All: +(10-15) to Dexterity\n+(10-15) to Dexterity\n+(40-60) to maximum Life\n+(5-15) to Dexterity\n+1 metre to Dodge Roll distance\n50% increased Evasion Rating if you've Dodge Rolled Recently"
+      }
+    ]
+  },
+  {
+    "id": "_r_69k_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_69n_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Pyrophyte Staff\n\nStaves\n\nRequires: 16 Level, 31 Intelligence.\n\nGrants Skill: Solar Orb\n(69-88)% increased Fire Damage\nP7\n+4 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_69q_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Runeforged Sombre Gloves\n\nGloves\n\nEnergy Shield:15\n\nRequires: 12 Level, 17 Intelligence.\n\n+(85-99) to maximum Life\nP7"
+      }
+    ]
+  },
+  {
+    "id": "_r_69t_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Utility Belt\n\nBelts\n\nRequires: 55 Level.\n\n20% of Flask Recovery applied Instantly\n+(100-119) to maximum Life\nP6"
+      }
+    ]
+  },
+  {
+    "id": "_r_6a0_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Bronze Greaves\n\nBoots\n\nArmour:74\n\nRequires: 16 Level, 23 Strength.\n\n20% increased Movement Speed\nP4"
+      }
+    ]
+  },
+  {
+    "id": "_r_6a3_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife08.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Transcendent Life Flask\n\nLife Flasks\n\nRequires: 50 Level.\n\n(20-23)% of Recovery applied Instantly\nP3"
+      }
+    ]
+  },
+  {
+    "id": "_r_6a5_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Thawing Charm\n\nCharms\n\nRequires: 12 Level.\n\nUsed when you become Frozen"
+      }
+    ]
+  },
+  {
+    "id": "_r_6a7_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Dousing Charm\n\nCharms\n\nRequires: 32 Level.\n\nUsed when you become Ignited"
+      }
+    ]
+  },
+  {
+    "id": "_r_6a9_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/SilverCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Silver Charm\n\nCharms\n\nRequires: 10 Level.\n\nUsed when you are affected by a Slow"
+      }
+    ]
+  },
+  {
+    "id": "_r_6ab_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskMana07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gargantuan Mana Flask\n\nMana Flasks\n\nRequires: 40 Level."
+      }
+    ]
+  },
+  {
+    "id": "_r_6ad_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire\n\n(10-20)% increased Flammability Magnitude"
+      }
+    ]
+  },
+  {
+    "id": "_r_6af_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ruby\n\n(10-20)% increased Flammability Magnitude"
+      }
+    ]
+  },
+  {
+    "id": "_r_6ah_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire\n\nDamaging Ailments deal damage (2–4)% faster"
+      }
+    ]
+  },
+  {
+    "id": "_r_695_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 2,
+    "tips": [
+      {
+        "text": "Bombard Crossbow\n\nCrossbows\n\nCritical Hit Chance:5\nWeapon Speed:12\nPhysical Damage:14-56\n\nRequires: 33 Level, 34 Strength, 34 Dexterity.\n\nGrenade Skills Fire an additional Projectile\n+2 to Level of all Projectile Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_6h8_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/DruidTornado.webp",
+    "kind": "named",
+    "name": "Tornado",
+    "stage": 3,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Tornado\n\nSpell\nAoE\nPhysical\nDuration\nWind\nStorm\nLevel:(11-20)\nCast Time:0.0\nMana Range:(42-110) mana\n\nRequires: Level (41-97).\n\nCreate a storm that sucks in enemies and deals Physical damage over time. A Tornado that overlaps an Elemental Ground Surface absorbs that surface's Debuff, applying it to enemies inside the Tornado and causing the Tornado to deal extra damage of that element.\n\nModifiers to Spell Damage apply to Debuff's Damage over Time\nLimit 1 Tornado\nTornado duration is 8 seconds\nTornado radius is 3 metres\nDeals (36.4-146.1) Physical damage per second\nDeals (72.9-292.2) damage per second of each absorbed\nElemental Damage type\n\nAdditional Effects From Quality:\n\n+(0-2) seconds to Tornado duration"
+      }
+    ]
+  },
+  {
+    "id": "_r_6hc_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/elementalweakness.webp",
+    "kind": "named",
+    "name": "Elemental Weakness",
+    "stage": 3,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Elemental Weakness\n\nSpell\nAoE\nLightning\nCold\nFire\nDuration\nCurse\nRepeatable\nLevel:(7-20)\nCast Time:0.0\nMana Range:(76-178) mana\n\nRequires: Level (22-97), Int (53-211).\n\nCurse all targets in an area after a short delay, lowering their Elemental Resistances.\n\nCurse applies after 1.5 seconds delay\nCurse duration is (6.4-7.4) seconds\nCurse radius is (2-3.1) metres\nCurse inflicts +(-59--46)% to Elemental Resistances\nCurse does not apply to enemies above level (0-78)\n\nAdditional Effects From Quality:\n\n(0-10)% increased Curse Magnitudes"
+      }
+    ]
+  },
+  {
+    "id": "_r_6bl_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/AddedConsideredCastingSupportGem.webp",
+    "kind": "named",
+    "name": "Considered Casting",
+    "stage": 3,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Considered Casting\n\nSupport\nSpell\nLevel:(1-1)\nCast Time:0.0\n\nSupports Spell Skills that Hit Enemies and you cast yourself, boosting Damage at the cost of Cast Speed.\n\nSupported Spell Skills have 15% less Cast Speed\nSupported Spells deal 35% more Damage"
+      }
+    ]
+  },
+  {
+    "id": "_r_6bm_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/SearingFlameSupportGem.webp",
+    "kind": "named",
+    "name": "Searing Flame II",
+    "stage": 3,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Searing Flame II\n\nSupport\nFire\nLevel:(1-1)\nCast Time:0.0\n\nSupports any skill that Hits enemies, causing inflicted Ignites to deal more damage but its Hits to deal less damage.\n\nSupported Skills deal 30% less Damage with Hits\n100% more Magnitude of Ignite inflicted with Supported Skills"
+      }
+    ]
+  },
+  {
+    "id": "_r_6bn_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ConcentratedEffectSupportGem.webp",
+    "kind": "named",
+    "name": "Concentrated Area",
+    "stage": 3,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Concentrated Area\n\nSupport\nAoE\nLevel:(1-1)\nCast Time:0.0\n\nSupports any skill with an area of effect, causing that area to be smaller but any area damage it deals to be higher.\n\nSupported Skills have 50% less Area of Effect\nSupported Skills deal 30% more Area Damage"
+      }
+    ]
+  },
+  {
+    "id": "_r_6bo_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ChannellingDamageSupportGem.webp",
+    "kind": "named",
+    "name": "Burgeon II",
+    "stage": 3,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Burgeon II\n\nSupport\nChannelling\nLevel:(1-1)\nCast Time:0.0\n\nSupports Channelling Skills you use yourself, causing them to deal more damage the longer they have been Channelled.\n\nSupported Skills deal 20% more Damage per second spent Channelling, up to 40%"
+      }
+    ]
+  },
+  {
+    "id": "_r_6bq_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ExpediteSupportGem.webp",
+    "kind": "named",
+    "name": "Short Fuse II",
+    "stage": 3,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Short Fuse II\n\nSupport\nLevel:(1-1)\nCast Time:0.0\n\nSupports Skills which Detonate after some amount of time has elapsed, massively shortening the time before Detonation at the cost of Damage.\n\nSupported Skills have 80% less Detonation Time\nSupported Skills deal 30% less Damage"
+      }
+    ]
+  },
+  {
+    "id": "_r_6br_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/NovaProjectilesSupportGem.webp",
+    "kind": "named",
+    "name": "Nova Projectiles I",
+    "stage": 3,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Nova Projectiles I\n\nSupport\nProjectile\nLevel:(1-1)\nCast Time:0.0\n\nSupports Projectile Skills, making them fire Projectiles in a circle. Does not Support Skills which rain down Projectiles from above.\n\nSupported Skills fire Projectiles in a circle"
+      }
+    ]
+  },
+  {
+    "id": "_r_6bt_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IncreasedAreaOfEffectSupportGem.webp",
+    "kind": "named",
+    "name": "Magnified Area II",
+    "stage": 3,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Magnified Area II\n\nSupport\nAoE\nLevel:(1-1)\nCast Time:0.0\n\nSupports any skill with an area of effect, making it larger.\n\n45% increased Area of Effect"
+      }
+    ]
+  },
+  {
+    "id": "_r_6c1_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/CurseEffectSupportGem.webp",
+    "kind": "named",
+    "name": "Heightened Curse",
+    "stage": 3,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Heightened Curse\n\nSupport\nCurse\nLevel:(1-1)\nCast Time:0.0\n\nSupports Curse Skills, magnifying their power.\n\nSupported Curses have 25% increased Magnitudes"
+      }
+    ]
+  },
+  {
+    "id": "_r_6c2_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/FocusedHexSupportGem.webp",
+    "kind": "named",
+    "name": "Focused Curse",
+    "stage": 3,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Focused Curse\n\nSupport\nCurse\nLevel:(1-1)\nCast Time:0.0\n\nSupports Curse skills, causing them to Curse enemies more quickly after being cast.\n\nCurse zones from Supported\nSkills erupt after 50% less delay"
+      }
+    ]
+  },
+  {
+    "id": "_r_6c4_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ExpandSupportGem.webp",
+    "kind": "named",
+    "name": "Expand",
+    "stage": 3,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Expand\n\nSupport\nSpell\nAoE\nLevel:(1-1)\nCast Time:0.0\n\nSupports Spells you cast yourself, Sealing them over time. The Seals are broken when cast, increasing area of effect. Cannot support Channelling Skills or Skills with a Cooldown or which already gain Seals.\n\nSupported Skills have a maximum of 3 Seals\nSupported Spells gain a Seal every 200% of cast time\nSupported Skills get 30% increased area of effect per Seal broken"
+      }
+    ]
+  },
+  {
+    "id": "_r_6c5_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MovingStormSupportGem.webp",
+    "kind": "named",
+    "name": "Advancing Storm",
+    "stage": 3,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Advancing Storm\n\nSupport\nStorm\nLevel:(1-1)\nCast Time:0.0\n\nSupports Storm skills, causing them to appear at the user's location and move towards the target location.\n\nSupported Skills originate from the player and move towards the target location"
+      }
+    ]
+  },
+  {
+    "id": "_r_6c6_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MoreDurationSupportGem.webp",
+    "kind": "named",
+    "name": "Prolonged Duration II",
+    "stage": 3,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Prolonged Duration II\n\nSupport\nDuration\nLevel:(1-1)\nCast Time:0.0\n\nSupports any skill that has a duration, making that duration longer.\n\nSupported Skills have 35% more Skill Effect Duration"
+      }
+    ]
+  },
+  {
+    "id": "_r_6jo_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Pyrophyte Staff\n\nStaves\n\nRequires: 16 Level, 31 Intelligence.\n\nGrants Skill: Solar Orb\n(69-88)% increased Fire Damage\nP7\n+4 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_6jr_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_6ju_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Face Mask\n\nHelmets\n\nEvasion Rating:32\nEnergy Shield:16\n\nRequires: 10 Level, 10 Intelligence, 10 Dexterity.\n\n+(60-69) to maximum Life\nP9"
+      }
+    ]
+  },
+  {
+    "id": "_r_6k1_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex08.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ancestral Mail\n\nBody Armours\n\nArmour:409\nEvasion Rating:371\n\nRequires: 50 Level, 44 Strength, 44 Dexterity.\n\n(80-91)% increased Armour and Evasion\nP3"
+      }
+    ]
+  },
+  {
+    "id": "_r_6k4_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Uniques/surefootedsigil.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Surefooted Sigil\n\nAmulets\n\nRequires: 8 Level.\n\nNatural grace is born, not earned.\n\nArmour: Wand or Staff: Martial Weapon: All: +(10-15) to Dexterity\n+(10-15) to Dexterity\n+(40-60) to maximum Life\n+(5-15) to Dexterity\n+1 metre to Dodge Roll distance\n50% increased Evasion Rating if you've Dodge Rolled Recently"
+      }
+    ]
+  },
+  {
+    "id": "_r_6k7_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_6sr_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Pyrophyte Staff\n\nStaves\n\nRequires: 16 Level, 31 Intelligence.\n\nGrants Skill: Solar Orb\n(69-88)% increased Fire Damage\nP7\n+4 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_6ka_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Runeforged Sombre Gloves\n\nGloves\n\nEnergy Shield:15\n\nRequires: 12 Level, 17 Intelligence.\n\n+(85-99) to maximum Life\nP7"
+      }
+    ]
+  },
+  {
+    "id": "_r_6kd_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Utility Belt\n\nBelts\n\nRequires: 55 Level.\n\n20% of Flask Recovery applied Instantly\n+(100-119) to maximum Life\nP6"
+      }
+    ]
+  },
+  {
+    "id": "_r_6kg_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Bronze Greaves\n\nBoots\n\nArmour:74\n\nRequires: 16 Level, 23 Strength.\n\n20% increased Movement Speed\nP4"
+      }
+    ]
+  },
+  {
+    "id": "_r_6kj_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife08.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Transcendent Life Flask\n\nLife Flasks\n\nRequires: 50 Level.\n\n(20-23)% of Recovery applied Instantly\nP3"
+      }
+    ]
+  },
+  {
+    "id": "_r_6kl_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Thawing Charm\n\nCharms\n\nRequires: 12 Level.\n\nUsed when you become Frozen"
+      }
+    ]
+  },
+  {
+    "id": "_r_6kn_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Dousing Charm\n\nCharms\n\nRequires: 32 Level.\n\nUsed when you become Ignited"
+      }
+    ]
+  },
+  {
+    "id": "_r_6kp_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/SilverCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Silver Charm\n\nCharms\n\nRequires: 10 Level.\n\nUsed when you are affected by a Slow"
+      }
+    ]
+  },
+  {
+    "id": "_r_6kr_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskMana07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gargantuan Mana Flask\n\nMana Flasks\n\nRequires: 40 Level."
+      }
+    ]
+  },
+  {
+    "id": "_r_6kt_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire\n\n(10-20)% increased Flammability Magnitude"
+      }
+    ]
+  },
+  {
+    "id": "_r_6kv_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ruby\n\n(10-20)% increased Flammability Magnitude"
+      }
+    ]
+  },
+  {
+    "id": "_r_6l1_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire\n\nDamaging Ailments deal damage (2–4)% faster"
+      }
+    ]
+  },
+  {
+    "id": "_r_6jo_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 2,
+    "tips": [
+      {
+        "text": "Bombard Crossbow\n\nCrossbows\n\nCritical Hit Chance:5\nWeapon Speed:13.92\nPhysical Damage:14-56\n\nRequires: 33 Level, 34 Strength, 34 Dexterity.\n\nGrenade Skills Fire an additional Projectile\nGrenade Skills have +1 Cooldown Use\nP1\n+2 to Level of all Projectile Skills\nS1\n(14-16)% increased Attack Speed\nS5"
+      }
+    ]
+  },
+  {
+    "id": "_r_6s0_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/firedamagestr.webp",
+    "kind": "named",
+    "name": "Burnout",
+    "stage": 4,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Burnout\n\nNotable\n\nIgnites you inflict deal Damage 15% faster"
+      }
+    ]
+  },
+  {
+    "id": "_r_6m9_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ControlledDestructionSupportGem.webp",
+    "kind": "named",
+    "name": "Controlled Destruction",
+    "stage": 4,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Controlled Destruction\n\nSupport\nSpell\nLevel:(1-1)\nCast Time:0.0\n\nSupports Spells that Hit enemies, boosting their damage but preventing them from dealing Critical Hits.\n\nSupported Skills cannot deal Critical Hits\nSupported Spells deal 25% more Hit Damage"
+      }
+    ]
+  },
+  {
+    "id": "_r_6mh_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IncreaseLimitSupportGem.webp",
+    "kind": "named",
+    "name": "Overabundance II",
+    "stage": 4,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Overabundance II\n\nSupport\nLevel:(1-1)\nCast Time:0.0\n\nSupports Skills which have a Limit, increasing that Limit at the cost of their duration. Only applies to restrictions that use the word \"Limit\".\n\nSupported Skills have +1 to Limit\nSupported Skills have 40% less Skill Effect Duration"
+      }
+    ]
+  },
+  {
+    "id": "_r_6mi_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/SpellEchoSupportGem.webp",
+    "kind": "named",
+    "name": "Spell Echo",
+    "stage": 4,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Spell Echo\n\nSupport\nSpell\nAoE\nLevel:(1-1)\nCast Time:0.0\n\nSupports Cascadable Spells you use yourself. Supported Spells Echo.\n\nSupported Skills have 30% less Cast Speed\nSupported Spells Echo 1 time\nEchoes from Supported Spells have 40% increased Area of Effect"
+      }
+    ]
+  },
+  {
+    "id": "_r_6mm_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/InspirationSupportGem.webp",
+    "kind": "named",
+    "name": "Efficiency II",
+    "stage": 4,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Efficiency II\n\nSupport\nLevel:(1-1)\nCast Time:0.0\n\nSupports any skill, making it cost less to use. Cannot support skills which reserve Spirit.\n\nSupported Skills have 40% less Cost"
+      }
+    ]
+  },
+  {
+    "id": "_r_6ud_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Pyrophyte Staff\n\nStaves\n\nRequires: 16 Level, 31 Intelligence.\n\nGrants Skill: Solar Orb\n(149-188)% increased Fire Damage\nP3\nGain (49-54)% of Damage as Extra Fire Damage\nP2\n(149-188)% increased Spell Damage\nP3\n+7 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_6ui_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_6ul_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr06.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Runeforged Cryptic Crown\n\nHelmets\n\nArmour:86\nEnergy Shield:24\n\nRequires: 80 Level, 63 Strength, 63 Intelligence.\n\n+(175-189) to maximum Life\nP3\n(8-11)% increased Rarity of Items found\nP5\n+(4-7)% to Chaos Resistance\nS7\n(6-10)% increased Rarity of Items found\nS5"
+      }
+    ]
+  },
+  {
+    "id": "_r_6uo_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Wolfskin Mantle\n\nBody Armours\n\nArmour:313\nEnergy Shield:87\n\nRequires: 65 Level, 67 Strength, 67 Intelligence.\n\n+(200-214) to maximum Life\nP1\n+(57-61) to Spirit\nP1"
+      }
+    ]
+  },
+  {
+    "id": "_r_6ut_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_6v0_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_784_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Pyrophyte Staff\n\nStaves\n\nRequires: 16 Level, 31 Intelligence.\n\nGrants Skill: Solar Orb\n(149-188)% increased Fire Damage\nP3\nGain (49-54)% of Damage as Extra Fire Damage\nP2\n(149-188)% increased Spell Damage\nP3\n+7 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_6v3_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr04.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Runeforged Adherent Cuffs\n\nGloves\n\nArmour:39\nEnergy Shield:11\n\nRequires: 80 Level, 55 Strength, 55 Intelligence.\n\n+(120-149) to maximum Life\nP5\n(6-10)% increased Rarity of Items found\nS5"
+      }
+    ]
+  },
+  {
+    "id": "_r_6v6_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Utility Belt\n\nBelts\n\nArmour:225\n\nRequires: 55 Level.\n\n20% of Flask Recovery applied Instantly\n+(120-149) to maximum Life\nP5\n+(187-225) to Armour\nP4\n+(31-33) to Strength\nS2\n+(31-35)% to Fire Resistance\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_6v9_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr04.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Rune of Acrobatics\n\nRequires Level 15\n\nMartial Or Caster Weapon: Flasks gain 0.2 charges per Second\nBoots: +0.3 metres to Dodge Roll distance"
+      }
+    ]
+  },
+  {
+    "id": "_r_6vd_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife08.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Transcendent Life Flask\n\nLife Flasks\n\nRequires: 50 Level.\n\n(20-23)% of Recovery applied Instantly\nP3"
+      }
+    ]
+  },
+  {
+    "id": "_r_6vf_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Thawing Charm\n\nCharms\n\nRequires: 12 Level.\n\nUsed when you become Frozen"
+      }
+    ]
+  },
+  {
+    "id": "_r_6vh_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Dousing Charm\n\nCharms\n\nRequires: 32 Level.\n\nUsed when you become Ignited"
+      }
+    ]
+  },
+  {
+    "id": "_r_6vj_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/SilverCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Silver Charm\n\nCharms\n\nRequires: 10 Level.\n\nUsed when you are affected by a Slow"
+      }
+    ]
+  },
+  {
+    "id": "_r_6vl_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskMana07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_6vn_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire\n\n(10-20)% increased Flammability Magnitude"
+      }
+    ]
+  },
+  {
+    "id": "_r_6vp_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ruby\n\n(10-20)% increased Flammability Magnitude"
+      }
+    ]
+  },
+  {
+    "id": "_r_6vr_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire\n\nDamaging Ailments deal damage (2–4)% faster"
+      }
+    ]
+  },
+  {
+    "id": "_r_6ud_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Pyrophyte Staff\n\nStaves\n\nRequires: 16 Level, 31 Intelligence.\n\nGrants Skill: Solar Orb\n(149-188)% increased Fire Damage\nP3\nGain (49-54)% of Damage as Extra Fire Damage\nP2\n(149-188)% increased Spell Damage\nP3\n+7 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_6ui_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Topaz Ring\n\nRings\n\nRequires: 16 Level.\n\nArmour: +(20-30)% to Lightning Resistance\n+(100-119) to maximum Life\nP6\n(27-30)% increased Fire Damage\nP1\n+(26-30)% to Lightning Resistance\nS4\n+(26-30)% to Cold Resistance\nS4\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_6uo_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Wolfskin Mantle\n\nBody Armours\n\nArmour:313\nEnergy Shield:87\n\nRequires: 65 Level, 67 Strength, 67 Intelligence.\n\n+(200-214) to maximum Life\nP1\n+(57-61) to Spirit\nP1"
+      }
+    ]
+  },
+  {
+    "id": "_r_6ut_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gold Amulet\n\nAmulets\n\nRequires: 35 Level.\n\nAllocates Paragon\nBody Armour: (12-20)% increased Rarity of Items found\n+(100-119) to maximum Life\nP6\n+(34-37) to Spirit\nP7\n+(3-5)% to Quality of all Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_6v0_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_784_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Pyrophyte Staff\n\nStaves\n\nRequires: 16 Level, 31 Intelligence.\n\nGrants Skill: Solar Orb\n(149-188)% increased Fire Damage\nP3\nGain (49-54)% of Damage as Extra Fire Damage\nP2\n(149-188)% increased Spell Damage\nP3\n+7 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_6v9_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr04.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Runeforged Cryptic Leggings\n\nBoots\n\nArmour:59\nEnergy Shield:16\n\nRequires: 80 Level, 59 Strength, 59 Intelligence.\n\n+(190-199) to maximum Life\nP2\n35% increased Movement Speed\nP1\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_6ud_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 2,
+    "tips": [
+      {
+        "text": "Bombard Crossbow\n\nCrossbows\n\nCritical Hit Chance:5\nWeapon Speed:13.92\nPhysical Damage:14-56\n\nRequires: 33 Level, 34 Strength, 34 Dexterity.\n\nGrenade Skills Fire an additional Projectile\nGrenade Skills have +1 Cooldown Use\nP1\n(14-16)% increased Attack Speed\nS5\n+3 to Level of all Projectile Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_76j_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Uniques/MoriorInvictus_M.webp",
+    "kind": "named",
+    "name": "Morior Invictus (life)",
+    "stage": 5,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Morior Invictus (life)\n\nBody Armours\n\n182Armour\n165Evasion Rating\n50Energy Shield\n\nRequires: 65 Level, 41 Strength, 41 Intelligence, 41 Dexterity.\n\nSockets: S S S S\n+(45-60) to maximum Life per Socket filled"
+      }
+    ]
+  },
+  {
+    "id": "_r_76l_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Currency/Runes/PerfectRuneLife.webp",
+    "kind": "named",
+    "name": "Perfect Body Rune",
+    "stage": 5,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Perfect Body Rune\n\nRequires Level 65\n\nMartial Weapon: Leeches 6% of Physical Damage as Life\nWand or Staff: +60 to maximum Energy Shield\nArmour: +75 to maximum Life"
+      }
+    ]
+  },
+  {
+    "id": "_r_76n_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Currency/SoulCores/GreaterSoulCoreWealthRarity.webp",
+    "kind": "named",
+    "name": "Soul Core of Azcapa",
+    "stage": 5,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Soul Core of Azcapa\n\nRequires Level 35\n\nMartial Weapon: +15 to Spirit\nGloves: 10% increased Quantity of Gold Dropped by Slain Enemies"
+      }
+    ]
+  },
+  {
+    "id": "_r_76p_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Rings/Uniques/blackflame.webp",
+    "kind": "named",
+    "name": "Blackflame",
+    "stage": 5,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Blackflame\n\nRings\n\nRequires: 20 Level.\n\nArmour: +(7-13)% to Chaos Resistance\n+(7-13)% to Chaos Resistance\n(15-30)% increased Mana Regeneration Rate\n50% increased Ignite Magnitude\n50% reduced Ignite Duration on Enemies\nEnemies Ignited by you take Chaos Damage instead of Fire Damage from Ignite\n\nBeyond the veil of death, there burns a fire\nby whose light night is borne."
+      }
+    ]
+  },
+  {
+    "id": "_r_76r_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/WitchWitheringPresence.webp",
+    "kind": "named",
+    "name": "Withering Presence",
+    "stage": 5,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Withering Presence\n\nBuff\nPersistent\nAura\nChaos\nDuration\nLevel:(4-20)\nCast Time:1.0\nReservaton:30\n\nRequires: Level (10-97), Int (28-211).\n\nWhile active, emits an Aura that periodically Withers enemies in your Presence.\n\nWithered duration is 6 seconds\nWithers enemies in your Presence every (1.4-1.7) seconds\n\nAdditional Effects From Quality:\n\nWithered duration is (0-1) seconds"
+      }
+    ]
+  },
+  {
+    "id": "_r_76t_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Amulets/Uniques/surefootedsigil.webp",
+    "kind": "named",
+    "name": "Surefooted Sigil",
+    "stage": 5,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Surefooted Sigil\n\nAmulets\n\nRequires: 8 Level.\n\nArmour: Wand or Staff: Martial Weapon: All: +(10-15) to Dexterity\n+(10-15) to Dexterity\n+(40-60) to maximum Life\n+(5-15) to Dexterity\n+1 metre to Dodge Roll distance\n50% increased Evasion Rating if you've Dodge Rolled Recently\n\nNatural grace is born, not earned."
+      }
+    ]
+  },
+  {
+    "id": "_r_76v_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+    "kind": "named",
+    "name": "Gold Amulet",
+    "stage": 5,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Gold Amulet\n\nAmulets\n\nRequires: 35 Level.\n\nBody Armour: (12-20)% increased Rarity of Items found"
+      }
+    ]
+  },
+  {
+    "id": "_r_719_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ExpandingGroundSupportGem.webp",
+    "kind": "named",
+    "name": "Encroaching Ground",
+    "stage": 5,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Encroaching Ground\n\nSupport\nAoE\nLevel:(1-1)\nCast Time:0.0\n\nSupports Skills that create Ground Surfaces, causing those Surfaces to grow over time, up to a limit.\n\nGround Surfaces created by Supported Skills gain 20% increased Area of Effect per second, up to a maximum of 100%\nGains 20% more Area of Effect per second, up to a maximum of 100%"
+      }
+    ]
+  },
+  {
+    "id": "_r_71r_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/AddedImpetusSupportGem.webp",
+    "kind": "named",
+    "name": "Boundless Energy II",
+    "stage": 5,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Boundless Energy II\n\nSupport\nLevel:(1-1)\nCast Time:0.0\n\nSupports Meta Skills. Supported Skills generate Energy significantly faster.\n\nSupported Skills gain 45% increased Energy"
+      }
+    ]
+  },
+  {
+    "id": "_r_71s_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressEnergyRemnants.webp",
+    "kind": "named",
+    "name": "Mana Remnants",
+    "stage": 5,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Mana Remnants\n\nBuff\nPersistent\nRemnant\nLevel:(4-20)\nCast Time:0.0\nReservaton:30\n\nRequires: Level (10-97), Int (28-211).\n\nConjure surging arcane energy to restore your Mana. While active, enemies you kill affected by Elemental Ailments have a chance to spawn a Mana Remnant, and Critically Hitting a target with Elemental Ailments spawns a Mana Remnant every few seconds. Picking up a Mana Remnant grants you Mana which can Overflow maximum Mana.\n\nSpawn a Remnant on Critically Hitting a target affected by an Elemental Ailment, no more than once every 2 seconds\n25% chance to spawn a Remnant on killing an enemy affected by an Elemental Ailment\nRemnants last for 8 seconds\nEach Remnant grants (47-281) Mana\n\nAdditional Effects From Quality:\n\nEach Remnant grants (0-40) Mana"
+      }
+    ]
+  },
+  {
+    "id": "_r_71t_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/Lineage/LineageKhatal.webp",
+    "kind": "named",
+    "name": "Khatal's Rejuvenation",
+    "stage": 5,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Khatal's Rejuvenation\n\nSupport\nLineage\nRemnant\nLevel:(1-1)\nCast Time:0.0\n\nSupports Skills that generate Remnants. Picking up Remnants from Supported Skills grants Khatal's Rejuvenation.\n\nRemnants created by Supported Skills grant Khatal's Rejuvenation when collected"
+      }
+    ]
+  },
+  {
+    "id": "_r_71u_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/RushedRemnantsSupportGem.webp",
+    "kind": "named",
+    "name": "Harmonic Remnants II",
+    "stage": 5,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Harmonic Remnants II\n\nSupport\nRemnant\nLevel:(1-1)\nCast Time:0.0\n\nSupports Skills which create Remnants, allowing those Remnants to be collected from further away, with a chance to create an additional Remnant.\n\nRemnants created by Supported Skills can be collected from 35% further away\n20% chance for Supported Skills to create an additional Remnant"
+      }
+    ]
+  },
+  {
+    "id": "_r_777_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/temporalchains.webp",
+    "kind": "named",
+    "name": "Temporal Chains",
+    "stage": 5,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Temporal Chains\n\nSpell\nAoE\nDuration\nCurse\nRepeatable\nLevel:(7-20)\nCast Time:0.0\nMana Range:(76-178) mana\n\nRequires: Level (22-97), Int (53-211).\n\nCurse all enemies in an area, Slowing them and making other effects on them expire more slowly.\n\nCurse applies after 1.5 seconds delay\nCurse duration is (6.4-7.4) seconds\nCurse radius is (2-3.1) metres\nCurse Slows targets by (46-59)%\nCurse makes other effects on targets expire 25% slower\nCurse does not apply to enemies above level (0-78)\n\nAdditional Effects From Quality:\n\n(0-10)% increased Curse Magnitudes"
+      }
+    ]
+  },
+  {
+    "id": "_r_779_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/WitchBlasphemy.webp",
+    "kind": "named",
+    "name": "Blasphemy",
+    "stage": 5,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Blasphemy\n\nBuff\nPersistent\nAoE\nAura\nMeta\nLevel:(8-20)\nCast Time:0.0\n\nRequires: Level (26-97), Int (62-211).\n\nTurn socketed Curse skills into vile Auras, applying their effects to all nearby enemies.\n\nSocketed Curse Skills apply in an Aura around you\nReserves 60 Spirit per socketed Curse\n\nAdditional Effects From Quality:\n\n(0-10)% increased Reservation Efficiency of Skills"
+      }
+    ]
+  },
+  {
+    "id": "_r_7al_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Pyrophyte Staff\n\nStaves\n\nRequires: 16 Level, 31 Intelligence.\n\nGrants Skill: Solar Orb\n(149-188)% increased Fire Damage\nP3\nGain (49-54)% of Damage as Extra Fire Damage\nP2\n(149-188)% increased Spell Damage\nP3\n+7 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_7aq_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gold Ring\n\nRings\n\nRequires: 40 Level.\n\nBody Armour: (6-15)% increased Rarity of Items found\n+(100-119) to maximum Life\nP6\n(27-30)% increased Fire Damage\nP1\n(16-19)% increased Rarity of Items found\nP3\n+(26-30)% to Lightning Resistance\nS4\n+(26-30)% to Cold Resistance\nS4\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_7at_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr06.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Runeforged Cryptic Crown\n\nHelmets\n\nArmour:86\nEnergy Shield:24\n\nRequires: 80 Level, 63 Strength, 63 Intelligence.\n\n+(175-189) to maximum Life\nP3\n(8-11)% increased Rarity of Items found\nP5\n+(20-23)% to Chaos Resistance\nS2\n(6-10)% increased Rarity of Items found\nS5"
+      }
+    ]
+  },
+  {
+    "id": "_r_7b0_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Uniques/MoriorInvictus_M.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Fox Idol\n\nRequires Level 65\n\nBody Armour: Idols socketed in this item gain the benefits of their Bonded modifiers\nSceptre: 50% increased Presence Area of Effect"
+      }
+    ]
+  },
+  {
+    "id": "_r_7b8_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_7bb_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_7l6_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Pyrophyte Staff\n\nStaves\n\nRequires: 16 Level, 31 Intelligence.\n\nGrants Skill: Solar Orb\n(149-188)% increased Fire Damage\nP3\nGain (49-54)% of Damage as Extra Fire Damage\nP2\n(149-188)% increased Spell Damage\nP3\n+7 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_7be_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr04.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Runeforged Adherent Cuffs\n\nGloves\n\nArmour:39\nEnergy Shield:11\n\nRequires: 80 Level, 55 Strength, 55 Intelligence.\n\n+(120-149) to maximum Life\nP5\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_7bh_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Utility Belt\n\nBelts\n\nArmour:225\n\nRequires: 55 Level.\n\n20% of Flask Recovery applied Instantly\n+(120-149) to maximum Life\nP5\n+(187-225) to Armour\nP4\n+(31-33) to Strength\nS2\n+(31-35)% to Fire Resistance\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_7bk_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr04.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Runeforged Cryptic Leggings\n\nBoots\n\nArmour:59\nEnergy Shield:16\n\nRequires: 80 Level, 59 Strength, 59 Intelligence.\n\n+(190-199) to maximum Life\nP2\n35% increased Movement Speed\nP1\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_7bo_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife08.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Transcendent Life Flask\n\nLife Flasks\n\nRequires: 50 Level.\n\n(20-23)% of Recovery applied Instantly\nP3"
+      }
+    ]
+  },
+  {
+    "id": "_r_7bq_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Thawing Charm\n\nCharms\n\nRequires: 12 Level.\n\nUsed when you become Frozen"
+      }
+    ]
+  },
+  {
+    "id": "_r_7bs_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Dousing Charm\n\nCharms\n\nRequires: 32 Level.\n\nUsed when you become Ignited"
+      }
+    ]
+  },
+  {
+    "id": "_r_7bu_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/SilverUniqueCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "The Fall of the Axe\n\nCharms\n\nRequires: 10 Level.\n\nUsed when you are affected by a Slow\nUsed when you are affected by a Slow\nGrants Onslaught during effect"
+      }
+    ]
+  },
+  {
+    "id": "_r_7c0_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskMana07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gargantuan Mana Flask\n\nMana Flasks\n\nRequires: 40 Level."
+      }
+    ]
+  },
+  {
+    "id": "_r_7c2_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire\n\n(10-20)% increased Flammability Magnitude"
+      }
+    ]
+  },
+  {
+    "id": "_r_7c4_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ruby\n\n(10-20)% increased Flammability Magnitude"
+      }
+    ]
+  },
+  {
+    "id": "_r_7c6_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire\n\n(5-15)% increased Ignite Magnitude\n(5-15)% increased Magnitude of Ailments you inflict\nDamaging Ailments deal damage (3-7)% faster"
+      }
+    ]
+  },
+  {
+    "id": "_r_7b0_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Uniques/MoriorInvictus_M.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Fox Idol\n\nRequires Level 65\n\nBody Armour: Idols socketed in this item gain the benefits of their Bonded modifiers\nSceptre: 50% increased Presence Area of Effect"
+      }
+    ]
+  },
+  {
+    "id": "_r_7b8_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_7bb_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_7al_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 2,
+    "tips": [
+      {
+        "text": "Bombard Crossbow\n\nCrossbows\n\nCritical Hit Chance:5\nWeapon Speed:13.92\nPhysical Damage:14-56\n\nRequires: 33 Level, 34 Strength, 34 Dexterity.\n\nGrenade Skills Fire an additional Projectile\nGrenade Skills have +1 Cooldown Use\nP1\n(14-16)% increased Attack Speed\nS5\n+3 to Level of all Projectile Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_7jp_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/AbsentAmulet.webp",
+    "kind": "named",
+    "name": "Absent Amulet",
+    "stage": 6,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Absent Amulet\n\nAmulets\n\nRequires: 49 Level.\n\nGrants Skill: Cast on Elemental Ailment\nGrants Skill: Cast on Critical\nGrants Skill: Cast on Dodge\nGrants Skill: Rhoa Mount\nGrants Skill: Archmage\nGrants Skill: Trinity\nGrants Skill: Eternal Rage\n+-1 Prefix Modifier allowed\nAll: +-1 Suffix Modifier allowed"
+      }
+    ]
+  },
+  {
+    "id": "_r_7b0_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Uniques/MoriorInvictus_M.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Morior Invictus (life)\n\nBody Armours\n\n182Armour\n165Evasion Rating\n50Energy Shield\n\nRequires: 65 Level, 41 Strength, 41 Intelligence, 41 Dexterity.\n\nSockets: S S S S\n+(45-60) to maximum Life per Socket filled"
+      }
+    ]
+  },
+  {
+    "id": "_r_7b8_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_7bb_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": []
+  },
+  {
+    "id": "_r_7mq_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff01.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ashen Staff\n\nStaves\n\nRequires: 1 Level.\n\nGrants Skill: Firebolt\n(209-238)% increased Spell Damage\nP1\nGain (55-60)% of Damage as Extra Fire Damage\nP1\nGain (55-60)% of Damage as Extra Fire Damage\nP1\n(33-35)% increased Cast Speed\nS1\n+7 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_7mv_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gold Ring\n\nRings\n\nRequires: 40 Level.\n\nBody Armour: (6-15)% increased Rarity of Items found\n(25-34)% increased Fire Damage\nP8\n+(85-99) to maximum Life\nP7\n(12-15)% increased Rarity of Items found\nP4\n+(15-16)% to all Elemental Resistances\nS2\n+(16-19)% to Chaos Resistance\nS4\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_7n2_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr05.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Paragon Greathelm\n\nHelmets\n\nArmour:767\nItem Level:77\nQuality:20\n\nRequires: 75 Level, 107 Strength.\n\n+(150-174) to maximum Life\nP4\n(16-19)% increased Rarity of Items found\nP3\n(68-79)% increased Armour\nP4\n+(13-17)% to Cold and Chaos Resistances\nS1\n+(38-43)% of Armour also applies to Elemental Damage\nS2\n+(31-35)% to Cold Resistance\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_7n6_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex02.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Dastard Armour\n\nBody Armours\n\nArmour:1419\nEvasion Rating:1327\nItem Level:79\nQuality:20\n\nRequires: 65 Level, 67 Strength, 67 Dexterity.\n\nArmour: +(60-80) to maximum Life\n+(40-59) to maximum Life\nP10\n+(150-170) to Armour\nP1\n+(142-161) to Evasion Rating\n(92-100)% increased Armour and Evasion\nP2\n+(32-37)% of Armour also applies to Elemental Damage\nS3\n+(36-40)% to Fire Resistance\nS2\n+(36-40)% to Lightning Resistance\nS2"
+      }
+    ]
+  },
+  {
+    "id": "_r_7nb_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gold Amulet\n\nAmulets\n\nRequires: 35 Level.\n\nAllocates Paragon\nBody Armour: (12-20)% increased Rarity of Items found\n+(100-119) to maximum Life\nP6\n+(47-50) to Spirit\nP4\n+(3-5)% to Quality of all Skills\nS1\n+(31-35)% to Fire Resistance\nS3\n+3 to Level of all Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_7ne_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gold Ring\n\nRings\n\nRequires: 40 Level.\n\nBody Armour: (6-15)% increased Rarity of Items found\n(25-34)% increased Fire Damage\nP8\n+(85-99) to maximum Life\nP7\n(16-19)% increased Rarity of Items found\nP3\n+(9-11)% to all Elemental Resistances\nS4\n+(31-35)% to Cold Resistance\nS3\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_81k_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff01.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ashen Staff\n\nStaves\n\nRequires: 1 Level.\n\nGrants Skill: Firebolt\n(209-238)% increased Spell Damage\nP1\nGain (55-60)% of Damage as Extra Fire Damage\nP1\nGain (55-60)% of Damage as Extra Fire Damage\nP1\n(33-35)% increased Cast Speed\nS1\n+7 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_7nh_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr04.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ancient Mitts\n\nGloves\n\nArmour:854\n\nRequires: 54 Level, 67 Strength.\n\n+(120-149) to maximum Life\nP5\n+(226-267) to Armour\nP3\n(80-91)% increased Armour\nP3\n+(38-43)% of Armour also applies to Elemental Damage\nS2\n+(31-35)% to Cold Resistance\nS3\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_7nl_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Belts/Uniques/mageblood.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Mageblood\n\nBelts\n\nRequires: 50 Level.\n\nRivers of power coursed through their veins.\nNow, that power is yours, for good or ill.\n\n(20-30)% increased Stun Threshold\nHas (1-3) Charm Slot"
+      }
+    ]
+  },
+  {
+    "id": "_r_7no_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex03.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Fortress Sabatons\n\nBoots\n\nArmour:454\nEvasion Rating:410\nItem Level:82\nQuality:20\n\nRequires: 75 Level, 56 Strength, 56 Dexterity.\n\n+(72-85) to Armour\nP5\n+(65-78) to Evasion Rating\n(68-79)% increased Armour and Evasion\nP4\n35% increased Movement Speed\nP1\n+(38-43)% of Armour also applies to Elemental Damage\nS2\n+(31-35)% to Fire Resistance\nS3\n+(31-35)% to Lightning Resistance\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_7ns_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife09.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ultimate Life Flask\n\nLife Flasks\n\nRequires: 60 Level.\n\n(20-23)% of Recovery applied Instantly\nP3\n(29-27)% reduced Charges per use\nS2"
+      }
+    ]
+  },
+  {
+    "id": "_r_7nu_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/ThawingUniqueCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Nascent Hope\n\nCharms\n\nRequires: 12 Level.\n\nUsed when you become Frozen\nUsed when you become Frozen\n(20-25)% Chance to gain a Charge when you kill an enemy\nEnergy Shield Recharge starts on use"
+      }
+    ]
+  },
+  {
+    "id": "_r_7o0_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/GoldenUniqueCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Rite of Passage\n\nCharms\n\nRequires: 50 Level.\n\nTo become a warrior and a hunter, each young\nAzmeri must prove themselves before the Spirit.\n\nUsed when you kill a Rare or Unique enemy\nUsed when you kill a Rare or Unique enemy\n15% increased Rarity of Items found\nPossessed by Spirit Of The [Azmeri Spirit] for (10-20) seconds on use"
+      }
+    ]
+  },
+  {
+    "id": "_r_7o2_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Dousing Charm\n\nCharms\n\nRequires: 32 Level.\n\nUsed when you become Ignited\nAlso grants (265-350) Guard\nP2\n(31-35)% Chance to gain a Charge when you kill an enemy\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_7o4_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Uniques/LaviangasSpirit.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Lavianga's Spirits\n\nMana Flasks\n\nRequires: 40 Level.\n\n\"How do I cope with what I witnessed on Wraeclast?\nThank the Ancestors! My cup, it overflows.\"\n- Lavianga, former advisor to Kaom\n\nThis Flask cannot be Used but applies its Effect constantly\n(70-80)% reduced Amount Recovered"
+      }
+    ]
+  },
+  {
+    "id": "_r_7o6_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire\n\n(5-15)% increased Ignite Magnitude\n(8-12)% increased Spell Damage"
+      }
+    ]
+  },
+  {
+    "id": "_r_7o8_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire\n\n(5-15)% increased Ignite Magnitude\n(8-12)% increased Spell Damage\nRecover (1-2)% of maximum Mana on Kill"
+      }
+    ]
+  },
+  {
+    "id": "_r_7oa_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/EmeraldJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Emerald\n\n(5-15)% increased Magnitude of Ailments you inflict"
+      }
+    ]
+  },
+  {
+    "id": "_r_7oc_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire\n\n(4-6)% increased Area of Effect\n(10-20)% increased Flammability Magnitude"
+      }
+    ]
+  },
+  {
+    "id": "_r_7oe_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ruby\n\n(13-17)% increased Fire Damage"
+      }
+    ]
+  },
+  {
+    "id": "_r_7og_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire\n\n(5-15)% increased Ignite Magnitude\nRecover (1-2)% of maximum Life on Kill"
+      }
+    ]
+  },
+  {
+    "id": "_r_7mq_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 7,
+    "set": 2,
+    "tips": [
+      {
+        "text": "Cannonade Crossbow\n\nCrossbows\n\nCritical Hit Chance:5\nWeapon Speed:14.28\nPhysical Damage:29-112\nItem Level:64\nCold Damage:8-14\n\nRequires: 59 Level, 58 Strength, 58 Dexterity.\n\nGrenade Skills Fire an additional Projectile\nGrenade Skills have +1 Cooldown Use\nP1\nAdds (5-8) to (9-14) Cold Damage\nP9\n(20-24)% increased Physical Damage\nP7\n+(21-46) to Accuracy Rating\n+(21-24) to Dexterity\nS5\n+3 to Level of all Projectile Skills\nS1\n(17-19)% increased Attack Speed\nS4"
+      }
+    ]
+  },
+  {
+    "id": "_r_809_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Belts/Uniques/mageblood.webp",
+    "kind": "named",
+    "name": "Mageblood",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Mageblood\n\nBelts\n\nRequires: 50 Level.\n\n(20-30)% increased Stun Threshold\nHas (1-3) Charm Slot\n\nRivers of power coursed through their veins.\nNow, that power is yours, for good or ill."
+      }
+    ]
+  },
+  {
+    "id": "_r_80d_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp",
+    "kind": "named",
+    "name": "Iron Reflexes",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Iron Reflexes\n\nKeystone\n\nConverts all Evasion Rating to Armour"
+      }
+    ]
+  },
+  {
+    "id": "_r_80l_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/GoldenUniqueCharm.webp",
+    "kind": "named",
+    "name": "Rite of Passage",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Rite of Passage\n\nCharms\n\nRequires: 50 Level.\n\nUsed when you kill a Rare or Unique enemy\nUsed when you kill a Rare or Unique enemy\n15% increased Rarity of Items found\nPossessed by Spirit Of The [Azmeri Spirit] for (10-20) seconds on use\n\nTo become a warrior and a hunter, each young\nAzmeri must prove themselves before the Spirit."
+      }
+    ]
+  },
+  {
+    "id": "_r_80p_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Uniques/BoundlessAuthority.webp",
+    "kind": "named",
+    "name": "Decree of Flight",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Decree of Flight\n\nBoots\n\n134Armour\n37Energy Shield\n\nRequires: 65 Level, 56 Strength, 56 Intelligence.\n\n30% increased Movement Speed\n(150-200)% increased Armour and Energy Shield\n(20-30)% faster Dodge Roll\nGain Guard equal to (10-20)% of missing Energy Shield for 4 seconds when you Dodge Roll\nMaximum amount of Guard is based on maximum Energy Shield instead\nDivine Flight\n\n\"Soar. Be swift. Let none trespass here, from\nabove or below, lest your purpose be forfeit.\""
+      }
+    ]
+  },
+  {
+    "id": "_r_80r_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Uniques/ghostmarch.webp",
+    "kind": "named",
+    "name": "Ghostmarch",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Ghostmarch\n\nBoots\n\n35Evasion Rating\n15Energy Shield\n\nRequires: 16 Level, 14 Intelligence, 14 Dexterity.\n\n15% increased Movement Speed\n(100-150)% increased Evasion and Energy Shield\n+(30-50) to maximum Mana\n+(17-23)% to Chaos Resistance\nDodge Roll passes through Enemies\n\nThe cursed ones march forever,\nOn their hopeless, last endeavour.\n"
+      }
+    ]
+  },
+  {
+    "id": "_r_7q3_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/Lineage/Dialla.webp",
+    "kind": "named",
+    "name": "Dialla's Desire",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Dialla's Desire\n\nSupport\nLineage\nLevel:(1-1)\nCast Time:0.0\n\nSupports any Skill which has levels, increasing the level and Quality, while reducing the cost and Reservation.\n\n+1 to Level of Supported Skill Gems\n+5% to Quality of Supported Skills"
+      }
+    ]
+  },
+  {
+    "id": "_r_7qb_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/CooldownReductionSupportGem.webp",
+    "kind": "named",
+    "name": "Cooldown Recovery II",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Cooldown Recovery II\n\nSupport\nLevel:(1-1)\nCast Time:0.0\n\nSupports skills with Cooldowns, increasing the rate at which those Cooldowns Recover. Cannot modify the skills of minions.\n\nSupported Skills have 30% increased cooldown recovery rate"
+      }
+    ]
+  },
+  {
+    "id": "_r_7qg_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/GemBarrier.webp",
+    "kind": "named",
+    "name": "Virtuous Barrier",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Virtuous Barrier\n\nBuff\nPersistent\nLevel:(1-20)\nCast Time:0.0\n\nRequires: Level (1-97).\n\nWhile active, conjures a glittering barrier that accumulates protective gemstone Motes of each Attribute type over time, but loses a random Mote when you are Hit.\n\n2% increased maximum Life per Strength Mote\n5% increased Life Regeneration rate per Intelligence Mote\n5% increased Mana Regeneration rate per Intelligence Mote\n5% increased Armour, Evasion and\nEnergy Shield per Dexterity Mote\nMaximum of each Attribute of Mote is 3 plus the number of Skills you have which require that Attribute\nSingle-Attribute Skills grant twice as many maximum Motes\nGains a random Mote every (1.5-2) seconds\n\nAdditional Effects From Quality:\n\n(0-2.5)% increased Life Regeneration rate per Intelligence Mote\n(0-2.5)% increased Mana Regeneration rate per Intelligence Mote"
+      }
+    ]
+  },
+  {
+    "id": "_r_7qh_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IncreasedArmourBreakSupportGem.webp",
+    "kind": "named",
+    "name": "Armour Demolisher I",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Armour Demolisher I\n\nSupport\nLevel:(1-1)\nCast Time:0.0\n\nSupports any skill, causing Armour Break it inflicts to be stronger.\n\nSupported Skills Break 50% more Armour"
+      }
+    ]
+  },
+  {
+    "id": "_r_7qk_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/LifeFlaskSupportGem.webp",
+    "kind": "named",
+    "name": "Bounty II",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Bounty II\n\nSupport\nLevel:(1-1)\nCast Time:0.0\n\nSupports any Skill that Hits Enemies, causing Enemies it kills to grant more Flask and Charm charges.\n\nEnemies killed by Hits from Supported Skills grant 100% more Mana Flask Charges\nEnemies killed by Hits from Supported Skills grant 100% more Life Flask Charges\nEnemies killed by Hits from Supported Skills grant 100% more Charm charges"
+      }
+    ]
+  },
+  {
+    "id": "_r_7qo_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/InterludeSupportGem.webp",
+    "kind": "named",
+    "name": "Remnant Potency I",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Remnant Potency I\n\nSupport\nRemnant\nLevel:(1-1)\nCast Time:0.0\n\nSupports Skills which create Remnants, making those Remnants more powerful.\n\nRemnants from Supported Skills have\n20% increased effect"
+      }
+    ]
+  },
+  {
+    "id": "_r_7qp_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/RapidShotPermafrost.webp",
+    "kind": "named",
+    "name": "Ice Shards",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Ice Shards\n\nAttack\nAoE\nAmmunition\nProjectile\nSustained\nCold\nHazard\nLevel:(5-20)\nCast Time:0.0\nMana Range:(21-85) mana\n\nRequires: Level (14-97).\n\nLoad your Crossbow with a clip of icy bolts that rapidly fire at the ground, leaving a shard of ice at the impact location that arms after a duration. After arming, the ice shards explode when enemies step on them, dealing more damage the longer they have been armed, up to a maximum. Using this Skill again reloads the clip.\n\nLoads 16 additional bolts"
+      }
+    ]
+  },
+  {
+    "id": "_r_7qr_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ChanceToNotConsumeAmmoSupportGem.webp",
+    "kind": "named",
+    "name": "Ammo Conservation II",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Ammo Conservation II\n\nSupport\nAmmunition\nProjectile\nLevel:(1-1)\nCast Time:0.0\n\nSupports Crossbow Ammunition Skills, granting a chance to not consume a Bolt when firing.\n\nBolts fired by Supported Crossbow Attacks have 25% chance to not expend Ammunition"
+      }
+    ]
+  },
+  {
+    "id": "_r_7qs_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/LifeFlaskSupportGem.webp",
+    "kind": "named",
+    "name": "Bounty I",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Bounty I\n\nSupport\nLevel:(1-1)\nCast Time:0.0\n\nSupports any Skill that Hits Enemies, causing Enemies it kills to grant more Flask and Charm charges.\n\nEnemies killed by Hits from Supported Skills grant 50% more Mana Flask Charges\nEnemies killed by Hits from Supported Skills grant 50% more Life Flask Charges\nEnemies killed by Hits from Supported Skills grant 50% more Charm charges"
+      }
+    ]
+  },
+  {
+    "id": "_r_7qt_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MobilitySupportGem.webp",
+    "kind": "named",
+    "name": "Mobility",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Mobility\n\nSupport\nLevel:(1-1)\nCast Time:0.0\n\nSupports skills that can be used while moving, allowing you to move faster while using them.\n\n25% less Movement Speed penalty while\nusing Supported Skills"
+      }
+    ]
+  },
+  {
+    "id": "_r_7qu_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/BruteShockwaveTotem.webp",
+    "kind": "named",
+    "name": "Shockwave Totem",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Shockwave Totem\n\nAttack\nTotem\nAoE\nMelee\nSlam\nDuration\nNova\nLevel:(3-20)\nCast Time:0.0\nMana Range:(20-103) mana\n\nRequires: Level (6-97), Str (20-211).\n\nRaise a Totem that Slams the ground around it, repeatedly damaging nearby enemies. Jagged Ground erupts when hit by this Slam, damaging enemies standing on it. The Totem cannot create Jagged Ground. This Skill can be used while Shapeshifted.\n\n+12 seconds to Totem duration\n+1 to Totem Limit\nTotems gain +(0-75)% to all Elemental Resistances\nTotems gain +(5-35)% to Chaos Resistance"
+      }
+    ]
+  },
+  {
+    "id": "_r_7qv_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/BrutalitySupportGem.webp",
+    "kind": "named",
+    "name": "Brutality III",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Brutality III\n\nSupport\nPhysical\nLevel:(1-1)\nCast Time:0.0\n\nSupports any skill that deals damage, boosting its Physical damage at the expense of all other Damage Types, as well as giving Hits from that skill a chance to ignore Physical Damage reduction.\n\nSupported Skills deal no Elemental Damage\nSupported Skills deal no Chaos Damage\nSupported Skills deal 30% more Physical Damage\nHits with Supported Skills have 20% chance to ignore Enemy Physical Damage reduction"
+      }
+    ]
+  },
+  {
+    "id": "_r_7r0_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/FirePenetrationSupportGem.webp",
+    "kind": "named",
+    "name": "Fire Penetration II",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Fire Penetration II\n\nSupport\nFire\nLevel:(1-1)\nCast Time:0.0\n\nSupports any skill that Hits enemies, making those Hits ignore enemy Fire resistance.\n\nHits from Supported Skills ignore enemy Fire Resistance"
+      }
+    ]
+  },
+  {
+    "id": "_r_7r1_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MoreTotemLifeSupportGem.webp",
+    "kind": "named",
+    "name": "Hardy Totems II",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Hardy Totems II\n\nSupport\nTotem\nLevel:(1-1)\nCast Time:0.0\n\nSupports Skills which create Totems, causing those Totems to have more Life.\n\nTotems created by Supported\nSkills have 50% more maximum Life"
+      }
+    ]
+  },
+  {
+    "id": "_r_7r2_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IronwoodSupportGem.webp",
+    "kind": "named",
+    "name": "Reinforced Totems II",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Reinforced Totems II\n\nSupport\nTotem\nLevel:(1-1)\nCast Time:0.0\n\nSupports Skills which create Totems. Totems created by Supported Skills have additional Elemental Resistances.\n\nTotems summoned by Supported Skills have +40% to all Elemental Resistances\nTotems summoned by Supported Skills have +10% to all Maximum Elemental Resistances"
+      }
+    ]
+  },
+  {
+    "id": "_r_7r3_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/BruteSeismicCry.webp",
+    "kind": "named",
+    "name": "Seismic Cry",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Seismic Cry\n\nWarcry\nAoE\nPhysical\nNova\nLevel:(11-20)\nCast Time:0.0\nMana Range:(49-85) mana\n\nRequires: Level (41-97), Str (93-211).\n\nPerform a damaging Warcry, Knocking Back nearby enemies and Heavy Stunning enemies that are Primed for Stun. If an enemy is Heavy Stunned or a currently Heavy Stunned enemy is Hit, this Skill Empowers subsequent Slams to perform an additional Aftershock. This Skill's cooldown can be bypassed by expending an Endurance Charge.\n\nKnocks Back Enemies\nEmpowers one Slam per 10 enemy Power in\nrange, counting up to 50 Power\nWarcry radius is 4 metres\nDeals (60-223) to (90-335) Physical Damage\n\nAdditional Effects From Quality:\n\nEmpowered Attack Aftershocks deal (0-10)% more damage"
+      }
+    ]
+  },
+  {
+    "id": "_r_7r4_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IgnitionSupportGem.webp",
+    "kind": "named",
+    "name": "Ignite III",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Ignite III\n\nSupport\nFire\nLevel:(1-1)\nCast Time:0.0\n\nSupports any skill that Hits enemies, making it more likely to Ignite and causing inflicted Ignites to deal their damage more quickly.\n\nSupported Skills have 200% more Flammability Magnitude\nIgnites you inflict with this skill deal Damage 15% faster"
+      }
+    ]
+  },
+  {
+    "id": "_r_7r6_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/EnragedWarcrySupportGem.webp",
+    "kind": "named",
+    "name": "Enraged Warcry II",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Enraged Warcry II\n\nSupport\nWarcry\nLevel:(1-1)\nCast Time:0.0\n\nSupports Warcries, causing them to spend Rage to bypass their usual Cooldown.\n\nSupported Warcries spend 15 Rage to bypass their Cooldown, instead of an Endurance Charge"
+      }
+    ]
+  },
+  {
+    "id": "_r_7r9_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/CessationSupportGem.webp",
+    "kind": "named",
+    "name": "Deliberation",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Deliberation\n\nSupport\nLevel:(1-1)\nCast Time:0.0\n\nSupports skills that can be used while moving, causing you to move slower while using them, but granting more damage in exchange.\n\n30% more Movement Speed penalty while\nusing Supported Skills\nSupported Skills deal 20% more Damage"
+      }
+    ]
+  },
+  {
+    "id": "_r_7rb_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/PinSupportGem.webp",
+    "kind": "named",
+    "name": "Pin I",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Pin I\n\nSupport\nPhysical\nLevel:(1-1)\nCast Time:0.0\n\nSupports any skill that Hits enemies, allowing its Physical damage to Pin enemies but making it unable to Stun.\n\nPhysical Damage from Supported Skill is Pinning\nModifiers to Stun Buildup for Supported Skills instead apply to Pin Buildup\nSupported Skills cannot cause Stun Buildup"
+      }
+    ]
+  },
+  {
+    "id": "_r_7rc_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/PierceSupportGem.webp",
+    "kind": "named",
+    "name": "Pierce I",
+    "stage": 7,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Pierce I\n\nSupport\nProjectile\nLevel:(1-1)\nCast Time:0.0\n\nSupports Projectile skills, making their Projectiles Pierce an enemy but deal less damage after doing so.\n\nProjectiles from Supported Skills Pierce an Enemy\nProjectiles from Supported Skills deal 20% less Damage if they've Pierced an enemy"
+      }
+    ]
+  },
+  {
+    "id": "_r_838_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff06.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Chiming Staff\n\nStaves\n\nItem Level:81\nQuality:21\n\nRequires: 25 Level, 46 Intelligence.\n\nGrants Skill: Sigil of Power\n(209-238)% increased Fire Damage\nP1\nGain (55-60)% of Damage as Extra Fire Damage\nP1\n(209-238)% increased Spell Damage\nP1\n(26-31)% increased Cast Speed\nS2\nGain (7-11)% of Elemental Damage as Extra Cold Damage\n(15-20)% increased Explicit Fire Modifier magnitudes\nS1\n+7 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_83d_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gold Ring\n\nRings\n\nRequires: 40 Level.\n\nBody Armour: (6-15)% increased Rarity of Items found\n(35-44)% increased Fire Damage\nP7\n+(85-99) to maximum Life\nP7\n(12-15)% increased Rarity of Items found\nP4\n+(17-18)% to all Elemental Resistances\nS1\n+(16-19)% to Chaos Resistance\nS4\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_83g_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Raven-Touched Shard\n\nRequires Level 65\n\nHelmet: Raven-Touched"
+      }
+    ]
+  },
+  {
+    "id": "_r_83l_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr10.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Warlord Cuirass\n\nBody Armours\n\nArmour:2900\nItem Level:82\nQuality:21\n\nRequires: 80 Level, 121 Strength.\n\nShield: +(15-25)% of Armour also applies to Elemental Damage\n+(268-311) to Armour\nP2\n(45-50)% increased Armour\nP1\n(80-91)% increased Armour\nP3\n+(44-50)% of Armour also applies to Elemental Damage\nS1\n+(41-45)% to Cold Resistance\nS1\n+(36-40)% to Lightning Resistance\nS2"
+      }
+    ]
+  },
+  {
+    "id": "_r_83r_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gold Amulet\n\nAmulets\n\nRequires: 35 Level.\n\nAllocates Paragon\nBody Armour: (12-20)% increased Rarity of Items found\n(20-30)% increased Global Armour, Evasion and Energy Shield\nP1\n+(120-149) to maximum Life\nP5\n+(47-50) to Spirit\nP4\n+(3-5)% to Quality of all Skills\nS1\n+4 to Level of all Spell Skills\nS1\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_83u_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gold Ring\n\nRings\n\nRequires: 40 Level.\n\nBody Armour: (6-15)% increased Rarity of Items found\n(35-44)% increased Fire Damage\nP7\n+(85-99) to maximum Life\nP7\n(16-19)% increased Rarity of Items found\nP3\n+(12-14)% to all Elemental Resistances\nS3\n+(36-40)% to Fire Resistance\nS2\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_8ci_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff06.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Chiming Staff\n\nStaves\n\nItem Level:81\nQuality:21\n\nRequires: 25 Level, 46 Intelligence.\n\nGrants Skill: Sigil of Power\n(209-238)% increased Fire Damage\nP1\nGain (55-60)% of Damage as Extra Fire Damage\nP1\n(209-238)% increased Spell Damage\nP1\n(26-31)% increased Cast Speed\nS2\nGain (7-11)% of Elemental Damage as Extra Cold Damage\n(15-20)% increased Explicit Fire Modifier magnitudes\nS1\n+7 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_841_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr06.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Perfect Body Rune\n\nRequires Level 65\n\nMartial Weapon: Leeches 6% of Physical Damage as Life\nWand or Staff: +60 to maximum Energy Shield\nArmour: +75 to maximum Life"
+      }
+    ]
+  },
+  {
+    "id": "_r_846_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Belts/Uniques/mageblood.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Mageblood\n\nBelts\n\nRequires: 50 Level.\n\nRivers of power coursed through their veins.\nNow, that power is yours, for good or ill.\n\n(20-30)% increased Stun Threshold\nHas (1-3) Charm Slot"
+      }
+    ]
+  },
+  {
+    "id": "_r_849_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr06.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Perfect Body Rune\n\nRequires Level 65\n\nMartial Weapon: Leeches 6% of Physical Damage as Life\nWand or Staff: +60 to maximum Energy Shield\nArmour: +75 to maximum Life"
+      }
+    ]
+  },
+  {
+    "id": "_r_84e_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife09.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ultimate Life Flask\n\nLife Flasks\n\nRequires: 60 Level.\n\n(28-30)% of Recovery applied Instantly\nP1\n(29-27)% reduced Charges per use\nS2"
+      }
+    ]
+  },
+  {
+    "id": "_r_84g_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/ThawingUniqueCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Nascent Hope\n\nCharms\n\nRequires: 12 Level.\n\nUsed when you become Frozen\nUsed when you become Frozen\n(20-25)% Chance to gain a Charge when you kill an enemy\nEnergy Shield Recharge starts on use"
+      }
+    ]
+  },
+  {
+    "id": "_r_84i_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/GoldenUniqueCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Rite of Passage\n\nCharms\n\nRequires: 50 Level.\n\nTo become a warrior and a hunter, each young\nAzmeri must prove themselves before the Spirit.\n\nUsed when you kill a Rare or Unique enemy\nUsed when you kill a Rare or Unique enemy\n15% increased Rarity of Items found\nPossessed by Spirit Of The [Azmeri Spirit] for (10-20) seconds on use"
+      }
+    ]
+  },
+  {
+    "id": "_r_84k_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Dousing Charm\n\nCharms\n\nRequires: 32 Level.\n\nUsed when you become Ignited\nAlso grants (265-350) Guard\nP2\n(31-35)% Chance to gain a Charge when you kill an enemy\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_84m_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Uniques/LaviangasSpirit.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Lavianga's Spirits\n\nMana Flasks\n\nRequires: 40 Level.\n\n\"How do I cope with what I witnessed on Wraeclast?\nThank the Ancestors! My cup, it overflows.\"\n- Lavianga, former advisor to Kaom\n\nThis Flask cannot be Used but applies its Effect constantly\n(70-80)% reduced Amount Recovered"
+      }
+    ]
+  },
+  {
+    "id": "_r_84o_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire\n\n(5-15)% increased Ignite Magnitude\n(25-34)% increased Spell Damage\n(15-25)% increased Curse Duration\nRecover (1-2)% of maximum Mana on Kill"
+      }
+    ]
+  },
+  {
+    "id": "_r_84q_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ruby\n\n(20-34)% increased Ignite Magnitude\n(21-26)% increased Armour\n(5-15)% increased Elemental Damage\n(40-60)% increased Effect of Prefixes\nBanner Skills have (15-25)% increased Duration"
+      }
+    ]
+  },
+  {
+    "id": "_r_84s_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ruby\n\n(27-32)% increased Armour\n(5-15)% increased Elemental Damage\n(5-15)% increased Ignite Magnitude\n(40-60)% increased Effect of Prefixes\n(10-20)% increased Stun Buildup"
+      }
+    ]
+  },
+  {
+    "id": "_r_84u_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ruby\n\n(27-32)% increased Armour\n(5-15)% increased Elemental Damage\n(5-15)% increased Ignite Magnitude\n(10-20)% increased Magnitude of Ailments you inflict\n(40-60)% increased Effect of Prefixes\n(6-16)% increased Stun Threshold"
+      }
+    ]
+  },
+  {
+    "id": "_r_850_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SacredFlameJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Prism of Belief\n\n+(1-3) to Level of all <Random Skill Type> Skills\nCorrupted\n\nEntropy can be reversed."
+      }
+    ]
+  },
+  {
+    "id": "_r_852_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ruby\n\n(20-34)% increased Ignite Magnitude\n(8-12)% increased Fire Damage\n(27-32)% increased Armour\n(40-60)% increased Effect of Prefixes\n(6-16)% increased Stun Threshold"
+      }
+    ]
+  },
+  {
+    "id": "_r_854_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ruby\n\n(20-34)% increased Ignite Magnitude\n(18-22)% increased Fire Damage\n(21-26)% increased Armour\n(40-60)% increased Effect of Prefixes\nBanner Skills have (15-25)% increased Duration"
+      }
+    ]
+  },
+  {
+    "id": "_r_856_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ruby\n\n(20-34)% increased Ignite Magnitude\n(13-17)% increased Fire Damage\n(21-26)% increased Armour\n(40-60)% increased Effect of Prefixes\n(5-10)% increased Life Regeneration rate"
+      }
+    ]
+  },
+  {
+    "id": "_r_858_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ruby\n\n(27-32)% increased Armour\n(5-15)% increased Elemental Damage\n(5-15)% increased Ignite Magnitude\n(40-60)% increased Effect of Prefixes\n(51-60)% increased Flammability Magnitude"
+      }
+    ]
+  },
+  {
+    "id": "_r_85a_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/Uniques/Voices.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Voices\n\nLimited to 1\nAllocates (2-4) Sinister Jewel Sockets"
+      }
+    ]
+  },
+  {
+    "id": "_r_85c_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Ruby\n\n(20-34)% increased Ignite Magnitude\n(27-32)% increased Armour\n(5-15)% increased Elemental Damage\n(10-20)% increased Magnitude of Ailments you inflict\n(40-60)% increased Effect of Prefixes\n(10-20)% increased Warcry Speed"
+      }
+    ]
+  },
+  {
+    "id": "_r_838_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 2,
+    "tips": [
+      {
+        "text": "Cannonade Crossbow\n\nCrossbows\n\nCritical Hit Chance:5\nWeapon Speed:14.28\nPhysical Damage:29-112\nItem Level:64\nCold Damage:8-14\n\nRequires: 59 Level, 58 Strength, 58 Dexterity.\n\nGrenade Skills Fire an additional Projectile\nGrenade Skills have +1 Cooldown Use\nP1\nAdds (5-8) to (9-14) Cold Damage\nP9\n(20-24)% increased Physical Damage\nP7\n+(21-46) to Accuracy Rating\n+(21-24) to Dexterity\nS5\n+3 to Level of all Projectile Skills\nS1\n(17-19)% increased Attack Speed\nS4"
+      }
+    ]
+  },
+  {
+    "id": "_r_8br_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Currency/Expedition2/ExpeditionReligionAncientAugment.webp",
+    "kind": "named",
+    "name": "Emergent Vigour",
+    "stage": 8,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Emergent Vigour\n\nRequires Level 65\n\nHelmet: +1 to maximum Life per 8 Armour on Equipped Helmet\nBody Armour: Gain Maximum Energy Shield equal to 50% of total\nStrength Requirements of Equipped Armour Items\nBoots: Hits against you have no Critical Damage Bonus while on Consecrated Ground"
+      }
+    ]
+  },
+  {
+    "id": "_r_8bt_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/ArmourAndEvasionNode.webp",
+    "kind": "named",
+    "name": "Leather Bound Gauntlets",
+    "stage": 8,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Leather Bound Gauntlets\n\nNotable\n\n+1 to Evasion Rating per 1 Item Armour on Equipped Gloves"
+      }
+    ]
+  },
+  {
+    "id": "_r_8c5_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/ChargeMasteryDeath.webp",
+    "kind": "named",
+    "name": "Charge Regulation",
+    "stage": 8,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Charge Regulation\n\nBuff\nPersistent\nLevel:(14-20)\nCast Time:1.0\nReservaton:30\n\nRequires: Level (58-97).\n\nWhile active, you gain powerful Buffs based on your active Charges. However, maintaining the Buff Consumes Charges every few seconds.\n\n(24-25)% increased Skill Speed while you have a Frenzy Charge\n(24-26)% more Critical Hit Chance while\nyou have a Power Charge\n(18-20)% more Armour, Evasion and Energy Shield while you have an Endurance Charge\nConsumes one of each Charge every 10 seconds\n\nAdditional Effects From Quality:\n\nConsumes one of each Charge every (0-2.4) seconds"
+      }
+    ]
+  },
+  {
+    "id": "_r_86t_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/HerbalismSupportGem.webp",
+    "kind": "named",
+    "name": "Herbalism I",
+    "stage": 8,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Herbalism I\n\nSupport\nBuff\nPersistent\nLevel:(1-1)\nCast Time:0.0\nReservaton:15\n\nSupports Persistent Buff Skills, causing you to gain increased Life recovery from Flasks while the Skill is active.\n\n30% Increased Recovery from Life Flasks while a Supported Skill is active"
+      }
+    ]
+  },
+  {
+    "id": "_r_878_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/BurstShotIncendiary.webp",
+    "kind": "named",
+    "name": "Incendiary Shot",
+    "stage": 8,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Incendiary Shot\n\nAttack\nAoE\nAmmunition\nProjectile\nFire\nMerging\nLevel:(3-20)\nCast Time:0.0\nMana Range:(8-44) mana\n\nRequires: Level (6-97).\n\nLoad your Crossbow with flaming bolts that fragment in flight, damaging and Igniting enemies on hit and in a small cone behind their final target. These fragments can Merge.\n\nLoads an additional bolt"
+      }
+    ]
+  },
+  {
+    "id": "_r_87e_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/BruteInfernalCry.webp",
+    "kind": "named",
+    "name": "Infernal Cry",
+    "stage": 8,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Infernal Cry\n\nWarcry\nAoE\nTrigger\nFire\nDuration\nNova\nLevel:(3-20)\nCast Time:0.0\nMana Range:(24-85) mana\n\nRequires: Level (6-97), Str (20-211).\n\nPerform a Warcry, Empowering subsequent Melee Attacks if there are enemies nearby. Enemies in the warcry's area are destabilised and will Combust on death. This Skill's cooldown can be bypassed by expending an Endurance Charge.\n\nDestabilises Enemies for 8 seconds\nWarcry radius is 4 metres\nEmpowers one Attack per 10 enemy Power in\nrange, counting up to 50 Power\nEmpowered Attacks Gain (32-49)% of damage as extra Fire damage\n\nAdditional Effects From Quality:\n\nEmpowered Attacks Gain (0-10)% of damage as extra Fire damage"
+      }
+    ]
+  },
+  {
+    "id": "_r_87r_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/EncumberanceSupportGem.webp",
+    "kind": "named",
+    "name": "Slow Potency",
+    "stage": 8,
+    "set": 0,
+    "tips": [
+      {
+        "text": "Slow Potency\n\nSupport\nSpell\nLevel:(1-1)\nCast Time:0.0\n\nSupports any skill, causing inflicted Slows to be more powerful.\n\nDebuffs inflicted with Supported Skills have 15% increased Slow Magnitude"
+      }
+    ]
+  },
+  {
+    "id": "_r_8d0_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff06.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Cannonade Crossbow\n\nCrossbows\n\nCritical Hit Chance:5\nWeapon Speed:14.28\nPhysical Damage:29-112\nItem Level:64\nCold Damage:8-14\n\nRequires: 59 Level, 58 Strength, 58 Dexterity.\n\nGrenade Skills Fire an additional Projectile\nGrenade Skills have +1 Cooldown Use\nP1\nAdds (5-8) to (9-14) Cold Damage\nP9\n(20-24)% increased Physical Damage\nP7\n+(21-46) to Accuracy Rating\n+(21-24) to Dexterity\nS5\n+3 to Level of all Projectile Skills\nS1\n(17-19)% increased Attack Speed\nS4"
+      }
+    ]
+  },
+  {
+    "id": "_r_8d1_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Cannonade Crossbow\n\nCrossbows\n\nCritical Hit Chance:5\nWeapon Speed:14.28\nPhysical Damage:29-112\nItem Level:64\nCold Damage:8-14\n\nRequires: 59 Level, 58 Strength, 58 Dexterity.\n\nGrenade Skills Fire an additional Projectile\nGrenade Skills have +1 Cooldown Use\nP1\nAdds (5-8) to (9-14) Cold Damage\nP9\n(20-24)% increased Physical Damage\nP7\n+(21-46) to Accuracy Rating\n+(21-24) to Dexterity\nS5\n+3 to Level of all Projectile Skills\nS1\n(17-19)% increased Attack Speed\nS4"
+      }
+    ]
+  },
+  {
+    "id": "_r_8d2_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gold Amulet\n\nAmulets\n\nRequires: 35 Level.\n\nAllocates Paragon\nBody Armour: (12-20)% increased Rarity of Items found\n(20-30)% increased Global Armour, Evasion and Energy Shield\nP1\n+(120-149) to maximum Life\nP5\n+(47-50) to Spirit\nP4\n+(3-5)% to Quality of all Skills\nS1\n+4 to Level of all Spell Skills\nS1\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_8d3_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr10.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Warlord Cuirass\n\nBody Armours\n\nArmour:2900\nItem Level:82\nQuality:21\n\nRequires: 80 Level, 121 Strength.\n\nShield: +(15-25)% of Armour also applies to Elemental Damage\n+(268-311) to Armour\nP2\n(45-50)% increased Armour\nP1\n(80-91)% increased Armour\nP3\n+(44-50)% of Armour also applies to Elemental Damage\nS1\n+(41-45)% to Cold Resistance\nS1\n+(36-40)% to Lightning Resistance\nS2"
+      }
+    ]
+  },
+  {
+    "id": "_r_8di_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr06.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Massive Mitts\n\nGloves\n\nArmour:920\nQuality:22\n\nRequires: 80 Level, 101 Strength.\n\n+(120-149) to maximum Life\nP5\n+(187-225) to Armour\nP4\n(92-100)% increased Armour\nP2\n+(38-43)% of Armour also applies to Elemental Damage\nS2\n+(24-27)% to Chaos Resistance\nS1\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_8dj_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Belts/Uniques/mageblood.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Mageblood\n\nBelts\n\nRequires: 50 Level.\n\nRivers of power coursed through their veins.\nNow, that power is yours, for good or ill.\n\n(20-30)% increased Stun Threshold\nHas (1-3) Charm Slot"
+      }
+    ]
+  },
+  {
+    "id": "_r_8dk_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr06.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Tasalian Greaves\n\nBoots\n\nArmour:1147\nQuality:22\n\nRequires: 80 Level, 108 Strength.\n\n+(187-225) to Armour\nP4\n(92-100)% increased Armour\nP2\n35% increased Movement Speed\nP1\n+(38-43)% of Armour also applies to Elemental Damage\nS2\n+(24-27)% to Chaos Resistance\nS1\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_8dl_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gold Ring\n\nRings\n\nRequires: 40 Level.\n\nBody Armour: (6-15)% increased Rarity of Items found\n(35-44)% increased Fire Damage\nP7\n+(85-99) to maximum Life\nP7\n(16-19)% increased Rarity of Items found\nP3\n+(12-14)% to all Elemental Resistances\nS3\n+(36-40)% to Fire Resistance\nS2\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_8dm_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 8,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Imperial Greathelm\n\nHelmets\n\nArmour:1346\n\nRequires: 80 Level, 115 Strength.\n\n+(187-225) to Armour\nP4\n(20-22)% increased Rarity of Items found\nP2\n(92-100)% increased Armour\nP2\n+(23-31)% of Armour also applies to Chaos Damage\nS1\n+(38-43)% of Armour also applies to Elemental Damage\nS2\n(19-21)% increased Rarity of Items found\nS2"
+      }
+    ]
+  },
+  {
+    "id": "_r_8ga_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Utility Belt\n\nBelts\n\nArmour:225\n\nRequires: 55 Level.\n\n20% of Flask Recovery applied Instantly\n+(120-149) to maximum Life\nP5\n+(187-225) to Armour\nP4\n+(31-33) to Strength\nS2\n+(31-35)% to Fire Resistance\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_8gb_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Pyrophyte Staff\n\nStaves\n\nRequires: 16 Level, 31 Intelligence.\n\nGrants Skill: Solar Orb\n(149-188)% increased Fire Damage\nP3\nGain (49-54)% of Damage as Extra Fire Damage\nP2\n(149-188)% increased Spell Damage\nP3\n+7 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_8gc_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr04.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Runeforged Cryptic Leggings\n\nBoots\n\nArmour:59\nEnergy Shield:16\n\nRequires: 80 Level, 59 Strength, 59 Intelligence.\n\n+(190-199) to maximum Life\nP2\n35% increased Movement Speed\nP1\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_8gd_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Pyrophyte Staff\n\nStaves\n\nRequires: 16 Level, 31 Intelligence.\n\nGrants Skill: Solar Orb\n(149-188)% increased Fire Damage\nP3\nGain (49-54)% of Damage as Extra Fire Damage\nP2\n(149-188)% increased Spell Damage\nP3\n+7 to Level of all Fire Spell Skills\nS1"
+      }
+    ]
+  },
+  {
+    "id": "_r_8ge_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gold Ring\n\nRings\n\nRequires: 40 Level.\n\nBody Armour: (6-15)% increased Rarity of Items found\n+(100-119) to maximum Life\nP6\n(27-30)% increased Fire Damage\nP1\n(16-19)% increased Rarity of Items found\nP3\n+(26-30)% to Lightning Resistance\nS4\n+(26-30)% to Cold Resistance\nS4\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_8gf_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr06.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Runeforged Cryptic Crown\n\nHelmets\n\nArmour:86\nEnergy Shield:24\n\nRequires: 80 Level, 63 Strength, 63 Intelligence.\n\n+(175-189) to maximum Life\nP3\n(8-11)% increased Rarity of Items found\nP5\n+(20-23)% to Chaos Resistance\nS2\n(6-10)% increased Rarity of Items found\nS5"
+      }
+    ]
+  },
+  {
+    "id": "_r_8gg_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr04.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Runeforged Adherent Cuffs\n\nGloves\n\nArmour:39\nEnergy Shield:11\n\nRequires: 80 Level, 55 Strength, 55 Intelligence.\n\n+(120-149) to maximum Life\nP5\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_8gh_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gold Amulet\n\nAmulets\n\nRequires: 35 Level.\n\nAllocates Paragon\nBody Armour: (12-20)% increased Rarity of Items found\n+(47-50) to Spirit\nP4\n+(100-119) to maximum Life\nP6\n+(47-50) to Spirit\nP4\n+(3-5)% to Quality of all Skills\nS1\n+3 to Level of all Spell Skills\nS1\n+(31-35)% to Fire Resistance\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_8gi_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Uniques/MoriorInvictus_M.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 6,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Morior Invictus (life)\n\nBody Armours\n\n182Armour\n165Evasion Rating\n50Energy Shield\n\nRequires: 65 Level, 41 Strength, 41 Intelligence, 41 Dexterity.\n\nSockets: S S S S\n+(45-60) to maximum Life per Socket filled"
+      }
+    ]
+  },
+  {
+    "id": "_r_8r2_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/IronRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 0,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Iron Ring\n\nRings\n\nGloves: Adds 1 to 4 Physical Damage to Attacks"
+      }
+    ]
+  },
+  {
+    "id": "_r_8r3_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/IronRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 0,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Iron Ring\n\nRings\n\nGloves: Adds 1 to 4 Physical Damage to Attacks\nAdds (1-2) to 3 Physical Damage to Attacks\nP9"
+      }
+    ]
+  },
+  {
+    "id": "_r_933_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/IronRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 1,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Iron Ring\n\nRings\n\nGloves: Adds 1 to 4 Physical Damage to Attacks"
+      }
+    ]
+  },
+  {
+    "id": "_r_934_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/IronRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 1,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Iron Ring\n\nRings\n\nGloves: Adds 1 to 4 Physical Damage to Attacks\nAdds (1-2) to 3 Physical Damage to Attacks\nP9"
+      }
+    ]
+  },
+  {
+    "id": "_r_9cd_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 2,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Topaz Ring\n\nRings\n\nRequires: 16 Level.\n\nArmour: +(20-30)% to Lightning Resistance\nAdds (1-2) to 3 Physical Damage to Attacks\nP9"
+      }
+    ]
+  },
+  {
+    "id": "_r_9ce_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 2,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire Ring\n\nRings\n\nRequires: 12 Level.\n\nArmour: +(20-30)% to Cold Resistance"
+      }
+    ]
+  },
+  {
+    "id": "_r_9mb_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Topaz Ring\n\nRings\n\nRequires: 16 Level.\n\nArmour: +(20-30)% to Lightning Resistance\n+(100-119) to maximum Life\nP6"
+      }
+    ]
+  },
+  {
+    "id": "_r_9mc_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 3,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire Ring\n\nRings\n\nRequires: 12 Level.\n\nArmour: +(20-30)% to Cold Resistance\n+(100-119) to maximum Life\nP6"
+      }
+    ]
+  },
+  {
+    "id": "_r_a0k_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Topaz Ring\n\nRings\n\nRequires: 16 Level.\n\nArmour: +(20-30)% to Lightning Resistance\n+(100-119) to maximum Life\nP6"
+      }
+    ]
+  },
+  {
+    "id": "_r_a0l_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 4,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire Ring\n\nRings\n\nRequires: 12 Level.\n\nArmour: +(20-30)% to Cold Resistance\n+(100-119) to maximum Life\nP6"
+      }
+    ]
+  },
+  {
+    "id": "_r_aal_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Topaz Ring\n\nRings\n\nRequires: 16 Level.\n\nArmour: +(20-30)% to Lightning Resistance\n+(100-119) to maximum Life\nP6\n(27-30)% increased Fire Damage\nP1\n+(26-30)% to Lightning Resistance\nS4\n+(26-30)% to Cold Resistance\nS4\n(15-18)% increased Rarity of Items found\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_aam_",
+    "image": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=64,height=64,fit=contain/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Sapphire Ring\n\nRings\n\nRequires: 12 Level.\n\nArmour: +(20-30)% to Cold Resistance\n+(100-119) to maximum Life\nP6\n(23-26)% increased Fire Damage\nP2\n+(20-23)% to Chaos Resistance\nS2\n(15-18)% increased Rarity of Items found\nS3\n+(31-35)% to Fire Resistance\nS3"
+      }
+    ]
+  },
+  {
+    "id": "_r_aad_",
+    "image": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskMana07.webp",
+    "kind": "gear",
+    "name": "",
+    "stage": 5,
+    "set": 1,
+    "tips": [
+      {
+        "text": "Gargantuan Mana Flask\n\nMana Flasks\n\nRequires: 40 Level."
+      }
+    ]
+  }
+]

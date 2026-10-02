@@ -1,0 +1,1077 @@
+{
+  "source": "https://mobalytics.gg/poe-2/builds/fubgun-flameblast-oil-grenade",
+  "assets": {
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/OilGrenade.webp": {
+      "path": "assets/game/ec1693c5c9-OilGrenade.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/OilGrenade.webp",
+      "mime": "image/png",
+      "bytes": 7715
+    },
+    "/assets/poe-2/images/game/ascendancies/icon/poe-2-gemling-legionnaire.jpg": {
+      "path": "assets/game/5a70e8aa6a-poe-2-gemling-legionnaire.jpg",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=32/assets/poe-2/images/game/ascendancies/icon/poe-2-gemling-legionnaire.jpg",
+      "mime": "image/jpeg",
+      "bytes": 1125
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/CastOnDodgeRollSkill.webp": {
+      "path": "assets/game/6e2433fc2d-CastOnDodgeRollSkill.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/CastOnDodgeRollSkill.webp",
+      "mime": "image/png",
+      "bytes": 6795
+    },
+    "/assets/poe-2/images/game/classes/icon/mercenary.jpg": {
+      "path": "assets/game/bd61529b7a-mercenary.jpg",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=32/assets/poe-2/images/game/classes/icon/mercenary.jpg?v1",
+      "mime": "image/jpeg",
+      "bytes": 1162
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressFlameblast.webp": {
+      "path": "assets/game/8a4e628e57-SorceressFlameblast.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressFlameblast.webp",
+      "mime": "image/png",
+      "bytes": 7841
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow02.webp": {
+      "path": "assets/game/69f9490532-2HCrossbow02.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow02.webp",
+      "mime": "image/webp",
+      "bytes": 19232
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/IronRing.webp": {
+      "path": "assets/game/6d11f1ccb3-IronRing.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/IronRing.webp",
+      "mime": "image/webp",
+      "bytes": 4188
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp": {
+      "path": "assets/game/93af566336-HelmetDexInt02.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+      "mime": "image/webp",
+      "bytes": 6210
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/AmberAmulet.webp": {
+      "path": "assets/game/8b5ca3842c-AmberAmulet.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/AmberAmulet.webp",
+      "mime": "image/webp",
+      "bytes": 4208
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp": {
+      "path": "assets/game/6736653562-GlovesInt02.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+      "mime": "image/webp",
+      "bytes": 10776
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp": {
+      "path": "assets/game/4620bcb7e7-BootsStr03.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+      "mime": "image/webp",
+      "bytes": 10828
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp": {
+      "path": "assets/game/570f1ede51-ThawingCharm.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp",
+      "mime": "image/webp",
+      "bytes": 4748
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp": {
+      "path": "assets/game/da2a525be1-Belt10.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+      "mime": "image/webp",
+      "bytes": 6722
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow04.webp": {
+      "path": "assets/game/0ccd59d757-2HCrossbow04.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow04.webp",
+      "mime": "image/webp",
+      "bytes": 19058
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow03.webp": {
+      "path": "assets/game/4920b426c3-2HCrossbow03.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow03.webp",
+      "mime": "image/png",
+      "bytes": 8569
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MultipleProjectilesSupportGem.webp": {
+      "path": "assets/game/cb7fb6103a-MultipleProjectilesSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MultipleProjectilesSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2258
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/PowerShot.webp": {
+      "path": "assets/game/b520877cf2-PowerShot.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/PowerShot.webp",
+      "mime": "image/png",
+      "bytes": 6309
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/WeaponElementalDamageSupportGem.webp": {
+      "path": "assets/game/3ce562c17a-WeaponElementalDamageSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/WeaponElementalDamageSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2256
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/FlashbangGrenade.webp": {
+      "path": "assets/game/2bf7ac03b7-FlashbangGrenade.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/FlashbangGrenade.webp",
+      "mime": "image/png",
+      "bytes": 6281
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/BrutalitySupportGem.webp": {
+      "path": "assets/game/eb0b802229-BrutalitySupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/BrutalitySupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2268
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/ToxicGrenade.webp": {
+      "path": "assets/game/fd5a81f452-ToxicGrenade.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/ToxicGrenade.webp",
+      "mime": "image/png",
+      "bytes": 6279
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/ExplosiveGrenade.webp": {
+      "path": "assets/game/6dc8b669c7-ExplosiveGrenade.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/ExplosiveGrenade.webp",
+      "mime": "image/png",
+      "bytes": 6735
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/HeraldOfAshSkill.webp": {
+      "path": "assets/game/24d3ce8cb7-HeraldOfAshSkill.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/HeraldOfAshSkill.webp",
+      "mime": "image/png",
+      "bytes": 6695
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/DruidWolfLeapAttack.webp": {
+      "path": "assets/game/018faa74be-DruidWolfLeapAttack.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/DruidWolfLeapAttack.webp",
+      "mime": "image/png",
+      "bytes": 6038
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressFrostBomb.webp": {
+      "path": "assets/game/1a55da66ee-SorceressFrostBomb.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressFrostBomb.webp",
+      "mime": "image/png",
+      "bytes": 6735
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/2handeddamage.webp": {
+      "path": "assets/game/cbe590ace9-2handeddamage.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/2handeddamage.webp",
+      "mime": "image/png",
+      "bytes": 7448
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingBarrier.webp": {
+      "path": "assets/game/baea0a1acd-GemlingBarrier.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingBarrier.webp",
+      "mime": "image/png",
+      "bytes": 7907
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingLevelAllSkillGems.webp": {
+      "path": "assets/game/c6a83cc9fe-GemlingLevelAllSkillGems.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingLevelAllSkillGems.webp",
+      "mime": "image/png",
+      "bytes": 7561
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Belts/Uniques/headhunter.webp": {
+      "path": "assets/game/382572ec7d-headhunter.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Belts/Uniques/headhunter.webp",
+      "mime": "image/png",
+      "bytes": 3859
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp": {
+      "path": "assets/game/897e2a68a1-DousingCharm.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+      "mime": "image/webp",
+      "bytes": 4936
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingSkillsAdditionalSupport.webp": {
+      "path": "assets/game/cb65fb6dc4-GemlingSkillsAdditionalSupport.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingSkillsAdditionalSupport.webp",
+      "mime": "image/png",
+      "bytes": 7102
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/UnsetRing.webp": {
+      "path": "assets/game/8089bc3854-UnsetRing.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/UnsetRing.webp",
+      "mime": "image/png",
+      "bytes": 5533
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingSameSupportMultipleTimes.webp": {
+      "path": "assets/game/f5ab2932e8-GemlingSameSupportMultipleTimes.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingSameSupportMultipleTimes.webp",
+      "mime": "image/png",
+      "bytes": 7497
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Currency/TormentedSpiritSocketables/AzmeriSocketableFox.webp": {
+      "path": "assets/game/4817f0467b-AzmeriSocketableFox.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Currency/TormentedSpiritSocketables/AzmeriSocketableFox.webp",
+      "mime": "image/png",
+      "bytes": 6977
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/SkillGemSlotsNode.webp": {
+      "path": "assets/game/892934c932-SkillGemSlotsNode.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/SkillGemSlotsNode.webp",
+      "mime": "image/png",
+      "bytes": 6780
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressArcticArmour.webp": {
+      "path": "assets/game/e296f07938-SorceressArcticArmour.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressArcticArmour.webp",
+      "mime": "image/png",
+      "bytes": 7368
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/plusattribute.webp": {
+      "path": "assets/game/47fb9331ae-plusattribute.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/plusattribute.webp",
+      "mime": "image/png",
+      "bytes": 5795
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp": {
+      "path": "assets/game/e2f8f10a58-2HCrossbow07.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+      "mime": "image/webp",
+      "bytes": 22748
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ExpediteSupportGem.webp": {
+      "path": "assets/game/96947e5836-ExpediteSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ExpediteSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2336
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/CooldownReductionSupportGem.webp": {
+      "path": "assets/game/ec968c0012-CooldownReductionSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/CooldownReductionSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2294
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/StripAwaySupportGem.webp": {
+      "path": "assets/game/a1854a7ccc-StripAwaySupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/StripAwaySupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2329
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp": {
+      "path": "assets/game/b774cb5c45-TopazRing.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+      "mime": "image/webp",
+      "bytes": 5016
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IncreasedAreaOfEffectSupportGem.webp": {
+      "path": "assets/game/bc7327264e-IncreasedAreaOfEffectSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IncreasedAreaOfEffectSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2343
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp": {
+      "path": "assets/game/986ae2ed03-SapphireRing.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+      "mime": "image/webp",
+      "bytes": 4772
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/DruidTornado.webp": {
+      "path": "assets/game/88d78d441e-DruidTornado.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/DruidTornado.webp",
+      "mime": "image/png",
+      "bytes": 6807
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife08.webp": {
+      "path": "assets/game/bcb3670d0e-FlaskLife08.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife08.webp",
+      "mime": "image/webp",
+      "bytes": 3742
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Amulets/Uniques/surefootedsigil.webp": {
+      "path": "assets/game/5a9f65b1f3-surefootedsigil.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Uniques/surefootedsigil.webp",
+      "mime": "image/webp",
+      "bytes": 4954
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp": {
+      "path": "assets/game/e5815a9d0e-Staff05.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+      "mime": "image/webp",
+      "bytes": 9352
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/elementalweakness.webp": {
+      "path": "assets/game/04b60a35fc-elementalweakness.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/elementalweakness.webp",
+      "mime": "image/png",
+      "bytes": 6485
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex08.webp": {
+      "path": "assets/game/e8a8e2e8fc-BodyStrDex08.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex08.webp",
+      "mime": "image/webp",
+      "bytes": 19924
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/SilverCharm.webp": {
+      "path": "assets/game/da9807eedf-SilverCharm.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/SilverCharm.webp",
+      "mime": "image/webp",
+      "bytes": 4066
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskMana07.webp": {
+      "path": "assets/game/8329c90911-FlaskMana07.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskMana07.webp",
+      "mime": "image/webp",
+      "bytes": 6148
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ConcentratedEffectSupportGem.webp": {
+      "path": "assets/game/f9312baa03-ConcentratedEffectSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ConcentratedEffectSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2386
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/SearingFlameSupportGem.webp": {
+      "path": "assets/game/e19d015395-SearingFlameSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/SearingFlameSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2282
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ChannellingDamageSupportGem.webp": {
+      "path": "assets/game/cccb0a8599-ChannellingDamageSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ChannellingDamageSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2337
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/AddedConsideredCastingSupportGem.webp": {
+      "path": "assets/game/26d35476f7-AddedConsideredCastingSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/AddedConsideredCastingSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2334
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/NovaProjectilesSupportGem.webp": {
+      "path": "assets/game/9dca091d5c-NovaProjectilesSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/NovaProjectilesSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2310
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/CurseEffectSupportGem.webp": {
+      "path": "assets/game/962b13c4cf-CurseEffectSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/CurseEffectSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2330
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/FocusedHexSupportGem.webp": {
+      "path": "assets/game/6635123139-FocusedHexSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/FocusedHexSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2339
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MoreDurationSupportGem.webp": {
+      "path": "assets/game/1b5b9aaf0b-MoreDurationSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MoreDurationSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2236
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ExpandSupportGem.webp": {
+      "path": "assets/game/f756d4210f-ExpandSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ExpandSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2332
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MovingStormSupportGem.webp": {
+      "path": "assets/game/00b44c45d7-MovingStormSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MovingStormSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2337
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ControlledDestructionSupportGem.webp": {
+      "path": "assets/game/877a2f104d-ControlledDestructionSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ControlledDestructionSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2337
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/TornadoSkillGem.webp": {
+      "path": "assets/game/476024e1fe-TornadoSkillGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/TornadoSkillGem.webp",
+      "mime": "image/png",
+      "bytes": 2758
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/firedamagestr.webp": {
+      "path": "assets/game/e94cb875bd-firedamagestr.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/firedamagestr.webp",
+      "mime": "image/png",
+      "bytes": 6391
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/SpellEchoSupportGem.webp": {
+      "path": "assets/game/39ae46b724-SpellEchoSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/SpellEchoSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2353
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/InspirationSupportGem.webp": {
+      "path": "assets/game/fcdd14914a-InspirationSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/InspirationSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2282
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr06.webp": {
+      "path": "assets/game/5f89664087-HelmetIntStr06.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr06.webp",
+      "mime": "image/webp",
+      "bytes": 9546
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IncreaseLimitSupportGem.webp": {
+      "path": "assets/game/e81da5ec21-IncreaseLimitSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IncreaseLimitSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2309
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr02.webp": {
+      "path": "assets/game/7898432c28-BodyIntStr02.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr02.webp",
+      "mime": "image/webp",
+      "bytes": 15126
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp": {
+      "path": "assets/game/e16df9cec0-GoldAmulet.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+      "mime": "image/webp",
+      "bytes": 6206
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr04.webp": {
+      "path": "assets/game/dcb7aa78ab-GlovesIntStr04.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr04.webp",
+      "mime": "image/webp",
+      "bytes": 11170
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Uniques/MoriorInvictus_M.webp": {
+      "path": "assets/game/c566552b02-MoriorInvictus_M.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Uniques/MoriorInvictus_M.webp",
+      "mime": "image/webp",
+      "bytes": 19932
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr04.webp": {
+      "path": "assets/game/244e4fee00-BootsIntStr04.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr04.webp",
+      "mime": "image/webp",
+      "bytes": 10804
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Currency/Runes/PerfectRuneLife.webp": {
+      "path": "assets/game/d8530949b4-PerfectRuneLife.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Currency/Runes/PerfectRuneLife.webp",
+      "mime": "image/png",
+      "bytes": 7518
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/WitchWitheringPresence.webp": {
+      "path": "assets/game/f1da79eb79-WitchWitheringPresence.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/WitchWitheringPresence.webp",
+      "mime": "image/png",
+      "bytes": 6909
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Rings/Uniques/blackflame.webp": {
+      "path": "assets/game/77c24a5433-blackflame.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Rings/Uniques/blackflame.webp",
+      "mime": "image/png",
+      "bytes": 4529
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Currency/SoulCores/GreaterSoulCoreWealthRarity.webp": {
+      "path": "assets/game/e4d9507500-GreaterSoulCoreWealthRarity.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Currency/SoulCores/GreaterSoulCoreWealthRarity.webp",
+      "mime": "image/png",
+      "bytes": 5542
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ExpandingGroundSupportGem.webp": {
+      "path": "assets/game/3b0c4bab73-ExpandingGroundSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ExpandingGroundSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2341
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/AddedImpetusSupportGem.webp": {
+      "path": "assets/game/11658d8906-AddedImpetusSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/AddedImpetusSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2345
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressEnergyRemnants.webp": {
+      "path": "assets/game/d9a09f7819-SorceressEnergyRemnants.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressEnergyRemnants.webp",
+      "mime": "image/png",
+      "bytes": 6599
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/temporalchains.webp": {
+      "path": "assets/game/adbcec29a2-temporalchains.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/temporalchains.webp",
+      "mime": "image/png",
+      "bytes": 6290
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/RushedRemnantsSupportGem.webp": {
+      "path": "assets/game/892cb780a5-RushedRemnantsSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/RushedRemnantsSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2324
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/WitchBlasphemy.webp": {
+      "path": "assets/game/ae0b8df9a0-WitchBlasphemy.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/WitchBlasphemy.webp",
+      "mime": "image/png",
+      "bytes": 6966
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/Lineage/LineageKhatal.webp": {
+      "path": "assets/game/e77441a58a-LineageKhatal.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/Lineage/LineageKhatal.webp",
+      "mime": "image/png",
+      "bytes": 2976
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp": {
+      "path": "assets/game/5c9f7d3d11-GoldRing.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+      "mime": "image/webp",
+      "bytes": 4566
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/SilverUniqueCharm.webp": {
+      "path": "assets/game/eac4d7c33f-SilverUniqueCharm.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/SilverUniqueCharm.webp",
+      "mime": "image/webp",
+      "bytes": 4812
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/AbsentAmulet.webp": {
+      "path": "assets/game/bfc5915f92-AbsentAmulet.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/AbsentAmulet.webp",
+      "mime": "image/png",
+      "bytes": 5504
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Belts/Uniques/mageblood.webp": {
+      "path": "assets/game/4bd25b4886-mageblood.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Belts/Uniques/mageblood.webp",
+      "mime": "image/webp",
+      "bytes": 7562
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff01.webp": {
+      "path": "assets/game/79443ba553-Staff01.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff01.webp",
+      "mime": "image/webp",
+      "bytes": 7646
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr05.webp": {
+      "path": "assets/game/c7014c007a-HelmetStr05.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr05.webp",
+      "mime": "image/webp",
+      "bytes": 8348
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex02.webp": {
+      "path": "assets/game/7f9a703cce-BodyStrDex02.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex02.webp",
+      "mime": "image/webp",
+      "bytes": 17080
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr04.webp": {
+      "path": "assets/game/383eaebab2-GlovesStr04.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr04.webp",
+      "mime": "image/webp",
+      "bytes": 11432
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife09.webp": {
+      "path": "assets/game/9310e0e9e3-FlaskLife09.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife09.webp",
+      "mime": "image/webp",
+      "bytes": 3880
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex03.webp": {
+      "path": "assets/game/bd863c5b2e-BootsStrDex03.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex03.webp",
+      "mime": "image/webp",
+      "bytes": 7610
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/ThawingUniqueCharm.webp": {
+      "path": "assets/game/22befa8d61-ThawingUniqueCharm.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/ThawingUniqueCharm.webp",
+      "mime": "image/webp",
+      "bytes": 4900
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/GoldenUniqueCharm.webp": {
+      "path": "assets/game/a1e854cb3d-GoldenUniqueCharm.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/GoldenUniqueCharm.webp",
+      "mime": "image/webp",
+      "bytes": 5032
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Flasks/Uniques/LaviangasSpirit.webp": {
+      "path": "assets/game/1c60863c32-LaviangasSpirit.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Flasks/Uniques/LaviangasSpirit.webp",
+      "mime": "image/webp",
+      "bytes": 27048
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Uniques/BoundlessAuthority.webp": {
+      "path": "assets/game/dc751fb90a-BoundlessAuthority.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Uniques/BoundlessAuthority.webp",
+      "mime": "image/png",
+      "bytes": 4943
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp": {
+      "path": "assets/game/d64ab977da-KeystoneIronReflexes.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp",
+      "mime": "image/png",
+      "bytes": 8706
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Uniques/ghostmarch.webp": {
+      "path": "assets/game/649cb267e0-ghostmarch.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Uniques/ghostmarch.webp",
+      "mime": "image/png",
+      "bytes": 5705
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/Lineage/Dialla.webp": {
+      "path": "assets/game/224da3c65f-Dialla.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/Lineage/Dialla.webp",
+      "mime": "image/png",
+      "bytes": 2751
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/GemBarrier.webp": {
+      "path": "assets/game/5a093cec52-GemBarrier.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/GemBarrier.webp",
+      "mime": "image/png",
+      "bytes": 6207
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/LifeFlaskSupportGem.webp": {
+      "path": "assets/game/4234dc95b6-LifeFlaskSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/LifeFlaskSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2302
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/InterludeSupportGem.webp": {
+      "path": "assets/game/3c98e266d5-InterludeSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/InterludeSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2275
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IncreasedArmourBreakSupportGem.webp": {
+      "path": "assets/game/c60a208e0f-IncreasedArmourBreakSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IncreasedArmourBreakSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2288
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/RapidShotPermafrost.webp": {
+      "path": "assets/game/85a5733ed5-RapidShotPermafrost.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/RapidShotPermafrost.webp",
+      "mime": "image/png",
+      "bytes": 5970
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/BruteShockwaveTotem.webp": {
+      "path": "assets/game/fe1d94d5bf-BruteShockwaveTotem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/BruteShockwaveTotem.webp",
+      "mime": "image/png",
+      "bytes": 6357
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ChanceToNotConsumeAmmoSupportGem.webp": {
+      "path": "assets/game/2b993deb6a-ChanceToNotConsumeAmmoSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ChanceToNotConsumeAmmoSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2302
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MobilitySupportGem.webp": {
+      "path": "assets/game/a53358627a-MobilitySupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MobilitySupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2286
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MoreTotemLifeSupportGem.webp": {
+      "path": "assets/game/c6895b663b-MoreTotemLifeSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MoreTotemLifeSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2290
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/FirePenetrationSupportGem.webp": {
+      "path": "assets/game/787958aef9-FirePenetrationSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/FirePenetrationSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2282
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/BruteSeismicCry.webp": {
+      "path": "assets/game/6b205744ab-BruteSeismicCry.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/BruteSeismicCry.webp",
+      "mime": "image/png",
+      "bytes": 6637
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/CessationSupportGem.webp": {
+      "path": "assets/game/792287f5d4-CessationSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/CessationSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2298
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IronwoodSupportGem.webp": {
+      "path": "assets/game/8100bf15a1-IronwoodSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IronwoodSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2275
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/EnragedWarcrySupportGem.webp": {
+      "path": "assets/game/c83df51bd3-EnragedWarcrySupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/EnragedWarcrySupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2283
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IgnitionSupportGem.webp": {
+      "path": "assets/game/bd8aecb493-IgnitionSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IgnitionSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2259
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/PinSupportGem.webp": {
+      "path": "assets/game/cb44c2bc5b-PinSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/PinSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2308
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr07.webp": {
+      "path": "assets/game/fbbc988c6b-HelmetStr07.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr07.webp",
+      "mime": "image/webp",
+      "bytes": 6766
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/PierceSupportGem.webp": {
+      "path": "assets/game/05ddfc7ead-PierceSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/PierceSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2250
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff06.webp": {
+      "path": "assets/game/39360acaa2-Staff06.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff06.webp",
+      "mime": "image/webp",
+      "bytes": 8346
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr10.webp": {
+      "path": "assets/game/64f4a28e24-BodyStr10.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr10.webp",
+      "mime": "image/webp",
+      "bytes": 19888
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr06.webp": {
+      "path": "assets/game/1847e13a84-GlovesStr06.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr06.webp",
+      "mime": "image/webp",
+      "bytes": 12290
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Jewels/Uniques/Voices.webp": {
+      "path": "assets/game/90c56454cb-Voices.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/Uniques/Voices.webp",
+      "mime": "image/webp",
+      "bytes": 5796
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr06.webp": {
+      "path": "assets/game/fcad4e2886-BootsStr06.webp",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr06.webp",
+      "mime": "image/webp",
+      "bytes": 10360
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Currency/Expedition2/ExpeditionReligionAncientAugment.webp": {
+      "path": "assets/game/cfdcae648a-ExpeditionReligionAncientAugment.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DItems/Currency/Expedition2/ExpeditionReligionAncientAugment.webp",
+      "mime": "image/png",
+      "bytes": 5683
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/ChargeMasteryDeath.webp": {
+      "path": "assets/game/3534025902-ChargeMasteryDeath.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/ChargeMasteryDeath.webp",
+      "mime": "image/png",
+      "bytes": 6280
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/ArmourAndEvasionNode.webp": {
+      "path": "assets/game/754ec5a1c9-ArmourAndEvasionNode.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=96/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/ArmourAndEvasionNode.webp",
+      "mime": "image/png",
+      "bytes": 5843
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/HerbalismSupportGem.webp": {
+      "path": "assets/game/5daefcffbe-HerbalismSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/HerbalismSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2266
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/BurstShotIncendiary.webp": {
+      "path": "assets/game/83925789d4-BurstShotIncendiary.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/BurstShotIncendiary.webp",
+      "mime": "image/png",
+      "bytes": 6275
+    },
+    "/assets/poe-2/images/game/Art/2DArt/SkillIcons/BruteInfernalCry.webp": {
+      "path": "assets/game/5fa78968cd-BruteInfernalCry.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=80,height=80/assets/poe-2/images/game/Art/2DArt/SkillIcons/BruteInfernalCry.webp",
+      "mime": "image/png",
+      "bytes": 6868
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/EncumberanceSupportGem.webp": {
+      "path": "assets/game/b83f64bbc2-EncumberanceSupportGem.webp",
+      "url": "https://cdn.mobalytics.gg/cdn-cgi/image/format=auto,width=48/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/EncumberanceSupportGem.webp",
+      "mime": "image/png",
+      "bytes": 2302
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif": {
+      "path": "assets/game/4c69362dc5-SapphireJewel.avif",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+      "mime": "image/avif",
+      "bytes": 3137
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif": {
+      "path": "assets/game/3d1e236333-RubyJewel.avif",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+      "mime": "image/avif",
+      "bytes": 3022
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Jewels/EmeraldJewel.avif": {
+      "path": "assets/game/cadeee26e7-EmeraldJewel.avif",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/EmeraldJewel.avif",
+      "mime": "image/avif",
+      "bytes": 2852
+    },
+    "/assets/poe-2/images/game/Art/2DItems/Jewels/SacredFlameJewel.avif": {
+      "path": "assets/game/061ca70655-SacredFlameJewel.avif",
+      "url": "https://cdn.mobalytics.gg/assets/poe-2/images/game/Art/2DItems/Jewels/SacredFlameJewel.avif",
+      "mime": "image/avif",
+      "bytes": 2667
+    }
+  },
+  "names": {
+    "Mercenary": "/assets/poe-2/images/game/classes/icon/mercenary.jpg",
+    "Gemling Legionnaire": "/assets/poe-2/images/game/ascendancies/icon/poe-2-gemling-legionnaire.jpg",
+    "Flameblast": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressFlameblast.webp",
+    "Oil Grenade": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/OilGrenade.webp",
+    "Cast on Dodge": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/CastOnDodgeRollSkill.webp",
+    "Tense Crossbow": "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow02.webp",
+    "Sturdy Crossbow": "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow03.webp",
+    "Varnished Crossbow": "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow04.webp",
+    "Crossbow Shot": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/PowerShot.webp",
+    "Multishot I": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MultipleProjectilesSupportGem.webp",
+    "Explosive Grenade": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/ExplosiveGrenade.webp",
+    "Elemental Armament I": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/WeaponElementalDamageSupportGem.webp",
+    "Flash Grenade": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/FlashbangGrenade.webp",
+    "Brutality I": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/BrutalitySupportGem.webp",
+    "Gas Grenade": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/ToxicGrenade.webp",
+    "Frost Bomb": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressFrostBomb.webp",
+    "Herald of Ash": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/HeraldOfAshSkill.webp",
+    "Pounce": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/DruidWolfLeapAttack.webp",
+    "Curved Weapon": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/2handeddamage.webp",
+    "Colossal Weapon": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/2handeddamage.webp",
+    "Essence of Virtue": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingBarrier.webp",
+    "Advanced Thaumaturgy": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingSkillsAdditionalSupport.webp",
+    "Implanted Gems": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingLevelAllSkillGems.webp",
+    "Gem Studded": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/Gemling/GemlingSameSupportMultipleTimes.webp",
+    "Dousing Charm": "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+    "Headhunter": "/assets/poe-2/images/game/Art/2DItems/Belts/Uniques/headhunter.webp",
+    "Unset Ring": "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/UnsetRing.webp",
+    "Augmented Flesh": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/SkillGemSlotsNode.webp",
+    "Fox Idol": "/assets/poe-2/images/game/Art/2DItems/Currency/TormentedSpiritSocketables/AzmeriSocketableFox.webp",
+    "Paragon": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/plusattribute.webp",
+    "Arctic Armour": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressArcticArmour.webp",
+    "Bombard Crossbow": "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+    "Multishot II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MultipleProjectilesSupportGem.webp",
+    "Elemental Armament II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/WeaponElementalDamageSupportGem.webp",
+    "Short Fuse I": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ExpediteSupportGem.webp",
+    "Potent Exposure": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/StripAwaySupportGem.webp",
+    "Magnified Area I": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IncreasedAreaOfEffectSupportGem.webp",
+    "Cooldown Recovery I": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/CooldownReductionSupportGem.webp",
+    "Tornado": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/DruidTornado.webp",
+    "Elemental Weakness": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/elementalweakness.webp",
+    "Considered Casting": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/AddedConsideredCastingSupportGem.webp",
+    "Searing Flame II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/SearingFlameSupportGem.webp",
+    "Concentrated Area": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ConcentratedEffectSupportGem.webp",
+    "Burgeon II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ChannellingDamageSupportGem.webp",
+    "Short Fuse II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ExpediteSupportGem.webp",
+    "Nova Projectiles I": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/NovaProjectilesSupportGem.webp",
+    "Magnified Area II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IncreasedAreaOfEffectSupportGem.webp",
+    "Heightened Curse": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/CurseEffectSupportGem.webp",
+    "Focused Curse": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/FocusedHexSupportGem.webp",
+    "Expand": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ExpandSupportGem.webp",
+    "Advancing Storm": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MovingStormSupportGem.webp",
+    "Prolonged Duration II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MoreDurationSupportGem.webp",
+    "Burnout": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/firedamagestr.webp",
+    "Controlled Destruction": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ControlledDestructionSupportGem.webp",
+    "Overabundance II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IncreaseLimitSupportGem.webp",
+    "Spell Echo": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/SpellEchoSupportGem.webp",
+    "Efficiency II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/InspirationSupportGem.webp",
+    "Morior Invictus (life)": "/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Uniques/MoriorInvictus_M.webp",
+    "Perfect Body Rune": "/assets/poe-2/images/game/Art/2DItems/Currency/Runes/PerfectRuneLife.webp",
+    "Soul Core of Azcapa": "/assets/poe-2/images/game/Art/2DItems/Currency/SoulCores/GreaterSoulCoreWealthRarity.webp",
+    "Blackflame": "/assets/poe-2/images/game/Art/2DItems/Rings/Uniques/blackflame.webp",
+    "Withering Presence": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/WitchWitheringPresence.webp",
+    "Surefooted Sigil": "/assets/poe-2/images/game/Art/2DItems/Amulets/Uniques/surefootedsigil.webp",
+    "Gold Amulet": "/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+    "Encroaching Ground": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ExpandingGroundSupportGem.webp",
+    "Boundless Energy II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/AddedImpetusSupportGem.webp",
+    "Mana Remnants": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/SorceressEnergyRemnants.webp",
+    "Khatal's Rejuvenation": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/Lineage/LineageKhatal.webp",
+    "Harmonic Remnants II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/RushedRemnantsSupportGem.webp",
+    "Temporal Chains": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/temporalchains.webp",
+    "Blasphemy": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/WitchBlasphemy.webp",
+    "Absent Amulet": "/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/AbsentAmulet.webp",
+    "Mageblood": "/assets/poe-2/images/game/Art/2DItems/Belts/Uniques/mageblood.webp",
+    "Iron Reflexes": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/KeystoneIronReflexes.webp",
+    "Rite of Passage": "/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/GoldenUniqueCharm.webp",
+    "Decree of Flight": "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Uniques/BoundlessAuthority.webp",
+    "Ghostmarch": "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Uniques/ghostmarch.webp",
+    "Dialla's Desire": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/Lineage/Dialla.webp",
+    "Cooldown Recovery II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/CooldownReductionSupportGem.webp",
+    "Virtuous Barrier": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/GemBarrier.webp",
+    "Armour Demolisher I": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IncreasedArmourBreakSupportGem.webp",
+    "Bounty II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/LifeFlaskSupportGem.webp",
+    "Remnant Potency I": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/InterludeSupportGem.webp",
+    "Ice Shards": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/RapidShotPermafrost.webp",
+    "Ammo Conservation II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/ChanceToNotConsumeAmmoSupportGem.webp",
+    "Bounty I": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/LifeFlaskSupportGem.webp",
+    "Mobility": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MobilitySupportGem.webp",
+    "Shockwave Totem": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/BruteShockwaveTotem.webp",
+    "Brutality III": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/BrutalitySupportGem.webp",
+    "Fire Penetration II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/FirePenetrationSupportGem.webp",
+    "Hardy Totems II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/MoreTotemLifeSupportGem.webp",
+    "Reinforced Totems II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IronwoodSupportGem.webp",
+    "Seismic Cry": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/BruteSeismicCry.webp",
+    "Ignite III": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/IgnitionSupportGem.webp",
+    "Enraged Warcry II": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/EnragedWarcrySupportGem.webp",
+    "Deliberation": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/CessationSupportGem.webp",
+    "Pin I": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/PinSupportGem.webp",
+    "Pierce I": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/PierceSupportGem.webp",
+    "Emergent Vigour": "/assets/poe-2/images/game/Art/2DItems/Currency/Expedition2/ExpeditionReligionAncientAugment.webp",
+    "Leather Bound Gauntlets": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/passives/ArmourAndEvasionNode.webp",
+    "Charge Regulation": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/ChargeMasteryDeath.webp",
+    "Herbalism I": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/HerbalismSupportGem.webp",
+    "Incendiary Shot": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/BurstShotIncendiary.webp",
+    "Infernal Cry": "/assets/poe-2/images/game/Art/2DArt/SkillIcons/BruteInfernalCry.webp",
+    "Slow Potency": "/assets/poe-2/images/game/Art/2DItems/Gems/New/NewSupport/EncumberanceSupportGem.webp",
+    "Morior Invictus": "/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Uniques/MoriorInvictus_M.webp",
+    "Gold Ring": "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp"
+  },
+  "equipment": [
+    [
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow02.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/IronRing.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/AmberAmulet.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp"
+    ],
+    [
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow04.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/IronRing.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/AmberAmulet.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp"
+    ],
+    [
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/AmberAmulet.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp"
+    ],
+    [
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex08.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Amulets/Uniques/surefootedsigil.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife08.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/SilverCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskMana07.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp"
+    ],
+    [
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetDexInt02.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex08.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Amulets/Uniques/surefootedsigil.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesInt02.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr03.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife08.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/SilverCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskMana07.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp"
+    ],
+    [
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr06.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyIntStr02.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr04.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr04.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife08.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/SilverCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskMana07.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp"
+    ],
+    [
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetIntStr06.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Uniques/MoriorInvictus_M.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesIntStr04.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Belts/Basetypes/Belt10.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsIntStr04.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife08.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/ThawingCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/SilverUniqueCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskMana07.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp"
+    ],
+    [
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff01.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr05.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStrDex02.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr04.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Belts/Uniques/mageblood.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStrDex03.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife09.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/ThawingUniqueCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/GoldenUniqueCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Flasks/Uniques/LaviangasSpirit.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/EmeraldJewel.avif",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp"
+    ],
+    [
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff06.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Rings/Basetypes/GoldRing.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Helmets/Basetypes/HelmetStr07.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/BodyArmours/Basetypes/BodyStr10.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Amulets/Basetypes/GoldAmulet.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Gloves/Basetypes/GlovesStr06.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Belts/Uniques/mageblood.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Armours/Boots/Basetypes/BootsStr06.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Flasks/Basetypes/FlaskLife09.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/ThawingUniqueCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Uniques/GoldenUniqueCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Charms/Basetypes/DousingCharm.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Flasks/Uniques/LaviangasSpirit.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/SapphireJewel.avif",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/RubyJewel.avif",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/SacredFlameJewel.avif",
+      "/assets/poe-2/images/game/Art/2DItems/Jewels/Uniques/Voices.webp",
+      "/assets/poe-2/images/game/Art/2DItems/Weapons/TwoHandWeapons/Crossbows/2HCrossbow07.webp"
+    ]
+  ]
+}
