@@ -8,6 +8,27 @@ const passiveTree = (() => {
  const imgs={};let width=0,height=0,scale=.2,cx=0,cy=0,view='main',filter='all',stage=-1;
  let common=new Set(),one=new Set(),two=new Set(),selected=null,hovered=null,framePending=false,initialFit=false,autoFit=true;
  const pointers=new Map();let moved=false,gesture=null;
+ const tooltip=$('tree-hover');let tooltipNode=null;
+ // Keep the floating card outside the canvas panel's clipping boundary.
+ document.body.append(tooltip);
+ tooltip.setAttribute('role','tooltip');
+ function hideTooltip(){tooltip.hidden=true;tooltipNode=null;canvas.removeAttribute('aria-describedby');}
+ const nodeName=n=>n.isAscendancyStart?label('treeAscName'):n.key===50986?label('treeClassName'):n.classStartIndex?label('treeClassStart')+' · '+n.name:term(n);
+ const nodeHint=n=>label(n.isJewelSocket?'treeJewelHint':n.classStartIndex||n.isAscendancyStart?'treeStartHint':'treeChoiceHint');
+ function hoverDetail(n,e){
+  if(!n||e.pointerType==='touch'){hideTooltip();return;}
+  if(tooltipNode!==n){
+   const stats=translatedStats(n);tooltipNode=n;
+   tooltip.innerHTML=`<div class="tree-tooltip-header"><span class="tree-node-type">${nodeType(n)}</span><h3>${esc(nodeName(n))}</h3><div class="tree-node-en">${esc(n.name)}</div><span class="tree-allocation" style="--node-color:${color(mask(n)||1)}">${esc(allocation(n))}</span></div><div class="tree-tooltip-body">${stats.length?`<ul>${stats.map(s=>`<li>${esc(s)}</li>`).join('')}</ul>`:`<p>${esc(nodeHint(n))}</p>`}</div><div class="tree-tooltip-footer">${esc(label('treeHoverHint'))}</div>`;
+  }
+  tooltip.hidden=false;canvas.setAttribute('aria-describedby',tooltip.id);
+  const margin=12,gap=18,rect=tooltip.getBoundingClientRect();
+  let left=e.clientX+gap,top=e.clientY+gap;
+  if(left+rect.width>window.innerWidth-margin)left=e.clientX-rect.width-gap;
+  if(top+rect.height>window.innerHeight-margin)top=e.clientY-rect.height-gap;
+  tooltip.style.left=Math.max(margin,Math.min(left,window.innerWidth-rect.width-margin))+'px';
+  tooltip.style.top=Math.max(margin,Math.min(top,window.innerHeight-rect.height-margin))+'px';
+ }
  for(const [key,url] of Object.entries(PASSIVE.images)){const img=new Image();imgs[key]=img;img.onload=drawSoon;img.src=url;}
  const clean=text=>text.replace(/\[([^\]|]+)\|([^\]]+)\]/g,'$2').replace(/\[([^\]]+)\]/g,'$1').replace(/<[^>]+>/g,'').replace(/[{}]/g,'');
  const term=n=>PASSIVE.terms[n.name]?.[language]||n.name;
@@ -67,20 +88,21 @@ const passiveTree = (() => {
   ctx.restore();$('tree-zoom').textContent=Math.round(scale*100)+'%';
  }
  function fit(whole=false){
+  hideTooltip();
   const pool=nodes.filter(n=>inView(n)&&(whole||isActive(n)));if(!pool.length||!width)return;
   const minx=Math.min(...pool.map(n=>n.x)),maxx=Math.max(...pool.map(n=>n.x)),miny=Math.min(...pool.map(n=>n.y)),maxy=Math.max(...pool.map(n=>n.y));
   cx=(minx+maxx)/2;cy=(miny+maxy)/2;
   scale=Math.max(.015,Math.min(.55,(width-90)/Math.max(300,maxx-minx+200),(height-90)/Math.max(300,maxy-miny+200)));initialFit=true;autoFit=true;drawSoon();
  }
- function zoom(factor,x=width/2,y=height/2){autoFit=false;const before=worldPoint(x,y);scale=Math.max(.015,Math.min(1.8,scale*factor));cx=before.x-(x-width/2)/scale;cy=before.y-(y-height/2)/scale;drawSoon();}
+ function zoom(factor,x=width/2,y=height/2){hideTooltip();autoFit=false;const before=worldPoint(x,y);scale=Math.max(.015,Math.min(1.8,scale*factor));cx=before.x-(x-width/2)/scale;cy=before.y-(y-height/2)/scale;drawSoon();}
  function pick(x,y){let found=null,best=Infinity;for(const n of nodes){if(!inView(n))continue;const p=screenPoint(n),d=Math.hypot(p.x-x,p.y-y),r=Math.max(6,radius(n)*scale);if(d<r+3&&d<best){found=n;best=d;}}return found;}
  function detail(n,pin=false){
   if(!n){$('tree-detail').innerHTML=`<p class="tree-empty">${label('treeInspectHint')}</p>`;return;}
-  const stats=translatedStats(n);const name=n.isAscendancyStart?label('treeAscName'):n.key===50986?label('treeClassName'):n.classStartIndex?label('treeClassStart')+' · '+n.name:term(n);
-  $('tree-detail').innerHTML=`<div class="tree-detail-top"><span class="tree-node-type">${nodeType(n)}</span>${pin?`<button id="tree-unpin" type="button" aria-label="${label('treeUnpin')}">×</button>`:''}</div><h3>${esc(name)}</h3><div class="tree-node-en">${esc(n.name)}</div><span class="tree-allocation" style="--node-color:${color(mask(n)||1)}">${esc(allocation(n))}</span>${stats.length?`<ul>${stats.map(s=>`<li>${esc(s)}</li>`).join('')}</ul>`:`<p class="fineprint">${label(n.isJewelSocket?'treeJewelHint':n.classStartIndex||n.isAscendancyStart?'treeStartHint':'treeChoiceHint')}</p>`}${PASSIVE.terms[n.name]?.url?`<a class="tree-db-link" href="${esc(PASSIVE.terms[n.name].url)}" target="_blank" rel="noopener">${label('treeDatabase')} ↗</a>`:''}<details><summary>${label('treeEnglish')}</summary><ul>${n.stats.map(s=>`<li>${esc(clean(s))}</li>`).join('')}</ul><small>ID ${n.key} · ${esc(n.id)}</small></details>`;
+  const stats=translatedStats(n);const name=nodeName(n);
+  $('tree-detail').innerHTML=`<div class="tree-detail-top"><span class="tree-node-type">${nodeType(n)}</span>${pin?`<button id="tree-unpin" type="button" aria-label="${label('treeUnpin')}">×</button>`:''}</div><h3>${esc(name)}</h3><div class="tree-node-en">${esc(n.name)}</div><span class="tree-allocation" style="--node-color:${color(mask(n)||1)}">${esc(allocation(n))}</span>${stats.length?`<ul>${stats.map(s=>`<li>${esc(s)}</li>`).join('')}</ul>`:`<p class="fineprint">${esc(nodeHint(n))}</p>`}${PASSIVE.terms[n.name]?.url?`<a class="tree-db-link" href="${esc(PASSIVE.terms[n.name].url)}" target="_blank" rel="noopener">${label('treeDatabase')} ↗</a>`:''}<details><summary>${label('treeEnglish')}</summary><ul>${n.stats.map(s=>`<li>${esc(clean(s))}</li>`).join('')}</ul><small>ID ${n.key} · ${esc(n.id)}</small></details>`;
   if(pin)$('tree-unpin').addEventListener('click',()=>{selected=null;detail(hovered);drawSoon();});
  }
- function inspect(n,focus=true){selected=n;hovered=null;autoFit=false;if(n){view=n.ascendancyId?'asc':'main';if(focus){cx=n.x;cy=n.y;scale=Math.max(scale,n.ascendancyId ? .35 : .45);}}updateViewButtons();detail(n,true);$('tree-status').textContent=n?term(n)+' · '+allocation(n):'';drawSoon();}
+ function inspect(n,focus=true){hideTooltip();selected=n;hovered=null;autoFit=false;if(n){view=n.ascendancyId?'asc':'main';if(focus){cx=n.x;cy=n.y;scale=Math.max(scale,n.ascendancyId ? .35 : .45);}}updateViewButtons();detail(n,true);$('tree-status').textContent=n?term(n)+' · '+allocation(n):'';drawSoon();}
  function results(){
   const q=$('tree-search').value.trim().toLocaleLowerCase();let matches=nodes.filter(n=>q?(term(n)+' '+n.name+' '+translatedStats(n).join(' ')).toLocaleLowerCase().includes(q):visibleMask(n)&&(n.isNotable||n.isKeystone||n.isJewelSocket||n.ascendancyId)&&!n.isAscendancyStart);
   matches.sort((a,b)=>Number(!!mask(b))-Number(!!mask(a))||term(a).localeCompare(term(b)));const total=matches.length;matches=matches.slice(0,q?60:80);
@@ -89,6 +111,7 @@ const passiveTree = (() => {
  }
  function updateViewButtons(){document.querySelectorAll('[data-tree-view]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.treeView===view));}
  function refresh(){
+  hideTooltip();
   const changed=stage!==currentStage;stage=currentStage;const s=PASSIVE.stages[stage];common=new Set(s.common);one=new Set(s.set1);two=new Set(s.set2);
   $('tree-stage').innerHTML=c().stages.map((s,i)=>`<option value="${i}">${esc(s.label)} · ${esc(s.name)}</option>`).join('');$('tree-stage').value=stage;
   $('tree-stage').setAttribute('aria-label',label('treeStageLabel'));$('tree-filter').setAttribute('aria-label',label('treeFilterLabel'));
@@ -104,26 +127,28 @@ const passiveTree = (() => {
  }
  $('tree-cn').addEventListener('click',()=>setLanguage('cn'));$('tree-tw').addEventListener('click',()=>setLanguage('tw'));
  $('tree-stage').addEventListener('change',e=>{currentStage=Number(e.target.value);save('stage',currentStage);renderStage();});
- $('tree-filter').addEventListener('change',e=>{filter=e.target.value;results();drawSoon();});
+ $('tree-filter').addEventListener('change',e=>{hideTooltip();filter=e.target.value;results();drawSoon();});
  $('tree-search').addEventListener('input',results);
  $('tree-results').addEventListener('click',e=>{const button=e.target.closest('[data-node]');if(button)inspect(byId.get(Number(button.dataset.node)));});
- root.querySelectorAll('[data-tree-view]').forEach(b=>b.addEventListener('click',()=>{view=b.dataset.treeView;selected=null;hovered=null;updateViewButtons();detail(null);fit();}));
+ root.querySelectorAll('[data-tree-view]').forEach(b=>b.addEventListener('click',()=>{hideTooltip();view=b.dataset.treeView;selected=null;hovered=null;updateViewButtons();detail(null);fit();}));
  $('tree-fit').addEventListener('click',()=>fit());$('tree-whole').addEventListener('click',()=>{view='main';updateViewButtons();fit(true);});
  $('tree-in').addEventListener('click',()=>zoom(1.3));$('tree-out').addEventListener('click',()=>zoom(1/1.3));
- function expand(value){root.classList.toggle('tree-expanded',value);$('tree-expand').setAttribute('aria-expanded',value);$('tree-expand').textContent=label(value?'treeClose':'treeExpand');document.body.classList.toggle('tree-open',value);}
+ function expand(value){hideTooltip();root.classList.toggle('tree-expanded',value);$('tree-expand').setAttribute('aria-expanded',value);$('tree-expand').textContent=label(value?'treeClose':'treeExpand');document.body.classList.toggle('tree-open',value);}
  $('tree-expand').addEventListener('click',()=>expand(!root.classList.contains('tree-expanded')));
- document.addEventListener('keydown',e=>{if(e.key==='Escape'){if(root.classList.contains('tree-expanded'))expand(false);selected=null;hovered=null;detail(null);drawSoon();}});
- canvas.addEventListener('keydown',e=>{const keys=['ArrowLeft','ArrowRight','ArrowUp','ArrowDown','+','=','-','Home'];if(!keys.includes(e.key))return;e.preventDefault();if(e.key==='Home')fit();else if(e.key==='+'||e.key==='=')zoom(1.3);else if(e.key==='-')zoom(1/1.3);else{autoFit=false;cx+=(e.key==='ArrowRight'?100:e.key==='ArrowLeft'?-100:0)/scale;cy+=(e.key==='ArrowDown'?100:e.key==='ArrowUp'?-100:0)/scale;drawSoon();}});
+ document.addEventListener('keydown',e=>{if(e.key==='Escape'){hideTooltip();if(root.classList.contains('tree-expanded'))expand(false);selected=null;hovered=null;detail(null);drawSoon();}});
+ canvas.addEventListener('keydown',e=>{const keys=['ArrowLeft','ArrowRight','ArrowUp','ArrowDown','+','=','-','Home'];if(!keys.includes(e.key))return;e.preventDefault();hideTooltip();if(e.key==='Home')fit();else if(e.key==='+'||e.key==='=')zoom(1.3);else if(e.key==='-')zoom(1/1.3);else{autoFit=false;cx+=(e.key==='ArrowRight'?100:e.key==='ArrowLeft'?-100:0)/scale;cy+=(e.key==='ArrowDown'?100:e.key==='ArrowUp'?-100:0)/scale;drawSoon();}});
  function point(e){const r=canvas.getBoundingClientRect();return{x:e.clientX-r.left,y:e.clientY-r.top};}
  canvas.addEventListener('wheel',e=>{e.preventDefault();const p=point(e);zoom(Math.exp(-Math.max(-100,Math.min(100,e.deltaY))*.0025),p.x,p.y);},{passive:false});
- canvas.addEventListener('pointerdown',e=>{if(e.button>0)return;canvas.focus({preventScroll:true});canvas.setPointerCapture(e.pointerId);const p=point(e);pointers.set(e.pointerId,p);moved=false;if(pointers.size===2){const a=[...pointers.values()];gesture={distance:Math.hypot(a[0].x-a[1].x,a[0].y-a[1].y),scale};moved=true;}canvas.classList.add('dragging');});
+ canvas.addEventListener('pointerdown',e=>{if(e.button>0)return;hideTooltip();canvas.focus({preventScroll:true});canvas.setPointerCapture(e.pointerId);const p=point(e);pointers.set(e.pointerId,p);moved=false;if(pointers.size===2){const a=[...pointers.values()];gesture={distance:Math.hypot(a[0].x-a[1].x,a[0].y-a[1].y),scale};moved=true;}canvas.classList.add('dragging');});
  canvas.addEventListener('pointermove',e=>{const p=point(e),old=pointers.get(e.pointerId);
   if(old){pointers.set(e.pointerId,p);if(pointers.size===2&&gesture){const a=[...pointers.values()],d=Math.hypot(a[0].x-a[1].x,a[0].y-a[1].y);zoom((gesture.scale*d/Math.max(1,gesture.distance))/scale,(a[0].x+a[1].x)/2,(a[0].y+a[1].y)/2);moved=true;}
    else{const dx=p.x-old.x,dy=p.y-old.y;if(Math.hypot(dx,dy)>2)moved=true;autoFit=false;cx-=dx/scale;cy-=dy/scale;drawSoon();}return;}
-  const n=pick(p.x,p.y);if(n!==hovered){hovered=n;canvas.style.cursor=n?'pointer':'grab';if(!selected)detail(n);$('tree-hover').hidden=!n;if(n){$('tree-hover').textContent=term(n)+' · '+allocation(n);}drawSoon();}
+  const n=pick(p.x,p.y);if(n!==hovered){hovered=n;canvas.style.cursor=n?'pointer':'grab';if(!selected)detail(n);drawSoon();}hoverDetail(n,e);
  });
  function endPointer(e){if(!pointers.has(e.pointerId))return;const p=point(e);pointers.delete(e.pointerId);if(!pointers.size){canvas.classList.remove('dragging');if(!moved&&e.type!=='pointercancel'){const n=pick(p.x,p.y);if(n)inspect(n,false);}gesture=null;}else moved=true;}
- canvas.addEventListener('pointerup',endPointer);canvas.addEventListener('pointercancel',endPointer);canvas.addEventListener('pointerleave',()=>{if(!pointers.size){hovered=null;$('tree-hover').hidden=true;if(!selected)detail(null);drawSoon();}});
- new ResizeObserver(()=>{const rect=canvas.getBoundingClientRect();width=rect.width;height=rect.height;const dpr=Math.min(window.devicePixelRatio||1,2);canvas.width=Math.round(width*dpr);canvas.height=Math.round(height*dpr);if((!initialFit||autoFit)&&stage>=0)fit();drawSoon();}).observe(canvas);
+ canvas.addEventListener('pointerup',endPointer);canvas.addEventListener('pointercancel',endPointer);canvas.addEventListener('pointerleave',()=>{if(!pointers.size){hovered=null;hideTooltip();if(!selected)detail(null);drawSoon();}});
+ window.addEventListener('scroll',hideTooltip,{capture:true,passive:true});
+ window.addEventListener('blur',hideTooltip);
+ new ResizeObserver(()=>{hideTooltip();const rect=canvas.getBoundingClientRect();width=rect.width;height=rect.height;const dpr=Math.min(window.devicePixelRatio||1,2);canvas.width=Math.round(width*dpr);canvas.height=Math.round(height*dpr);if((!initialFit||autoFit)&&stage>=0)fit();drawSoon();}).observe(canvas);
  return {refresh};
 })();
